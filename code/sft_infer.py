@@ -246,9 +246,6 @@ def main():
 
         logger.info(f"{result}")
 
-        # count += 1
-        # if count == 500:
-        #     break
     print_accuray(results)
 
 
