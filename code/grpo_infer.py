@@ -367,17 +367,6 @@ def main():
             test_on_vllm("test", model_id, f"./outputs/{model_id}/checkpoint-{ck}")
             test_on_vllm("valid", model_id, f"./outputs/{model_id}/checkpoint-{ck}")
 
-    # ck = 7251
-    # checkpoint_path = f"./outputs/{model_id}/checkpoint-{ck}"
-    # additional_test_on_vllm(model_id, checkpoint_path, data_name="decay_sample_set", meta_name="meta.json", match_name="match_decay.json", results_name="results_decay_grpo.json")
-
-    # for ms in [0.5, 1.5, 3, 7]:
-    #     model_id = f"Qwen-Instruct/Qwen2.5-{ms}B-Instruct-merged"
-    #     ck = 5000
-    #     results = print_accuray(os.path.join(f"./results/{model_id}/checkpoint-{ck}", "eval_on_valid.json"))
-    #     print(model_id)
-    #     print(results)
-
 
 if __name__ == "__main__":
     main()
