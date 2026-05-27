@@ -1,0 +1,1203 @@
+{
+    "E00036371": {
+        "field": "生物",
+        "title": "经颅磁声电刺激影响大鼠工作记忆中局部场电位的相位幅值耦合分析",
+        "score": [
+            88,
+            75,
+            88
+        ],
+        "场景": "再评价",
+        "title_matched": "经颅磁声电刺激影响大鼠工作记忆中局部场电位的相位幅值耦合分析",
+        "abstract": " 经颅磁声电刺激是一种新型无创的神经调控手段，其利用超声与静磁场耦合作用产生的感应电场调节相应脑区神经节律振荡活动。本文旨在探讨经颅磁声电刺激对记忆过程中神经元集群信息传递与交流的影响。实验中，将20只健康成年维斯塔尔(Wistar)大鼠随机分为对照组(5只)和刺激组(15只)，对刺激组施加0.05～0.15 T、2.66～13.33 W/cm2的经颅磁声电刺激，对照组不施加刺激；采集大鼠执行T迷宫工作记忆任务中前额叶皮层的局部场电位信号，比较不同参数刺激组大鼠与对照组大鼠delta节律相位、theta节律相位与gamma节律幅值之间的耦合差异性。实验结果显示，刺激组delta节律与gamma节律的耦合强度明显低于对照组(P<0.05),theta节律与gamma节律的耦合强度明显高于对照组(P<0.05)；随着刺激参数的增加，delta节律与gamma节律、theta节律与gamma节律耦合程度分别呈现减小、增大的趋势。本文初步研究结果表明，经颅磁声电刺激能够抑制前额叶皮层中delta节律神经活动，增强theta节律与gamma节律振荡活动，从而促进了不同空间范围内神经元集群之间的信息交流与传递，这为进一步探索经颅磁声电刺激调节大脑记忆功能的作用机制奠定了基础。",
+        "pubt": 2022
+    },
+    "E00036372": {
+        "field": "生物",
+        "title": "Parallel emergence of stable and dynamic memory engrams in the hippocampus.",
+        "score": [
+            90,
+            96,
+            95
+        ],
+        "场景": "再评价",
+        "title_matched": "Parallel emergence of stable and dynamic memory engrams in the hippocampus",
+        "abstract": "During our daily life, we depend on memories of past experiences to plan future behaviour. These memories are represented by the activity of specific neuronal groups or 'engrams' 1,2 . Neuronal engrams are assembled during learning by synaptic modification, and engram reactivation represents the memorized experience 1 . Engrams of conscious memories are initially stored in the hippocampus for several days and then transferred to cortical areas 2 . In the dentate gyrus of the hippocampus, granule cells transform rich inputs from the entorhinal cortex into a sparse output, which is forwarded to the highly interconnected pyramidal cell network in hippocampal area CA3 3 . This process is thought to support pattern separation 4 (but see refs. <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,136.67,307.39,5.57,6.58\" target=\"#b4\">5,</ref> <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,142.24,307.39,2.78,6.58\" target=\"#b5\">6</ref> ). CA3 pyramidal neurons project to CA1, the hippocampal output region. Consistent with the idea of transient memory storage in the hippocampus, engrams in CA1 and CA2 do not stabilize over time 7-10 . Nevertheless, reactivation of engrams in the dentate gyrus can induce recall of artificial memories even after weeks 2 . Reconciliation of this apparent paradox will require recordings from dentate gyrus granule cells throughout learning, which has so far not been performed for more than a single day 6,11,12 . Here, we use chronic two-photon calcium imaging in head-fixed mice performing a multiple-day spatial memory task in a virtual environment to record neuronal activity in all major hippocampal subfields. Whereas pyramidal neurons in CA1-CA3 show precise and highly context-specific, but continuously changing, representations of the learned spatial sceneries in our behavioural paradigm, granule cells in the dentate gyrus have a spatial code that is stable over many days, with low place-or context-specificity. Our results suggest that synaptic weights along the hippocampal trisynaptic loop are constantly reassigned to support the formation of dynamic representations in downstream hippocampal areas based on a stable code provided by the dentate gyrus.",
+        "pubt": 2018.0
+    },
+    "E00036373": {
+        "field": "生物",
+        "title": "Coordination of entorhinal-hippocampal ensemble activity during associative learning.",
+        "score": [
+            90,
+            80,
+            86
+        ],
+        "场景": "再评价",
+        "title_matched": "Coordination of entorhinal-hippocampal ensemble activity during associative learning",
+        "abstract": "Author Contributions K.M.I., M.-B.M. and E.I.M. designed experiments and analyses; K.M.I. and L.L. performed the experiments; K.M.I. performed the majority of the analyses, with input from L.L.C, M.-B.M. and E.I.M.; K.M.I and E.I.M. wrote the paper with input from all authors.",
+        "pubt": 2014.0
+    },
+    "E00036374": {
+        "field": "生物",
+        "title": "Dopaminergic neurons promote hippocampal reactivation and spatial memory persistence.",
+        "score": [
+            92,
+            81,
+            90
+        ],
+        "场景": "再评价",
+        "title_matched": "Dopaminergic neurons promote hippocampal reactivation and spatial memory persistence",
+        "abstract": "We found that optogenetic burst stimulation of hippocampal dopaminergic fibers from midbrain neurons in mice exploring \nnovel environments enhanced the reactivation of pyramidal cell assemblies during subsequent sleep/rest. When applied \nduring spatial learning of new goal locations, dopaminergic photostimulation improved the later recall of neural \nrepresentations of space and stabilized memory performance. These findings reveal that midbrain dopaminergic neurons \npromote hippocampal network dynamics associated with memory persistence.",
+        "pubt": 2014.0
+    },
+    "E00036375": {
+        "field": "生物",
+        "title": "Projections from neocortex mediate top-down control of memory retrieval.",
+        "score": [
+            91,
+            92,
+            94
+        ],
+        "场景": "再评价",
+        "title_matched": "Projections from neocortex mediate top-down control of memory retrieval",
+        "abstract": "Hippocampus ×5 Anterior cingulate ×10 Anterior cingulate ×5 RV-tdT RV-tdT RV-tdT DAPI DAPI DAPI DAPI DAPI DAPI ^DAPI DAPI DAPI RV-tdT Dorsal hippocampus (-1.5 A/P, +1.75 M/L: -1.8 D/V)",
+        "pubt": NaN
+    },
+    "E00036376": {
+        "field": "生物",
+        "title": "Hippocampo-cortical coupling mediates memory consolidation during sleep.",
+        "score": [
+            88,
+            75,
+            86
+        ],
+        "场景": "再评价",
+        "title_matched": "Hippocampo-cortical coupling mediates memory consolidation during sleep",
+        "abstract": "Memory consolidation is thought to involve a hippocampo-cortical dialog during sleep to stabilize labile memory traces for long-term storage. However, direct evidence supporting this hypothesis is lacking. We dynamically manipulated the temporal coordination between the two structures during sleep following training on a spatial memory task specifically designed to trigger encoding, but not memory consolidation. Reinforcing the endogenous coordination between hippocampal sharp wave-ripples, cortical delta waves and spindles by timed electrical stimulation resulted in a reorganization of prefrontal cortical networks, along with subsequent increased prefrontal responsivity to the task and high recall performance on the next day, contrary to control rats, which performed at chance levels. Our results provide, to the best of our knowledge, the first direct evidence for a causal role of a hippocampo-cortical dialog during sleep in memory consolidation, and indicate that the underlying mechanism involves a fine-tuned coordination between sharp wave-ripples, delta waves and spindles.",
+        "pubt": 2016.0
+    },
+    "E00036401": {
+        "field": "生物",
+        "title": "基因编辑技术及其在疾病治疗中的研究进展",
+        "score": [
+            46,
+            27
+        ],
+        "场景": "再评价"
+    },
+    "E00036402": {
+        "field": "生物",
+        "title": "In？Vivo Target Gene Activation via CRISPR/Cas9-Mediated Trans-epigenetic Modulation.",
+        "score": [
+            82,
+            83
+        ],
+        "场景": "再评价",
+        "title_matched": "In Vivo Target Gene Activation via CRISPR/Cas9-Mediated Trans-epigenetic Modulation",
+        "abstract": "Highlights d A CRISPR/Cas9 system transcriptionally activates endogenous target genes in vivo d Recruiting the transcriptional machinery induces transepigenetic remodeling d Inducing target gene expression leads to physiological phenotypes in postnatal mammals d The system ameliorates symptoms associated with several mouse models of human diseases Authors",
+        "pubt": 2017.0
+    },
+    "E00036403": {
+        "field": "生物",
+        "title": "Regenerative medicine: targeted genome editing in vivo.",
+        "score": [
+            37,
+            36
+        ],
+        "场景": "再评价",
+        "title_matched": "Regenerative medicine: targeted genome editing in vivo",
+        "abstract": " The CRISPR/Cas system has proven to be a powerful gene editing tool both in vitro and in vivo. A recent flurry of studies of in vivo gene editing using the CRISPR/Cas system bring bright prospects in creating animal models and targeted gene therapy of human genetic diseases.",
+        "pubt": 2015.0
+    },
+    "E00036404": {
+        "field": "生物",
+        "title": "Search-and-replace genome editing without double-strand breaks or donor DNA.",
+        "score": [
+            95,
+            89
+        ],
+        "场景": "再评价",
+        "title_matched": "Search-and-replace genome editing without double-strand breaks or donor DNA",
+        "abstract": " Most genetic variants that contribute to disease1 are challenging to correct efficiently and without excess byproducts2–5. Here we describe prime editing, a versatile and precise genome editing method that directly writes new genetic information into a specified DNA site using a catalytically impaired Cas9 endonuclease fused to an engineered reverse transcriptase, programmed with a prime editing guide RNA (pegRNA) that both specifies the target site and encodes the desired edit. We performed more than 175 edits in human cells, including targeted insertions, deletions, and all 12 types of point mutation, without requiring double-strand breaks or donor DNA templates. We used prime editing in human cells to correct, efficiently and with few byproducts, the primary genetic causes of sickle cell disease (requiring a transversion in HBB) and Tay–Sachs disease (requiring a deletion in HEXA); to install a protective transversion in PRNP; and to insert various tags and epitopes precisely into target loci. Four human cell lines and primary post-mitotic mouse cortical neurons support prime editing with varying efficiencies. Prime editing shows higher or similar efficiency and fewer byproducts than homology-directed repair, has complementary strengths and weaknesses compared to base editing, and induces much lower off target editing than Cas9 nuclease at known Cas9 off-target sites. Prime editing substantially expands the scope and capabilities of genome editing, and in principle could correct up to 89% of known genetic variants associated with human diseases.",
+        "pubt": 2019.0
+    },
+    "E00036405": {
+        "field": "生物",
+        "title": "Implications of human genetic variation in CRISPR-based therapeutic genome editing.",
+        "score": [
+            76,
+            84
+        ],
+        "场景": "再评价",
+        "title_matched": "Implications of human genetic variation in CRISPR-based therapeutic genome editing",
+        "abstract": "CRISPR-Cas genome-editing methods hold immense potential as therapeutic tools to fix disease-causing mutations at the level of DNA. In contrast to typical drug development strategies aimed at targets that are highly conserved among individual patients, treatment at the genomic level must contend with substantial inter-individual natural genetic variation. Here we analyze the recently released ExAC and 1000 Genomes data sets to determine how human genetic variation impacts target choice for Cas endonucleases in the context of therapeutic genome editing. We find that this genetic variation confounds the target sites of certain Cas endonucleases more than others, and we provide a compendium of guide RNAs predicted to have high efficacy in diverse patient populations. For further analysis, we focus on 12 therapeutically relevant genes and consider how genetic variation affects off-target candidates for these loci. Our analysis suggests that, in large populations of individuals, most candidate off-target sites will be rare, underscoring the need for prescreening of patients through whole-genome sequencing to ensure safety. This information can be integrated with empirical methods for guide RNA selection into a framework for designing CRISPR-based therapeutics that maximizes efficacy and safety across patient populations.",
+        "pubt": 2017
+    },
+    "E00036406": {
+        "field": "生物",
+        "title": "Applications of CRISPR technologies in research and beyond.",
+        "score": [
+            80,
+            37
+        ],
+        "场景": "再评价",
+        "title_matched": "Applications of CriSPr technologies in research and beyond",
+        "abstract": "Programmable DNA cleavage using CRISPR-Cas9 enables efficient, site-specific genome engineering in single cells and whole organisms. In the research arena, versatile CRISPR-enabled genome editing has been used in various ways, such as controlling transcription, modifying epigenomes, conducting genome-wide screens and imaging chromosomes. CRISPR systems are already being used to alleviate genetic disorders in animals and are likely to be employed soon in the clinic to treat human diseases of the eye and blood. Two clinical trials using CRISPR-Cas9 for targeted cancer therapies have been approved in China and the United States. Beyond biomedical applications, these tools are now being used to expedite crop and livestock breeding, engineer new antimicrobials and control disease-carrying insects with gene drives.",
+        "pubt": 2016.0
+    },
+    "E00036431": {
+        "field": "生物",
+        "title": "生物凝聚态物质的多层次结构表征",
+        "score": [
+            19,
+            40,
+            15
+        ],
+        "场景": "再评价",
+        "title_matched": "生物凝聚态物质的多层次结构表征",
+        "abstract": "在生物体内到处都是由蛋白质、核酸和多糖等生物大分子构成的各种不同生物凝聚态物质,这些生物凝聚态物质形成不同的高级结构,执行不同的生物功能。获取这些生物凝聚态物质的高分辨结构是理解生命过程的重要途径。在离体环境中,获取高分辨结构的手段主要有X-射线晶体衍射、冷冻电镜和核磁共振等,而在活细胞内原位研究生物凝聚体的结构,核磁共振和化学交联质谱具有独特优势。本文总结了利用多种分析手段对生物凝聚态物质进行多层次结构表征的研究进展:包括简单纯化体系下的蛋白质分子机器,蛋白质纤维等;液-液相分离,大分子拥挤、限域等模拟细胞复杂环境下的生物大分子以及活细胞内生物大分子。",
+        "pubt": 2020
+    },
+    "E00036432": {
+        "field": "生物",
+        "title": "Single-molecule FRET imaging of GPCR dimers in living cells.",
+        "score": [
+            86,
+            90,
+            85
+        ],
+        "场景": "再评价",
+        "title_matched": "Single-molecule FRET imaging of GPCR dimers in living cells",
+        "abstract": "Peer review information Rita Strack was the primary editor on this article and managed its editorial process and peer review in collaboration with the rest of the editorial team. Nature Methods thanks Emanuel Margeat, Michael Börsch, and the other, anonymous reviewer for their contribution to the peer review of this work.",
+        "pubt": 2021.0
+    },
+    "E00036433": {
+        "field": "生物",
+        "title": "Exploring protein-protein interactions with large differences in protein expression levels using FLIM-FRET.",
+        "score": [
+            70,
+            67,
+            70
+        ],
+        "场景": "再评价",
+        "title_matched": "Exploring protein-protein interactions with large differences in protein expression levels using FLIM-FRET",
+        "abstract": "Many molecular processes within a cell are carried out by molecular machines built from a large number of proteins organized by their protein-protein interactions (PPIs). Exploring PPIs in their cellular context is critical to better understand the proteins functions. Förster resonance energy transfer measured by fluorescence lifetime imaging (FLIM-FRET) enables to monitor PPIs and to map their spatial organization in a living cell with high spatial and temporal specificity. But both the accurate measurement and the interpretation of multi-exponential FLIM-FRET data associated to mixtures of interacting and non-interacting proteins are difficult. Here we show that a simple diagram plot can find interesting visualization properties by clustering pixels with similar decay signatures. FLIM diagram plot can be used to provide valuable information about stoichiometry and binding mode in PPIs, even in the presence of large differences in protein expression levels of the different interacting partners. The proposed FLIM diagram plot is a useful visual approach for a more straightforward interpretation of complex lifetime data. This approach was applied for revealing critical features of PPIs in live Pseudomonas aeruginosa.",
+        "pubt": 2019
+    },
+    "E00036434": {
+        "field": "生物",
+        "title": "A dynamic hydrophobic core orchestrates allostery in protein kinases.",
+        "score": [
+            85,
+            85,
+            85
+        ],
+        "场景": "再评价",
+        "title_matched": "A dynamic hydrophobic core orchestrates allostery in protein kinases",
+        "abstract": "Eukaryotic protein kinases (EPKs) constitute a class of allosteric switches that mediate a myriad of signaling events. It has been postulated that EPKs' active and inactive states depend on the structural architecture of their hydrophobic cores, organized around two highly conserved spines: C-spine and R-spine. How the spines orchestrate the transition of the enzyme between catalytically uncommitted and committed states remains elusive. Using relaxation dispersion nuclear magnetic resonance spectroscopy, we found that the hydrophobic core of the catalytic subunit of protein kinase A, a prototypical and ubiquitous EPK, moves synchronously to poise the C subunit for catalysis in response to binding adenosine 5′-triphosphate. In addition to completing the C-spine, the adenine ring fuses the b structures of the N-lobe and the C-lobe. Additional residues that bridge the two spines (I150 and V104) are revealed as part of the correlated hydrophobic network; their importance was validated by mutagenesis, which led to inactivation. Because the hydrophobic architecture of the catalytic core is conserved throughout the EPK superfamily, the present study suggests a universal mechanism for dynamically driven allosteric activation of kinases mediated by coordinated signal transmission through ordered motifs in their hydrophobic cores.",
+        "pubt": 2017.0
+    },
+    "E00036435": {
+        "field": "生物",
+        "title": "FRET analysis of CP12 structural interplay by GAPDH and PRK.",
+        "score": [
+            23,
+            25,
+            30
+        ],
+        "场景": "再评价",
+        "title_matched": "FRET analysis of CP12 structural interplay by GAPDH and PRK",
+        "abstract": "CP12 is an intrinsically disordered protein playing a key role in the regulation of the BensoneCalvin cycle. Due to the high intrinsic flexibility of CP12, it is essential to consider its structural modulation induced upon binding to the glyceraldehyde-3-phosphate dehydrogenase (GAPDH) and phosphoribulokinase (PRK) enzymes. Here, we report for the first time detailed structural modulation about the wild-type CP12 and its site-specific N-terminal and C-terminal disulfide bridge mutants upon interaction with GAPDH and PRK by F€ orster resonance energy transfer (FRET). Our results indicate an increase in CP12 compactness when the complex is formed with GAPDH or PRK. In addition, the distributions in FRET histograms show the elasticity and conformational flexibility of CP12 in all supra molecular complexes. Contrarily to previous beliefs, our FRET results importantly reveal that both N-terminal and C-terminal site-specific CP12 mutants are able to form the monomeric (GAPDH-CP12-PRK) complex.",
+        "pubt": 2015.0
+    },
+    "E00036436": {
+        "field": "生物",
+        "title": "High-throughput fluorescence correlation spectroscopy enables analysis of proteome dynamics in living cells.",
+        "score": [
+            99,
+            95,
+            90
+        ],
+        "场景": "再评价",
+        "title_matched": "High-throughput fluorescence correlation spectroscopy enables analysis of proteome dynamics in living cells",
+        "abstract": "To understand the function of cellular protein networks, spatial and temporal context is essential. Fluorescence correlation spectroscopy (FCS) is a single-molecule method to study the abundance, mobility and interactions of fluorescence-labeled biomolecules in living cells. However, manual acquisition and analysis procedures have restricted live-cell FCS to short-term experiments of a few proteins. Here, we present high-throughput (HT)-FCS, which automates screening and time-lapse acquisition of FCS data at specific subcellular locations and subsequent data analysis 1,2 . We demonstrate its utility by studying the dynamics of 53 nuclear proteins <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,74.20,370.83,6.89,6.42\" target=\"#b2\">3,</ref> <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,81.09,370.83,3.45,6.42\" target=\"#b3\">4</ref> . We made 60,000 measurements in 10,000 living human cells, to obtain biophysical parameters that allowed us to classify proteins according to their chromatin binding and complex formation. We also analyzed the cell-cycle-dependent dynamics of the mitotic kinase complex Aurora B/INCENP 5 and showed how a rise in Aurora concentration triggers two-step complex formation. We expect that throughput and robustness will make HT-FCS a broadly applicable technology for characterizing protein network dynamics in cells.",
+        "pubt": 2014.0
+    },
+    "E00036421": {
+        "field": "生物",
+        "title": "利用人体携带植物基因信息推断居住地",
+        "score": [
+            65,
+            26
+        ],
+        "场景": "再评价",
+        "title_matched": "利用人体携带植物基因信息推断居住地",
+        "abstract": "目的利用从未知名死者肺组织中获取的植物花粉基因序列鉴定植物种类,再根据植物的分布区域推断死者可能长期生活的地区,缩小侦查范围,为案件侦破提供线索。方法提取死者肺组织,采用mCTAB 法提取总DNA,利用专一扩增matK和rbcL 的引物获取这两个植物DNA 条形码的基因片段并测定基因序列,经生物信息学分析得到目的基因片段的DNA序列,将这些序列与参考序列数据合并,进行系统发育分析,确定所获取的 DNA 序列所属的物种,根据物种的分布信息推断死者生前可能长期生活的地区。结果该死者肺组织中存在27科31属32种植物的基因片段,其中有一定指示作用的9个属的植物大多为海南、广东、广西和云南的特有植物,表明死者生前可能长期在这些地区居住。经调查,死者生前于广西南部某县长期生活,与上述研究结果相符。结论利用人体肺组织内所携带植物的基因信息推断居住地的方法,可以辅助推断死者生前的长期居住地,为无名尸案件的尸源查找提供了新的思路。",
+        "pubt": NaN
+    },
+    "E00036422": {
+        "field": "生物",
+        "title": "Barcoding the kingdom Plantae: new PCR primers for ITS regions of plants with improved universality and specificity.",
+        "score": [
+            73,
+            70
+        ],
+        "场景": "再评价",
+        "title_matched": "Barcoding the kingdom Plantae: new PCR primers for ITS regions of plants with improved universality and specificity",
+        "abstract": "The internal transcribed spacer (ITS) of nuclear ribosomal DNA is one of the most commonly used DNA markers in plant phylogenetic and DNA barcoding analyses, and it has been recommended as a core plant DNA barcode. Despite this popularity, the universality and specificity of PCR primers for the ITS region are not satisfactory, resulting in amplification and sequencing difficulties. By thoroughly surveying and analysing the 18S, 5.8S and 26S sequences of Plantae and Fungi from GenBank, we designed new universal and plant-specific PCR primers for amplifying the whole ITS region and a part of it (ITS1 or ITS2) of plants. In silico analyses of the new and the existing ITS primers based on these highly representative data sets indicated that (i) the newly designed universal primers are suitable for over 95% of plants in most groups; and (ii) the plant-specific primers are suitable for over 85% of plants in most groups without amplification of fungi. A total of 335 samples from 219 angiosperm families, 11 gymnosperm families, 24 fern and lycophyte families, 16 moss families and 17 fungus families were used to test the performances of these primers. In vitro PCR produced similar results to those from the in silico analyses. Our new primer pairs gave PCR improvements up to 30% compared with common-used ones. The new universal ITS primers will find wide application in both plant and fungal biology, and the new plant-specific ITS primers will, by eliminating PCR amplification of nonplant templates, significantly improve the quality of ITS sequence information collections in plant molecular systematics and DNA barcoding.",
+        "pubt": 2015.0
+    },
+    "E00036423": {
+        "field": "生物",
+        "title": "V.PhyloMaker2: An updated and enlarged R package that can generate very large phylogenies for vascular plants.",
+        "score": [
+            82,
+            72
+        ],
+        "场景": "再评价",
+        "title_matched": "V.PhyloMaker2: An updated and enlarged R package that can generate very large phylogenies for vascular plants",
+        "abstract": "An earlier version of V.PhyloMaker has been broadly used to generate phylogenetic trees of vascular plants for botanical, biogeographical and ecological studies. Here, we update and enlarge this package, which is now called 'V.PhyloMaker2'. With V.PhyloMaker2, one can generate a phylogenetic tree for vascular plants based on one of three different botanical nomenclature systems. V.PhyloMaker2 can generate phylogenies for very large species lists (the largest species list that we tested included 365,198 species). V.PhyloMaker2 generates phylogenies at a fast speed. We provide an example (including a sample species list and an R script to run it) in this paper to show how to use V.PhyloMaker2 to generate phylogenetic trees.",
+        "pubt": 2022.0
+    },
+    "E00036424": {
+        "field": "生物",
+        "title": "Database Taxonomics as Key to Modern Plant Biology.",
+        "score": [
+            36,
+            44
+        ],
+        "场景": "再评价",
+        "title_matched": "Database Taxonomics as Key to Modern Plant Biology",
+        "abstract": "The advent of omic technologies has opened new and diverse avenues for accessing higher levels of biological complexity. Taxonomy — the science of discovering and naming biodiversity — has now entered a new era, referred to as \"taxonomics.\" In this new context, taxonomy functions not only as a tool for naming biological diversity, but also as a means to deeply explore biological knowledge and to build bridges across scientific disciplines.",
+        "pubt": 2010.0
+    },
+    "E00036425": {
+        "field": "生物",
+        "title": "Predicting plant conservation priorities on a global scale.",
+        "score": [
+            96,
+            94
+        ],
+        "场景": "再评价",
+        "title_matched": "Predicting plant conservation priorities on a global scale",
+        "abstract": "The conservation status of most plant species remains unknown, despite the crucial role that plants play in maintaining ecosystem health. To support and expedite the costly and time-consuming process of conservation assessment, we developed a predictive protocol based on machine learning, aimed at estimating the conservation status of over 150,000 land plant species. This study leverages open-source data related to geography, environment, and morphological traits, making it not only the largest assessment of conservation risk for plants to date but also the only global-scale evaluation. Our results suggest that a significant number of currently unassessed species are likely at risk. Additionally, we identify several geographic regions that require urgent conservation efforts—many of which have not yet been recognized as areas of global concern. By delivering conservation-relevant predictions across various spatial and taxonomic levels, the predictive framework developed in this study addresses a critical need in biodiversity science.",
+        "pubt": 2018.0
+    },
+    "E00036426": {
+        "field": "生物",
+        "title": "The World Checklist of Vascular Plants, a continuously updated resource for exploring global plant diversity.",
+        "score": [
+            45,
+            47
+        ],
+        "场景": "再评价",
+        "title_matched": "the World Checklist of Vascular Plants, a continuously updated resource for exploring global plant diversity",
+        "abstract": "The World Checklist of Vascular Plants (WCVP) is a comprehensive list of scientifically described plant species, compiled over four decades, from peer-reviewed literature, authoritative scientific databases, herbaria and observations, then reviewed by experts. It is a vital tool to facilitate plant diversity research, conservation and effective management, including sustainable use and equitable sharing of benefits. To maximise utility, such lists should be accessible, explicitly evidence-based, transparent, expert-reviewed, and regularly updated, incorporating new evidence and emerging scientific consensus. WCVP largely meets these criteria, being continuously updated and freely available online. Users can browse, search, or download a user-defined subset of accepted species with corresponding synonyms and bibliographic details, or a date-stamped full dataset. to facilitate appropriate data reuse by individual researchers and global initiatives including Global Biodiversity Information Facility, Catalogue of Life and World Flora Online, we document data collation and review processes, the underlying data structure, and the international data standards and technical validation that ensure data quality and integrity. We also address the questions most frequently received from users.",
+        "pubt": 2021.0
+    },
+    "E00036411": {
+        "field": "生物",
+        "title": "动态调控策略在代谢工程中的应用研究进展",
+        "score": [
+            55,
+            36,
+            39
+        ],
+        "场景": "再评价"
+    },
+    "E00036412": {
+        "field": "生物",
+        "title": "Metabolome analysis revealed the knockout of glyoxylate shunt as an effective strategy for improvement of 1-butanol production in transgenic Escherichia coli.",
+        "score": [
+            55,
+            44,
+            45
+        ],
+        "场景": "再评价",
+        "title_matched": "Metabolome analysis revealed the knockout of glyoxylate shunt as an effective strategy for improvement of 1-butanol production in transgenic Escherichia coli",
+        "abstract": "High 1-butanol titer has been achieved in a transgenic Escherichia coli strain JCL299FT with a heterologous 1-butanol pathway by deleting competing pathways, balancing of cofactor and resolving free CoA imbalance. However, further improvement of 1-butanol production is still possible in the highest producing strain JCL299FT as indicated by the accumulation of acetate, a major undesired by-product during bio-production by microorganisms that competes with 1butanol production for the available acetyl-CoA and inhibits protein synthesis resulting in poor growth. In this study, liquid chromatography/tandem mass spectrometry (LC/MS/MS)-based metabolome analysis was performed to identify new rate limiting steps in the 1-butanol production pathway of E. coli strain JCL299FT. The results of metabolome analysis showed increased amounts of glyoxylate in JCL299FT compared to the previous highest-producing strain JCL299F. Knocking out aceA successfully decreased the amount of glyoxylate and reduced acetate accumulation, resulting in the increased levels of TCA cycle and 1-butanol pathway metabolites. These observations indicated that there was a redirection of flux from acetate to TCA cycle and 1-butanol producing pathway, which led to better growth of the 1-butanol producing strain. Consequently, 1-butanol production titer was improved by 39% and the production yield was improved by 12% in M9 medium supplemented with yeast extract. This study is the first report of using the knockout of aceA, the first gene in the glyoxylate shunt that encodes isocitrate lyase, as an effective strategy to reduce acetate overflow in 1-butanol producing E. coli.",
+        "pubt": 2018.0
+    },
+    "E00036413": {
+        "field": "生物",
+        "title": "Engineering nonphosphorylative metabolism to generate lignocellulose-derived products.",
+        "score": [
+            88,
+            97,
+            87
+        ],
+        "场景": "再评价",
+        "title_matched": "engineering nonphosphorylative metabolism to generate lignocellulose-derived products",
+        "abstract": "Conversion of lignocellulosic biomass into value-added products provides important environmental and economic benefits. Here we report the engineering of an unconventional metabolism for the production of tricarboxylic acid (TCA)-cycle derivatives from D-xylose, L-arabinose and D-galacturonate. We designed a growth-based selection platform to identify several gene clusters functional in Escherichia coli that can perform this nonphosphorylative assimilation of sugars into the TCA cycle in less than six steps. To demonstrate the application of this new metabolic platform, we built artificial biosynthetic pathways to 1,4-butanediol (BDO) with a theoretical molar yield of 100%. By screening and engineering downstream pathway enzymes, 2-ketoacid decarboxylases and alcohol dehydrogenases, we constructed E. coli strains capable of producing BDO from D-xylose, L-arabinose and D-galacturonate. The titers, rates and yields were higher than those previously reported using conventional pathways. This work demonstrates the potential of nonphosphorylative metabolism for biomanufacturing with improved biosynthetic efficiencies.",
+        "pubt": 2016.0
+    },
+    "E00036414": {
+        "field": "生物",
+        "title": "An engineered pathway for the biosynthesis of renewable propane.",
+        "score": [
+            90,
+            93,
+            85
+        ],
+        "场景": "再评价",
+        "title_matched": "An engineered pathway for the biosynthesis of renewable propane",
+        "abstract": "The deployment of next-generation renewable biofuels can be enhanced by improving their compatibility with the current infrastructure for transportation, storage and utilization. Propane, the bulk component of liquid petroleum gas, is an appealing target as it already has a global market. In addition, it is a gas under standard conditions, but can easily be liquefied. This allows the fuel to immediately separate from the biocatalytic process after synthesis, yet does not preclude energy-dense storage as a liquid. Here we report, for the first time, a synthetic metabolic pathway for producing renewable propane. The pathway is based on a thioesterase specific for butyryl-acyl carrier protein (ACP), which allows native fatty acid biosynthesis of the Escherichia coli host to be redirected towards a synthetic alkane pathway. Propane biosynthesis is markedly stimulated by the introduction of an electron-donating module, optimizing the balance of O 2 supply and removal of native aldehyde reductases.",
+        "pubt": 2014.0
+    },
+    "E00036415": {
+        "field": "生物",
+        "title": "Direct 1,3-butadiene biosynthesis in Escherichia coli via a tailored ferulic acid decarboxylase mutant.",
+        "score": [
+            75,
+            76,
+            83
+        ],
+        "场景": "再评价",
+        "title_matched": "Direct 1,3-butadiene biosynthesis in Escherichia coli via a tailored ferulic acid decarboxylase mutant",
+        "abstract": "The C4 unsaturated compound 1,3-butadiene is an important monomer in synthetic rubber and engineering plastic production. However, microorganisms cannot directly produce 1,3butadiene when glucose is used as a renewable carbon source via biological processes. In this study, we construct an artificial metabolic pathway for 1,3-butadiene production from glucose in Escherichia coli by combining the cis,cis-muconic acid (ccMA)-producing pathway together with tailored ferulic acid decarboxylase mutations. The rational design of the substratebinding site of the enzyme by computational simulations improves ccMA decarboxylation and thus 1,3-butadiene production. We find that changing dissolved oxygen (DO) levels and controlling the pH are important factors for 1,3-butadiene production. Using DO-stat fedbatch fermentation, we produce 2.13 ± 0.17 g L -1 1,3-butadiene. The results indicate that we can produce unnatural/nonbiological compounds from glucose as a renewable carbon source via a rational enzyme design strategy.",
+        "pubt": 2021.0
+    },
+    "E00036416": {
+        "field": "生物",
+        "title": "Improving fatty acids production by engineering dynamic pathway regulation and metabolic control.",
+        "score": [
+            83,
+            70,
+            72
+        ],
+        "场景": "再评价",
+        "title_matched": "Improving fatty acids production by engineering dynamic pathway regulation and metabolic control",
+        "abstract": "Global energy demand and environmental concerns have stimulated increasing efforts to produce carbon-neutral fuels directly from renewable resources. Microbially derived aliphatic hydrocarbons, the petroleum-replica fuels, have emerged as promising alternatives to meet this goal. However, engineering metabolic pathways with high productivity and yield requires dynamic redistribution of cellular resources and optimal control of pathway expression. Here we report a genetically encoded metabolic switch that enables dynamic regulation of fatty acids (FA) biosynthesis in Escherichia coli. The engineered strains were able to dynamically compensate the critical enzymes involved in the supply and consumption of malonyl-CoA and efficiently redirect carbon flux toward FA biosynthesis. Implementation of this metabolic control resulted in an oscillatory malonyl-CoA pattern and a balanced metabolism between cell growth and product formation, yielding 15.7- and 2.1-fold improvement in FA titer compared with the wild-type strain and the strain carrying the uncontrolled metabolic pathway. This study provides a new paradigm in metabolic engineering to control and optimize metabolic pathways facilitating the high-yield production of other malonyl-CoA-derived compounds.",
+        "pubt": 2014
+    },
+    "E00036361": {
+        "field": "生物",
+        "title": "植物感知和传递低温信号的分子机制",
+        "score": [
+            40,
+            42
+        ],
+        "场景": "再评价",
+        "title_matched": "植物感知和传递低温信号的分子机制",
+        "abstract": "低温胁迫是影响植物生长、发育及作物产量的重要环境胁迫之一。植物通过感知低温信号并快速启动低温应答，以降低低温胁迫对其损伤。近年来，低温潜在感受器和低温调控网络逐渐被解析。植物可以在多个层面感知低温信号，但具体机制依然不清楚。当植物感知低温信号后，一些低温诱导的次级信号分子（如钙离子和活性氧）被植物解码并传递，以激活下游低温应答基因表达。同时，蛋白翻译后修饰可调控蛋白活性和稳定性，在植物早期低温信号传递中起关键作用。本文重点阐述植物感知和传递低温早期信号的分子机制，并讨论和展望低温胁迫领域面临的挑战及研究方向。",
+        "pubt": 2023
+    },
+    "E00036362": {
+        "field": "生物",
+        "title": "The Arabidopsis RING Domain Protein BOI Inhibits Flowering via CO-dependent and CO-independent Mechanisms.",
+        "score": [
+            77,
+            80
+        ],
+        "场景": "再评价",
+        "title_matched": "The Arabidopsis RING Domain Protein BOI Inhibits Flowering via CO-dependent and CO-independent Mechanisms",
+        "abstract": "BOTRYTIS SUSCEPTIBLE1 INTERACTOR (BOI) and its three homologs (BOIs) are RING domain-containing proteins that repress flowering. Here, we investigated how BOIs repress flowering. Genetic analysis of the boiQ quadruple mutant indicates that BOIs repress flowering mainly through FLOWERING LOCUS T (FT). BOIs repress the expression of FT by CONSTANS (CO)-dependent and -independent mechanisms: in the CO-dependent mechanism, BOIs bind to CO, inhibit the targeting of CO to the FT locus, and thus repress the expression of FT; in the CO-independent mechanism, BOIs target the FT locus via a mechanism that requires DELLAs but not CO. This dual repression of FT makes BOIs strong repressors of flowering in both CO-dependent and CO-independent pathways in Arabidopsis thaliana. Our finding that BOIs inhibit CO targeting further suggests that, in addition to modulating CO mRNA expression and CO protein stability, flowering regulation can also modulate the targeting of CO to FT.",
+        "pubt": 2015.0
+    },
+    "E00036363": {
+        "field": "生物",
+        "title": "CONSTANS-like 9 (COL9) delays the flowering time in Oryza sativa by repressing the Ehd1 pathway.",
+        "score": [
+            59,
+            60
+        ],
+        "场景": "再评价",
+        "title_matched": "CONSTANS-like 9 (COL9) delays the flowering time in Oryza sativa by repressing the Ehd1 pathway",
+        "abstract": "Flowering or heading is one of most important agronomic traits in rice. It has been characterized that CONSTANS (CO) and CONSTANS-like (COL) proteins are critical flowering regulators in response to photoperiodic stress in plants. We have previously identified that the COL family member OsCOL9 can positively enhance the rice blast resistance. In the present study, we aimed to explore the functional role of OsCOL9 in modulating the photoperiodic flowering. Our data showed that overexpression of OsCOL9 delayed the flowering time under both short-day (SD) and long-day (LD) conditions, leading to suppressed expressions of EHd1, RFT and Hd3a at the mRNA Level. OsCOL9 expression exhibited two types of circadian patterns under different daylight conditions, and it could delay the heading date by suppressing the Ehd1 photoperiodic flowering pathway. In contrast, the expressions of previously reported flowering regulators were not significantly changed in OsCOL9 transgenic plants, indicating that OsCOL9 functioned independently of other flowering pathways. In addition, OsCOL9 served as a potential yield gene, and its deficiency reduced the grain number of main panicle in plants. Furthermore, yeast two-hybrid assay indicated that OsCOL9 physically interacted with Receptor for Activated C-kinase 1 (OsRACK1). Rhythmic pattern analysis suggested that OsRACK1 responded to the change of daylight, which was regulated by the circadian clock. Taken together, our results revealed that OsCOL9 could delay the flowering time in rice by repressing the Ehd1 pathway.",
+        "pubt": 2016.0
+    },
+    "E00036364": {
+        "field": "生物",
+        "title": "A PIF7-CONSTANS-Centered Molecular Regulatory Network Underlying Shade-Accelerated Flowering.",
+        "score": [
+            79,
+            80
+        ],
+        "场景": "再评价",
+        "title_matched": "Journal Pre-proof A PIF7-CONSTANS-Centered Molecular Regulatory Network Underlying the Shade-Accelerated Flowering",
+        "abstract": "This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition of a cover page and metadata, and formatting for readability, but it is not yet the definitive version of record. This version will undergo additional copyediting, typesetting and review before it is published in its final form, but we are providing this version to give early visibility of the article. Please note that, during the production process, errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.",
+        "pubt": 2019.0
+    },
+    "E00036365": {
+        "field": "生物",
+        "title": "OsHAL3, a Blue Light-Responsive Protein, Interacts with the Floral Regulator Hd1 to Activate Flowering in Rice.",
+        "score": [
+            77,
+            78
+        ],
+        "场景": "再评价",
+        "title_matched": "OsHAL3, a Blue Light-Responsive Protein, Interacts with the Floral Regulator Hd1 to Activate Flowering in Rice",
+        "abstract": "In flowering plants, photoperiodic flowering is controlled by a complicated network. Light is one of the most important environmental stimuli that control the timing of the transition from vegetative growth to reproductive development. Several photoreceptors, including PHYA, PHYB, CRY2, and FKF1 in Arabidopsis and their homologs (OsPHYA, OsPHYB, OsPHYC, and OsCRY2) in rice, have been identified to be related to flowering. Our previous study suggests that OsHAL3, a flavin mononucleotide-binding protein, may function as a blue-light sensor. Here, we report the identification of OsHAL3 as a positive regulator of flowering in rice. OsHAL3 overexpression lines exhibited an early flowering phenotype, whereas downregulation of OsHAL3 expression by RNA interference delayed flowering under an inductive photoperiod (short-day conditions). The change in flowering time was not accompanied by altered Hd1 expression but rather by reduced accumulation of Hd3a and MADS14 transcripts. OsHAL3 and Hd1 colocalized in the nucleus and physically interacted in vivo under the dark, whereas their interaction was inhibited by white or blue light. Moreover, OsHAL3 directly bound to the promoter of Hd3a, especially before dawn. We conclude that OsHAL3, a novel light-responsive protein, plays an essential role in photoperiodic control of flowering time in rice, which is probably mediated by forming a complex with Hd1. Our findings open up new perspectives on the photoperiodic flowering pathway.",
+        "pubt": 2015
+    },
+    "E00036366": {
+        "field": "生物",
+        "title": "Decentralized circadian clocks process thermal and photoperiodic cues in specific tissues.",
+        "score": [
+            86,
+            86
+        ],
+        "场景": "再评价",
+        "title_matched": "Decentralized circadian clocks process thermal and photoperiodic cues in specific tissues",
+        "abstract": "The circadian clock increases organisms' fitness by regulating physiological responses1. In mammals, the circadian clock in the suprachiasmatic nucleus (SCN) governs daily behavioural rhythms2. Similarly, in Arabidopsis, tissue-specific circadian clock functions have emerged, and the importance of the vasculature clock for photoperiodic flowering has been demonstrated3–5. However, it remains unclear if the vasculature clock regulates the majority of physiological responses, like the SCN in mammals, and if other environmental signals are also processed by the vasculature clock. Here, we studied the involvement of tissue-specific circadian clock regulation of flowering and cell elongation under different photoperiods and temperatures. We found that the circadian clock in vascular phloem companion cells is essential for photoperiodic flowering regulation; by contrast, the epidermis has a crucial impact on ambient temperature-dependent cell elongation. Thus, there are clear assignments of roles among circadian clocks in each tissue. Our results reveal that, unlike the more centralized circadian clock in mammals, the plant circadian clock is decentralized, where each tissue specifically processes individual environmental cues and regulates individual physiological responses. Our new conceptual framework will be a starting point for deciphering circadian clock functions in each tissue, which will lead to a better understanding of how circadian clock processing of environmental signals may be affected by ongoing climate change6.",
+        "pubt": 2015
+    },
+    "E00036391": {
+        "field": "生物",
+        "title": "miR-223-3p靶向上皮细胞转化序列2基因调控胃癌细胞周期和凋亡的相关性研究",
+        "score": [
+            40
+        ],
+        "场景": "再评价"
+    },
+    "E00036392": {
+        "field": "生物",
+        "title": "Conserved pan-cancer microenvironment subtypes predict response to immunotherapy.",
+        "score": [
+            95
+        ],
+        "场景": "再评价",
+        "title_matched": "Conserved pan-cancer microenvironment subtypes predict response to immunotherapy",
+        "abstract": "Highlights d Development of a holistic transcriptomic-based TME classification platform d Detection of four immune/fibrotic TME subtypes conserved in a broad array of cancers d The four TME subtypes are predictive of response to immunotherapy in multiple cancers d Integration of genomics and transcriptomics into a visual tool with a planetary view Authors",
+        "pubt": 2021.0
+    },
+    "E00036393": {
+        "field": "生物",
+        "title": "Microenvironment Analysis of Prognosis and Molecular Signature of Immune-Related Genes in Lung Adenocarcinoma.",
+        "score": [
+            45
+        ],
+        "场景": "再评价",
+        "title_matched": "Microenvironment Analysis of Prognosis and Molecular Signature of Immune-Related Genes in Lung Adenocarcinoma",
+        "abstract": "There is growing evidence on the clinical significance of tumor microenvironment (TME) cells in predicting prognosis and therapeutic effects. However, cell interactions in tumor microenvironments have not been thoroughly studied or systematically analyzed so far. In this study, 22 immune cell components in the lung adenocarcinoma (LUAD) TME were analyzed using gene expression profile from The Cancer Genome Atlas (TCGA) and Gene Expression Omnibus (GEO). The TME-based molecular subtypes of LUAD were defined to evaluate further the relationship between molecular subtypes, prognosis, and clinical characteristics. A TME risk score model was constructed by using the differentially expressed genes (DEGs) of molecular subtypes. The relationship between the TME score and clinical characteristics and genomic mutations was compared to identify the genes that have significant associations with the TME. The comprehensive analysis of the TME characteristics may be helpful in revealing the response of LUAD patients to immunotherapy, providing a new strategy for immunotherapy.",
+        "pubt": 2021.0
+    },
+    "E00036394": {
+        "field": "生物",
+        "title": "Diversity in cancer invasion phenotypes indicates specific stroma regulated programs.",
+        "score": [
+            30
+        ],
+        "场景": "再评价",
+        "title_matched": "Diversity in cancer invasion phenotypes indicates specific stroma regulated programs",
+        "abstract": "Tumor dissemination into the surrounding stroma is the initial step in a metastatic cascade. Invasion into stroma is a nonautonomous process for cancer, and its progression depends upon the stage of cancer, as well as the cells residing in the stroma. However, a systems framework to understand how stromal fibroblasts resist, collude, or aid cancer invasion has been lacking, limiting our understanding of the role of stromal biology in cancer metastasis. We and others have shown that gene perturbation in stromal fibroblasts can modulate cancer invasion into the stroma, highlighting the active role stroma plays in regulating its own invasion. However, cancer invasion into stroma is a complex higher-order process and consists of various sub-phenotypes that together can result in an invasion. Stromal invasion exhibits a diversity of modalities in vivo. It is not well understood if these diverse modalities are correlated, or they emanate from distinct mechanisms and if stromal biology could regulate these characteristics. These characteristics include the extent of invasion, formation, and persistence of invasive forks by cancer as opposed to a collective frontal invasion, the persistence of invading velocity by leader cells at the tip of invasive forks, etc. We posit that quantifying distinct aspects of collective invasion can provide useful suggestions about the plausible mechanisms regulating these processes, including whether the process is regulated by mechanics or by intercellular communication between stromal cells and cancer. Here, we have identified the sub-characteristics of invasion, which might be indicative of broader mechanisms regulating these processes, developed methods to quantify these metrics, and demonstrated that perturbation of stromal genes can modulate distinct aspects of collective invasion. Our results highlight that the genetic state of stromal fibroblasts can regulate complex phenomena involved in cancer dissemination and suggest that collective cancer invasion into stroma is an outcome of the complex interplay between cancer and stromal fibroblasts.",
+        "pubt": 2020.0
+    },
+    "E00036395": {
+        "field": "生物",
+        "title": "Recent Progress on the Role of Fibronectin in Tumor Stromal Immunity and Immunotherapy.",
+        "score": [
+            0
+        ],
+        "场景": "再评价",
+        "title_matched": "Recent Progress on the Role of Fibronectin in Tumor Stromal Immunity and Immunotherapy",
+        "abstract": "As a major component of the stromal microenvironment of various solid tumors, the extracellular matrix (ECM) has attracted increasing attention in cancer-related studies. ECM in the tumor stroma not only provides an external barrier and framework for tumor cell adhesion and movement, but also acts as an active regulator that modulates the tumor microenvironment, including stromal immunity. Fibronectin (Fn), as a core component of the ECM, plays a key role in the assembly and remodeling of the ECM. Hence, understanding the role of Fn in the modulation of tumor stromal immunity is of great importance for cancer immunotherapy. Hence, in-depth studies on the underlying mechanisms of Fn in tumors are urgently needed to clarify the current understanding and issues and to identify new and specific targets for effective diagnosis and treatment purposes. In this review, we summarize the structure and role of Fn, its potent derivatives in tumor stromal immunity, and their biological effects and mechanisms in tumor development. In addition, we discuss the novel applications of Fn in tumor treatment. Therefore, this review can provide prospective insight into Fn immunotherapeutic applications in tumor treatment.",
+        "pubt": 2022.0
+    },
+    "E00036396": {
+        "field": "生物",
+        "title": "Innate immune cells in the tumor microenvironment.",
+        "score": [
+            0
+        ],
+        "场景": "再评价",
+        "title_matched": "Innate immune cells in the tumor microenvironment",
+        "abstract": "The tumor immune microenvironment (TIME) is a complex ecosystem that contains adaptive and innate immune cells that have tumor-promoting and anti-tumor effects. There is still much to learn about the diversity, plasticity, and functions of innate immune cells in the TIME and their roles in determining the response to immunotherapies. Experts discuss recent advances in our understanding of their biology in cancer as well as outstanding questions and potential therapeutic avenues.",
+        "pubt": 2021.0
+    },
+    "E00036451": {
+        "field": "生物",
+        "title": "中药口服液中鞣花酸分子稳定储存的制剂学机制与调控策略",
+        "score": [
+            37
+        ],
+        "场景": "再评价",
+        "title_matched": "中药口服液中鞣花酸分子稳定储存的制剂学机制与调控策略",
+        "abstract": "鞣花酸普遍存在于植物中,被认为是具有开发潜力的抗氧化与抗肿瘤候选药物。但鞣花酸极易沉淀,如何提高其生物利用度一直是制药行业关注的问题。本课题组偶然发现,三勒浆口服液在低温条件下储存稳定性非常优异,鞣花酸呈现“低温易溶”的反常现象。为揭示其科学原理,讨论相应的调控策略,本文将该口服液分别在高、中和低3种温度下储存3个月,采用沉淀量、上清液-沉淀 HPLC 化学轮廓、沉淀形貌和物理相态综合表征等分析方法系统追踪调查存放过程中口服液成分与相态的变化规律。结果显示,低温下的沉淀量仅为室温1/3,温度升高,沉淀量急剧增加。上清液-沉淀物 HPLC 分析发现鞣花酸沉淀来源于化学降解与物理沉降两条途径。化学降解与诃黎勒酸、柯里拉京等水解鞣质酸性条件下水解产生鞣花酸有关。物理沉降与升温后多酚胶体缔合度与黏度降低有关。该研究阐释了中药液体制剂中鞣花酸稳定机制,为含鞣花酸制剂的高效利用及澄清度改善提供了理论依据。",
+        "pubt": NaN
+    },
+    "E00036452": {
+        "field": "生物",
+        "title": "Wu-Tou Decoction in Rheumatoid Arthritis: Integrating Network Pharmacology and In Vivo Pharmacological Evaluation.",
+        "score": [
+            69
+        ],
+        "场景": "再评价",
+        "title_matched": "Wu-Tou Decoction in Rheumatoid Arthritis: Integrating Network Pharmacology and In Vivo Pharmacological Evaluation",
+        "abstract": "This study aimed to explore underlying action mechanism of Wu-Tou decoction (WTD) in rheumatoid arthritis (RA) through network pharmacology prediction and experimental verification. Methods: Chemical compounds and human target proteins of WTD as well as RArelated human genes were obtained from TCM Database @ Taiwan, PubChem and GenBank, respectively. Subsequently, molecular networks and canonical pathways presumably involved in the treatment of WTD on RA were generated by ingenuity pathway analysis (IPA) software. Furthermore, experimental validation was carried out with MIP-1β-induced U937 cell model and collagen induced arthritis (CIA) rat model. Results: CCR5 signaling pathway in macrophages was shown to be the top one shared signaling pathway associated with both cell immune response and cytokine signaling. In addition, protein kinase C (PKC) δ and p38 in this pathway were treated as target proteins of WTD in RA. In vitro experiments indicated that WTD inhibited MIP-1β-induced production of TNF-α, MIP-1α, and RANTES as well as phosphorylation of CCR5, PKC δ, and p38 in U937 cells. WTD treatment maintained the inhibitory effects on production of TNF-α and RANTES in MIP-1β-induced U937 cells after CCR5 knockdown. In vivo experiments demonstrated that WTD ameliorated symptoms in CIA rats, decreased the levels of IL-1β, IL-2, IL-6, TNF-α, MIP-1α, MIP-2, RANTES, and IP-10 in serum of CIA rats, as well as mRNA levels of MIP-1α, MIP-2, RANTES, and IP-10 in ankle joints of CIA rats. Furthermore, WTD also lowered the phosphorylation levels of CCR5, PKC δ and p38 in both ankle joints and macrophages in ankle joints from CIA rats. Conclusion: It was demonstrated in this research that WTD played a role in inhibiting inflammatory response in RA which was closely connected with the modulation effect of WTD on CCR5 signaling pathway in macrophages.",
+        "pubt": 2017.0
+    },
+    "E00036453": {
+        "field": "生物",
+        "title": "Investigation of the Anti-Inflammatory and Analgesic Activities of Ethanol Extract of Stem Bark of Sonapatha Oroxylum indicum In Vivo.",
+        "score": [
+            49
+        ],
+        "场景": "再评价",
+        "title_matched": "Investigation of the Anti-Inflammatory and Analgesic Activities of Ethanol Extract of Stem Bark of Sonapatha Oroxylum indicum In Vivo",
+        "abstract": "Inflammation is all a pervasive phenomenon, which is elicited by the body in response to obnoxious stimuli as a protective measure. However, sustained inflammation leads to several diseases including cancer. Therefore it is necessary to neutralize inflammation. Sonapatha (Oroxylum indicum), a medicinal plant, is traditionally used as a medicine in Ayurveda and other folk systems of medicine. It is commonly used to treat inflammatory diseases including rheumatoid arthritis and asthma. Despite this fact its anti-inflammatory and analgesic effects are not evaluated scientifically. Therefore, the anti-inflammatory and analgesic activities of Sonapatha (Oroxylum indicum) were studied in Swiss albino mice by different methods. The hot plate, acetic acid, and tail immersion tests were used to evaluate the analgesic activity whereas xylene-induced ear edema and formalin induced paw edema tests were used to study the anti-inflammatory activity of Sonapatha. The administration of mice with 250 and 300 mg/kg b.wt. of O. indicum reduced pain and inflammation indicating that Sonapatha possesses analgesic and anti-inflammatory activities. The maximum analgesic and anti-inflammatory activities were observed in mice receiving 300 mg/kg b.wt. of O. indicum ethanol extract. Our study indicates that O. indicum possesses both anti-inflammatory and analgesic activities and it may be useful as an anti-inflammatory agent in the inflammation related disorders.",
+        "pubt": 2015.0
+    },
+    "E00036454": {
+        "field": "生物",
+        "title": "Moringa rivae leaf extracts attenuate Complete Freund's adjuvant-induced arthritis in Wistar rats via modulation of inflammatory and oxidative stress biomarkers.",
+        "score": [
+            58
+        ],
+        "场景": "再评价",
+        "title_matched": "Moringa rivae leaf extracts attenuate Complete Freund's adjuvant-induced arthritis in Wistar rats via modulation of inflammatory and oxidative stress biomarkers",
+        "abstract": "Moringa rivae is widely used as a traditional remedy against arthritis. The present research was designed to evaluate the antiarthritic potential of Moringa rivae extracts. Treatment of rats with adjuvant-induced arthritis with methanolic and aqueous extracts of M. rivae (150, 300 or 600 mg/kg), and piroxicam (10 mg/kg) was started orally at day 8 post-administration of complete Freund's adjuvant and continued till 28th day. The therapeutic effect of the plant extracts was assessed in arthritic rats by arthritic index, body weight, and haematological and biochemical parameters. Furthermore, the modulatory effect on gene expression (I-κB, IL-4 and IL-10, COX-2, IL-1β and IL-6, NF-κB, and TNF-α) in the blood was determined using qRT-PCR, while ELISA assay was used to find PGE2 and TNF-α concentrations in the serum. Oxidative stress parameters in the liver and ankle joint histopathology were also evaluated. Moreover, the most effective methanolic extract was further characterized by GC-MS for the presence of phytochemicals. Treatment with the plant extracts significantly restored arthritic index, change in the body weight and immune organ weight, and the histopathological indices. Both extracts significantly (p < 0.05) reduced the serum concentration of rheumatoid factor, C-reactive protein, PGE2, and TNF-α in arthritic rats. The extracts persuasively down-regulated the COX-2, PGE2, IL-1β, IL-6, NF-κB, and TNF-α, and up-regulated the mRNA expression of I-κB, IL-4, and IL-10. Both extracts increased the activities of CAT and SOD while reducing the formation of MDA in a dose-dependent manner in the liver. Histopathological evaluation showed that treatment with the plant extracts significantly (p < 0.05) reduced joint inflammation, pannus formation, and bone erosion in treatment groups in comparison to arthritic control. Phytochemicals detected by GC-MS in the methanolic extract included esters, alcohols, ketones, fatty acids, and vitamin E. These findings provide evidence of the anti-arthritic potential of M. rivae extracts in chronic polyarthritis model.",
+        "pubt": 2019.0
+    },
+    "E00036455": {
+        "field": "生物",
+        "title": "Modulation of inflammation by phytochemicals to enhance efficacy and reduce toxicity of cancer chemotherapy.",
+        "score": [
+            58
+        ],
+        "场景": "再评价",
+        "title_matched": "Modulation of inflammation by phytochemicals to enhance efficacy and reduce toxicity of cancer chemotherapy",
+        "abstract": "Treatment of cancer with chemotherapeutic drugs is associated with numerous adverse effects as well as the eventual development of resistance to chemotherapy. There is a great need for complementary therapies such as botanicals and nutritional supplements with little or no side effects that prevent resistance to chemotherapy and reduce its adverse effects. inflammation plays a major role in the development of chemoresistance and the adverse effects of chemotherapy. Phytochemicals have well-established anti-inflammatory effects; thus, they could be used as complementary therapies along with chemotherapy to increase its efficacy and reduce its toxicity. Botanical compounds inhibit the NF-κB signaling pathway, which plays an important role in the generation of inflammation, chemotherapy resistance, and modulation of cell survival and apoptosis. Botanicals have previously been studied extensively for their cancer chemopreventive activities and are generally considered safe for human consumption. The present review focuses on the modulation of inflammation by phytochemicals and their role in increasing the efficacy and reducing the toxicity of cancer chemotherapy.",
+        "pubt": 2023.0
+    },
+    "E00036456": {
+        "field": "生物",
+        "title": "Andrographolide ameliorates oxidative stress, inflammation and histological outcome in complete Freund's adjuvant-induced arthritis.",
+        "score": [
+            79
+        ],
+        "场景": "再评价",
+        "title_matched": "Andrographolide ameliorates oxidative stress, inflammation and histological outcome in complete Freund's adjuvant-induced arthritis",
+        "abstract": "Objectives: As one of the main active ingredients of Chinese herbal medicine Andrographis paniculate, andrographolide is used in domestic clinical treatment for respiratory infections and inflammation. This study was designed to investigate the effects of andrographolide as an antioxidant on the level of oxidative stress, neutrophil accumulation and infiltration in joints and synovial tissue of arthritis rats induced by complete freund's adjuvant. Methods: A rat model of rheumatoid arthritis was induced by subcutaneous injection of complete Freund's adjuvant in the footpad. The model was established 14 days after induction. The treatment was performed from 14th day to 35th day with different doses of andrographolide (25, 50, 100 mg/kg) and positive control methotrexate (3 mg/kg). The effects of andrographolide on oxidative stress, neutrophil accumulation and infiltration were measured by the paw swelling, arthritis score, the hot plate test, biochemical analysis, and histology. Results: The medium and high-dose andrographolide (50, 100 mg/kg) group declined the levels of tumor necrosis factor-α, interleukin-6 and CXC chemokine ligand2, articular elastase and myeloperoxidase, and increased the levels of antioxidant enzymes superoxide dismutase, catalase, and glutathione. The activity of malondialdehyde and nitrite/nitrate in andrographolide (50, 100 mg/kg) group was weakened than the model group. The degree of swelling and arthritis score of andrographolide group was lower than the model group. The results of hot plate test showed that high dose of andrographolide significantly improved the anti-injury ability of rats; Radiological and histological results showed that the joint osteoporosis, inflammatory cell infiltration, synovial hyperplasia and other phenomena in the andrographolide group were significantly improved. Conclusions: Andrographolide acts as a protective agent for the treatment of complete freund's adjuvant induced rheumatoid arthritis by inhibiting lipid peroxidation and nitrite/nitrate levels in a dose-dependent manner, enhancing antioxidant enzyme activity, reducing levels of chemokines and inflammatory factors, preventing neutrophil accumulation and infiltration.",
+        "pubt": 2020
+    },
+    "E00036441": {
+        "field": "生物",
+        "title": "miR-146b-5p和TRIM29在子宫内膜癌中的表达",
+        "score": [
+            51,
+            42,
+            29
+        ],
+        "场景": "再评价",
+        "title_matched": "miR-146b-5p 和 TRIM29在子宫内膜癌中的表达",
+        "abstract": "目的探讨 miRNA-146b-5p(miR-146b-5p)和三结构域蛋白29(TRIM29)在子宫内膜癌中的表达及临床意义。方法选取2019年10月—2020年10月徐州医科大学附属医院、徐州医科大学第二附属医院手术切除的子宫内膜癌组织60例、正常增生期子宫内膜组织30例。采用免疫组化法检测组织中 TRIM29表达水平,qRT-PCR 法检测 miR-146b-5p、TRIM29 mRNA 表达水平,Spearman 法分析两者相关性,Kaplan-Meier 法及 Cox比例风险回归模型进行预后分析。结果免疫组化显示,TRIM29在子宫内膜癌组织中的阳性表达率(55.0%)低于正常增生期子宫内膜组织(76.7%)(P<0.05)。 qRT-PCR 检测显示,子宫内膜癌组织中 miR-146b-5p 的表达显著高于正常增生期子宫内膜组织,而 TRIM29的表达明显低于正常增生期子宫内膜组织(P<0.05)。 Spearman分析提示,miR-146b-5p 与 TRIM29的表达呈负相关(r = -0.595,P<0.05)。 Kaplan-Meier 分析显示,miR-146b-5p 高表达组、TRIM29低表达组患者的预后较差(P<0.05)。 Cox 多因素回归分析显示,miR-146b-5p、TRIM29是影响子宫内膜癌患者预后的独立影响因素。结论子宫内膜癌组织中 miR-146b-5p 高表达,TRIM29低表达,二者的表达失调可能共同参与子宫内膜癌的发生发展。",
+        "pubt": NaN
+    },
+    "E00036442": {
+        "field": "生物",
+        "title": "The myriad essential roles of microRNAs in cardiovascular homeostasis and disease.",
+        "score": [
+            56,
+            52,
+            60
+        ],
+        "场景": "再评价",
+        "title_matched": "The myriad essential roles of microRNAs in cardiovascular homeostasis and disease",
+        "abstract": "According to the World Health Organization, cardiovascular disease accounts for approximately 30% of all deaths in the United States, and is the worldwide leading cause of morbidity and mortality. Over the last several years, microRNAs have emerged as critical regulators of physiological homeostasis in multiple organ systems, including the cardiovascular system. The focus of this review is to provide an overview of the current state of knowledge of the molecular mechanisms contributing to the multiple causes of cardiovascular disease with respect to regulation by microRNAs. A major challenge in understanding the roles of microRNAs in the pathophysiology of cardiovascular disease is that cardiovascular disease may arise from perturbations in intracellular signaling in multiple cell types including vascular smooth muscle and endothelial cells, cardiac myocytes and fibroblasts, as well as hepatocytes, pancreatic β-cells, and others. Additionally, perturbations in intracellular signaling cascades may also have profound effects on heterocellular communication via secreted cytokines and growth factors. There has been much progress in recent years to identify the microRNAs that are both dysregulated under pathological conditions, as well as the signaling pathway(s) regulated by an individual microRNA. The goal of this review is to summarize what is currently known about the mechanisms whereby microRNAs maintain cardiovascular homeostasis and to attempt to identify some key unresolved questions that require further study.",
+        "pubt": 2014.0
+    },
+    "E00036443": {
+        "field": "生物",
+        "title": "The MAPK-Signaling Pathway in Colorectal Cancer: Dysregulated Genes and Their Association With MicroRNAs.",
+        "score": [
+            74,
+            75,
+            28
+        ],
+        "场景": "再评价",
+        "title_matched": "The MAPK-Signaling Pathway in Colorectal Cancer: Dysregulated Genes and Their Association With MicroRNAs",
+        "abstract": "Mitogen-activated protein kinase (MAPK) pathways regulate many cellular functions including cell proliferation and apoptosis. We examined associations of differential gene and microRNA (miRNA) expression between carcinoma and paired normal mucosa for 241 genes in the KEGG-identified MAPK-signaling pathway among 217 colorectal cancer (CRC) cases. Gene expression data (RNA-Seq) and miRNA expression data (Agilent Human miRNA Microarray V19.0; Agilent Technologies Inc., Santa Clara, CA, USA) were analyzed. We first identified genes most strongly associated with CRC using a fold change (FC) of >1.50 or <0.67) that were statistically significant after adjustment for multiple comparisons. We then determined miRNAs associated with dysregulated genes and through miRNA:mRNA (messenger RNA) seed region matches discerned genes with a greater likelihood of having a direct biological association. Ninety-nine genes had a meaningful FC for all CRC, microsatellite unstable-specific tumors, or microsatellite stable-specific tumors. Thirteen dysregulated genes were associated with miRNAs, totaling 68 miRNA:mRNA associations. Thirteen of the miRNA:mRNA associations had seed region matches where the differential expression between the miRNA and mRNA was inversely related suggesting a direct association as a result of their binding. Several direct associations, upstream of ERK1/ERK2, JNK, and p38, were found for PDGFRA with 7 miRNAs; RASGRP3 and PRKCB with miR-203a; and TGFBR1 with miR-6071 and miR-2117. Other associations between miRNAs and mRNAs are most likely indirect, resulting from feedback and feed forward loops. Our results suggest that miRNAs may alter MAPK signaling through direct binding with key genes in this pathway. We encourage others to validate results in targeted CRC experiments that can help solidify important therapeutic targets.",
+        "pubt": 1991.0
+    },
+    "E00036444": {
+        "field": "生物",
+        "title": "MicroRNAs and cancer: Key paradigms in molecular therapy.",
+        "score": [
+            54,
+            54,
+            31
+        ],
+        "场景": "再评价",
+        "title_matched": "MicroRNAs and cancer: Key paradigms in molecular therapy (Review)",
+        "abstract": "are a type of small non-coding RNA molecule that performs an important role in post-transcriptional gene regulation. Since miRNAs were first identified in 1993, a number of studies have demonstrated that they act as tumor suppressors or oncogenes in human cancer, including colorectal, lung, brain, breast and liver cancer, and leukemia. Large high-throughput studies have previously revealed that miRNA profiling is critical for the diagnosis and prognosis of patients with cancer, while certain miRNAs possess the potential to be used as diagnostic and prognostic biomarkers or therapeutic targets in cancer. The present study reviews the studies and examines the roles of miRNAs in cancer diagnosis, prognosis and treatment, and discusses the potential therapeutic modality of exploiting miRNAs.",
+        "pubt": 2017.0
+    },
+    "E00036445": {
+        "field": "生物",
+        "title": "RNA-Seq profiling of deregulated miRs in CLL and their impact on clinical outcome.",
+        "score": [
+            70,
+            70,
+            67
+        ],
+        "场景": "再评价",
+        "title_matched": "RNA-Seq profiling of deregulated miRs in CLL and their impact on clinical outcome",
+        "abstract": "Abnormal expression patterns of regulatory small non-coding RNA (sncRNA) molecules such as microRNAs (miRs), piwi-interacting RNAs (piRNAs), and small nucleolar RNAs (snoRNAs) play an important role in the development and progression of cancer. Identification of clinically relevant sncRNA signatures could, therefore, be of tremendous translational value. In the present study, genome-wide small RNA sequencing identified a unique pattern of differential regulation of eight miRs in Chronic Lymphocytic Leukemia (CLL). Among these, three were up-regulated (miR-1295a, miR-155, miR-4524a) and five were down-regulated (miR-30a, miR-423, miR-486*, let-7e, and miR-744) in CLL. Altered expression of all these eight differentially expressed miRs (DEMs) was validated by RQ-PCR. Besides, seven novel sequences identified to have elevated expression levels in CLL turned out to be transfer RNA (tRNA)/piRNAs (piRNA-30799, piRNA-36225)/snoRNA (SNORD43) related. Multivariate analysis showed that miR-4524a (HR: 1.916, 95% CI: 1.080-3.4, p value: 0.026) and miR-744 (HR: 0.415, 95% CI: 0.224-0.769, p value: 0.005) were significantly associated with risk and time to first treatment. Further investigations could help establish the scope of integration of these DEM markers into risk stratification designs and prognostication approaches for CLL.",
+        "pubt": 2019.0
+    },
+    "E00036446": {
+        "field": "生物",
+        "title": "Pathway analysis from lists of microRNAs: common pitfalls and alternative strategy.",
+        "score": [
+            89,
+            85,
+            81
+        ],
+        "场景": "再评价",
+        "title_matched": "Pathway analysis from lists of microRNAs: common pitfalls and alternative strategy",
+        "abstract": "As such, monitoring miRNA expression has been increasingly used to assess their role in regulatory mechanisms of biological processes. In large scale studies, once miRNAs of interest have been identified, the target genes they regulate are often inferred using algorithms or databases. A pathway analysis is then often performed in order to generate hypotheses about the relevant biological functions controlled by the miRNA signature. Here we show that the method widely used in scientific literature to identify these pathways is biased and leads to inaccurate results. In addition to describing the bias and its origin we present an alternative strategy to identify potential biological functions specifically impacted by a miRNA signature. More generally, our study exemplifies the crucial need of relevant negative controls when developing, and using, bioinformatics methods.",
+        "pubt": 2015.0
+    },
+    "E00036381": {
+        "field": "生物",
+        "title": "农业生物育种技术的发展历程及产业化对策",
+        "score": [
+            30
+        ],
+        "场景": "再评价",
+        "title_matched": "农业生物育种技术的发展历程及产业化对策",
+        "abstract": " 伴随千百年来自然物种进化与人类科技进步,世界农业育种经历了原始育种、传统育种和分子育种三个时代的跨越。生物育种是生物技术育种的简称,属于从转基因育种3.0版跨入智能设计育种4.0版、集各种前沿技术大成的新一代分子育种技术,其中最具代表性的包括培育革命性和颠覆性新品种的全基因组选择、基因编辑和合成生物技术。回顾了国内外农业转基因和生物育种技术的发展历程,分析了我国生物育种面临的严峻挑战,提出了加快我国生物育种技术创新的产业化对策。",
+        "pubt": 2021
+    },
+    "E00036382": {
+        "field": "生物",
+        "title": "Genome sequencing reveals evidence of adaptive variation in the genus Zea.",
+        "score": [
+            85
+        ],
+        "场景": "再评价",
+        "title_matched": "Genome sequencing reveals evidence of adaptive variation in the genus Zea",
+        "abstract": "Maize is a globally valuable commodity and one of the most extensively studied genetic model organisms. However, we know surprisingly little about the extent and potential utility of the genetic variation found in wild relatives of maize. Here, we characterize a high-density genomic variation map from 744 genomes encompassing maize and all wild taxa of the genus Zea, identifying over 70 million single-nucleotide polymorphisms. The variation map reveals evidence of selection within taxa displaying novel adaptations. We focus on adaptive alleles in highland teosinte and temperate maize, highlighting the key role of flowering-time-related pathways in their adaptation. To show the utility of variants in these data, we generate mutant alleles for two flowering-time candidate genes. This work provides an extensive sampling of the genetic diversity of Zea, resolving questions on evolution and identifying adaptive variants for direct use in modern breeding.",
+        "pubt": 2022.0
+    },
+    "E00036383": {
+        "field": "生物",
+        "title": "Comparative transcriptome analysis of salt-sensitive and salt-tolerant maize reveals potential mechanisms to enhance salt resistance.",
+        "score": [
+            63
+        ],
+        "场景": "再评价",
+        "title_matched": "Comparative transcriptome analysis of salt-sensitive and salt-tolerant maize reveals potential mechanisms to enhance salt resistance",
+        "abstract": "Background Salt stress is a devastating environmental stress that causes plant growth inhibition and yield reduction. Objective The identification of salt-tolerant genes brings hope for the generation of salinity-tolerant crop plants through molecular breeding. Methods In this study, one salt-sensitive and one salt-tolerant maize inbred line were screened from 242 maize inbred lines. Reactive oxygen species (ROS)-related enzyme activities were detected and salt-responsive comparative transcriptome analysis was performed for control and 220 mM NaCl treated maize leaves. Results Salt-tolerant maize inbred line (L87) showed higher ROS-related enzyme (SOD, POD, APX and CAT) activities and accumulated relatively lower levels of ROS under salt stress. Of the total DEGs, 1856 upregulated DEGs were specific to L87, including stress tolerance-related members of the 70kDa family of heat shock proteins (Hsp70s) and aquaporins. The DEGs involved in the abscisic acid (ABA), ethylene, jasmonic acid (JA) and salicylic acid (SA) signal transduction pathways may determine the difference in salt tolerance between the two varieties, especially one central component SnRK2, that positively regulates ABA signaling and was only upregulated in L87. Analysis of DEGs related to ROS scavenging showed that some peroxidase (POD), glutathione S-transferase (GST), catalase (CAT) and superoxide dismutase (SOD) genes specific to L87 probably enhanced its salt tolerance. The analysis of differentially expressed transcription factors (TFs) suggested that WRKY TFs could contribute to the difference in salt tolerance between the two maize lines. Conclusion Compared with Salt-sensitive maize inbred line (L29), L87 exhibits specific regulatory mechanisms related to salt tolerance, including plant hormone interactions, ROS scavenging and the regulation of TFs. Our study identifies new candidate genes that may regulate maize tolerance to salt stress and provides useful information for breeding maize with high salt resistance.",
+        "pubt": 2019.0
+    },
+    "E00036384": {
+        "field": "生物",
+        "title": "Genome-wide selection and genetic improvement during modern maize breeding.",
+        "score": [
+            90
+        ],
+        "场景": "再评价",
+        "title_matched": "Genome-wide selection and genetic improvement during modern maize breeding",
+        "abstract": "Since the development of single-hybrid maize breeding programs in the first half of the twentieth century1, maize yields have increased over sevenfold, and much of that increase can be attributed to tolerance of increased planting density2,3,4. To explore the genomic basis underlying the dramatic yield increase in maize, we conducted a comprehensive analysis of the genomic and phenotypic changes associated with modern maize breeding through chronological sampling of 350 elite inbred lines representing multiple eras of germplasm from both China and the United States. We document several convergent phenotypic changes in both countries. Using genome-wide association and selection scan methods, we identify 160 loci underlying adaptive agronomic phenotypes and more than 1,800 genomic regions representing the targets of selection during modern breeding. This work demonstrates the use of the breeding-era approach for identifying breeding signatures and lays the foundation for future genomics-enabled maize breeding.",
+        "pubt": 2020
+    },
+    "E00036385": {
+        "field": "生物",
+        "title": "Expression of trehalose-6-phosphate phosphatase in maize ears improves yield in well-watered and drought conditions.",
+        "score": [
+            82
+        ],
+        "场景": "再评价",
+        "title_matched": "expression of trehalose-6-phosphate phosphatase in maize ears improves yield in well-watered and drought conditions",
+        "abstract": "Water supply is a universal factor that limits agricultural productivity 1 . For cereals, drought is the most important abiotic stress limiting yield 2 . Most agricultural crop production relies on rainfall during the growing season, so droughts can have potentially catastrophic and unpredictable impacts on crop yields. The most recent widespread drought in the United States, which occurred in 2012, began with dry soils in March and peaked in September, and reduced maize crop yields by an estimated 25% (ref. 3). Current climatic variability is occurring at a time when the annual rate of crop yield improvement is not keeping pace with the projected future demand for food, and is thereby compounding food insecurity <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,181.89,481.31,5.45,6.82\" target=\"#b3\">4,</ref> <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,187.35,481.31,2.73,6.82\" target=\"#b4\">5</ref> .",
+        "pubt": 2015.0
+    },
+    "E00036386": {
+        "field": "生物",
+        "title": "The Dynamics of DNA methylation in the maize (Zea mays L.) inbred line B73 response to heat stress at the seedling stage.",
+        "score": [
+            57
+        ],
+        "场景": "再评价",
+        "title_matched": "The Dynamics of DNA methylation in the maize (Zea mays L.) inbred line B73 response to heat stress at the seedling stage",
+        "abstract": "High temperature stress has become a major concern for crop production worldwide because it greatly affects the growth, development, and productivity of plants. The mechanisms underlying the development of heat-tolerance need to be better understood for important agricultural crops. Recent research shows that DNA methylation is dynamic during plant development. However, the molecular mechanism regulating these dynamic DNA methylation patterns remains to be elucidated. In this study, six Meth-ylRAD libraries were constructed using DNA isolated from leaves of maize. A total of 42,561,144 and 48,157,284 clean reads were generated from CK (Control condition) and HTP (Heat stress condition) treatments, respectively. The results showed that a total of 25,470 methylated genes were found in six tested samples, including 325 differentially methylated genes (200 in CCGG sites and 125 in CCWGG sites) between the CK and HTP samples. KEGG pathway enrichment analysis for DMGs indicated that Spliceosome, Homologous recombination, RNA transport, Ubiquitin mediated proteolysis and Carbon metabolism pathways play a central role in maize response to heat stress. Taken together, this research revealed the genome-wide DNA methylation pattern of maize leaves in response to heat exposure and identified candidate genes potentially involved in response to heat stress at the methylation level, which will facilitate future studies to elucidate the epigenetic mechanisms underlying the responses of maize to heat stress.",
+        "pubt": 2019.0
+    },
+    "E00036377": {
+        "field": "生物",
+        "title": "The topography of alpha-band activity tracks the content of spatial working memory.",
+        "score": [
+            90,
+            66,
+            62
+        ],
+        "场景": "原评价",
+        "title_matched": "The topography of alpha-band activity tracks the content of spatial working memory",
+        "abstract": "Working memory (WM) is a system for the online storage of information. An emerging view is that neuronal oscillations coordinate the cellular assemblies that code the content of WM. In line with this view, previous work has demonstrated that oscillatory activity in the alpha band (8 -12 Hz) plays a role in WM maintenance, but the exact contributions of this activity have remained unclear. Here, we used an inverted spatial encoding model in combination with electroencephalography (EEG) to test whether the topographic distribution of alpha-band activity tracks spatial representations held in WM. Participants in three experiments performed spatial WM tasks that required them to remember the precise angular location of a sample stimulus for 1,000-1,750 ms. Across all three experiments, we found that the topographic distribution of alpha-band activity tracked the specific location that was held in WM. Evoked (i.e., activity phase-locked to stimulus onset) and total (i.e., activity regardless of phase) power across a range of low-frequency bands transiently tracked the location of the sample stimulus following stimulus onset. However, only total power in the alpha band tracked the content of spatial WM throughout the memory delay period, which enabled reconstruction of locationselective channel tuning functions (CTFs). These findings demonstrate that alpha-band activity is directly related to the coding of spatial representations held in WM and provide a promising method for tracking the content of this online memory system. working memory; alpha; EEG; oscillations; inverted encoding model A RANGE OF EVIDENCE SUGGESTS that neuronal oscillations in the alpha band (8 -12 Hz) play a central role in the selection and storage of information in the brain (Canolty and Knight 2010; Fries 2005; Klimesch 2012). For instance, many studies have shown that alpha-band activity covaries with the deployment of spatial attention, such that posterior alpha power is reduced contralateral to attended locations (e.g., <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,216.07,612.88,79.45,8.79\" target=\"#b21\">Gould et al. 2011;</ref> <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,43.50,623.88,73.55,8.79\" target=\"#b26\">Kelly et al. 2006;</ref> <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,120.92,623.88,68.96,8.79\" target=\"#b51\">Thut et al. 2006)</ref>. Indeed, the topographic distribution of alpha power not only tracks the attended visual hemifield, but also the specific retinotopic coordinates that are attended <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,80.53,656.88,70.83,8.79\" target=\"#b36\">(Rihs et al. 2007;</ref> <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,154.51,656.88,80.12,8.79\" target=\"#b58\">Worden et al. 2000)</ref>. For example, Rihs and colleagues cued participants to attend to one of eight placeholder locations around a central fixation point and found that the topography of alpha power systematically varied with",
+        "pubt": 2015.0
+    },
+    "E00036378": {
+        "field": "生物",
+        "title": "Medial prefrontal theta phase coupling during spatial memory retrieval.",
+        "score": [
+            91,
+            75,
+            57
+        ],
+        "场景": "原评价",
+        "title_matched": "Medial Prefrontal Theta Phase Coupling During Spatial Memory Retrieval",
+        "abstract": "Memory retrieval is believed to involve a disparate network of areas, including medial prefrontal and medial temporal cortices, but the mechanisms underlying their coordination remain elusive. One suggestion is that oscillatory coherence mediates inter-regional communication, implicating theta phase and theta-gamma phase-amplitude coupling in mnemonic function across species. To examine this hypothesis, we used non-invasive wholehead magnetoencephalography (MEG) as participants retrieved the location of objects encountered within a virtual environment. We demonstrate that, when participants are cued with the image of an object whose location they must subsequently navigate to, there is a significant increase in 4-8 Hz theta power in medial prefrontal cortex (mPFC), and the phase of this oscillation is coupled both with ongoing theta phase in the medial temporal lobe (MTL) and perceptually induced 65-85 Hz gamma amplitude in medial parietal cortex. These results suggest that theta phase coupling between mPFC and MTL and theta-gamma phase-amplitude coupling between mPFC and neocortical regions may play a role in human spatial memory retrieval. V",
+        "pubt": 2014.0
+    },
+    "E00036379": {
+        "field": "生物",
+        "title": "Hippocampal-prefrontal input supports spatial encoding in working memory.",
+        "score": [
+            89,
+            85,
+            82
+        ],
+        "场景": "原评价",
+        "title_matched": "Hippocampal-prefrontal input supports spatial encoding in working memory",
+        "abstract": "Spatial working memory, the caching of behaviourally relevant spatial cues on a timescale of seconds, is a fundamental constituent of cognition. Although the prefrontal cortex and hippocampus are known to contribute jointly to successful spatial working memory, the anatomical pathway and temporal window for the interaction of these structures critical to spatial working memory has not yet been established. Here we find that direct hippocampal–prefrontal afferents are critical for encoding, but not for maintenance or retrieval, of spatial cues in mice. These cues are represented by the activity of individual prefrontal units in a manner that is dependent on hippocampal input only during the cue-encoding phase of a spatial working memory task. Successful encoding of these cues appears to be mediated by gamma-frequency synchrony between the two structures. These findings indicate a critical role for the direct hippocampal–prefrontal afferent pathway in the continuous updating of task-related spatial information during spatial working memory.",
+        "pubt": "2015"
+    },
+    "E00036380": {
+        "field": "生物",
+        "title": "Flexible spatial learning requires both the dorsal and ventral hippocampus and their functional interactions with the prefrontal cortex.",
+        "score": [
+            88,
+            63,
+            54
+        ],
+        "场景": "原评价",
+        "title_matched": "Flexible spatial learning requires both the dorsal and ventral hippocampus and their functional interactions with the prefrontal cortex",
+        "abstract": "When faced with changing contingencies, animals can use memory to flexibly guide actions, engaging both frontal and temporal lobe brain structures. Damage to the hippocampus (HPC) impairs episodic memory, and damage to the prefrontal cortex (PFC) impairs cognitive flexibility, but the circuit mechanisms by which these areas support flexible memory processing remain unclear. The present study investigated these mechanisms by temporarily inactivating the medial PFC (mPFC), the dorsal HPC (dHPC), and the ventral HPC (vHPC), individually and in combination, as rats learned spatial discriminations and reversals in a plus maze. Bilateral inactivation of either the dHPC or vHPC profoundly impaired spatial learning and memory, whereas bilateral mPFC inactivation primarily impaired reversal versus discrimination learning.",
+        "pubt": 2020.0
+    },
+    "E00036407": {
+        "field": "生物",
+        "title": "CRISPR-SKIP: programmable gene splicing with single base editors.",
+        "score": [
+            85,
+            77
+        ],
+        "场景": "原评价",
+        "title_matched": "CRISPR-SKIP: programmable gene splicing with single base editors",
+        "abstract": "CRISPR gene editing has revolutionized biomedicine and biotechnology by providing a simple means to engineer genes through targeted double-strand breaks in the genomic DNA of living cells. However, given the stochasticity of cellular DNA repair mechanisms and the potential for off-target mutations, technologies capable of introducing targeted changes with increased precision, such as single-base editors, are preferred. We present a versatile method termed CRISPR-SKIP that utilizes cytidine deaminase single-base editors to program exon skipping by mutating target DNA bases within splice acceptor sites. Given its simplicity and precision, CRISPR-SKIP will be broadly applicable in gene therapy and synthetic biology.",
+        "pubt": 2018.0
+    },
+    "E00036408": {
+        "field": "生物",
+        "title": "Therapeutic gene editing strategies using CRISPR-Cas9 for the β-hemoglobinopathies.",
+        "score": [
+            95,
+            42
+        ],
+        "场景": "原评价",
+        "title_matched": "Therapeutic gene editing strategies using CRISPR-Cas9 for the β-hemoglobinopathies",
+        "abstract": "With advancements in gene editing technologies, our ability to make precise and efficient modifications to the genome is increasing at a remarkable rate, paving the way for scientists and clinicians to uniquely treat a multitude of previously irremediable diseases. CRISPR-Cas9, short for clustered regularly interspaced short palindromic repeats and CRISPR-associated protein 9, is a gene editing platform with the ability to alter the nucleotide sequence of the genome in living cells. This technology is increasing the number and pace at which new gene editing treatments for genetic disorders are moving toward the clinic. The β-hemoglobinopathies are a group of monogenic diseases, which despite their high prevalence and chronic debilitating nature, continue to have few therapeutic options available. In this review, we will discuss our existing comprehension of the genetics and current state of treatment for β-hemoglobinopathies, consider potential genome editing therapeutic strategies, and provide an overview of the current state of clinical trials using CRISPR-Cas9 gene editing.",
+        "pubt": 2020.0
+    },
+    "E00036409": {
+        "field": "生物",
+        "title": "Advances in therapeutic application of CRISPR-Cas9.",
+        "score": [
+            70,
+            35
+        ],
+        "场景": "原评价",
+        "title_matched": "Advances in therapeutic application of CRISPR-Cas9",
+        "abstract": "Clustered regularly interspaced short palindromic repeats (CRISPR)-associated protein 9 (Cas9) is one of the most versatile and efficient gene editing technologies, which is derived from adaptive immune strategies for bacteria and archaea. With the remarkable development of programmable nuclease-based genome engineering these years, CRISPR-Cas9 system has developed quickly in recent 5 years and has been widely applied in countless areas, including genome editing, gene function investigation and gene therapy both in vitro and in vivo. In this paper, we brief ly introduce the mechanisms of CRISPR-Cas9 tool in genome editing. More importantly, we review the recent therapeutic application of CRISPR-Cas9 in various diseases, including hematologic diseases, infectious diseases and malignant tumor. Finally, we discuss the current challenges and consider thoughtfully what advances are required in order to further develop the therapeutic application of CRISPR-Cas9 in the future.",
+        "pubt": 2019.0
+    },
+    "E00036410": {
+        "field": "生物",
+        "title": "Precise gene deletion and replacement using the CRISPR/Cas9 system in human cells.",
+        "score": [
+            85,
+            75
+        ],
+        "场景": "原评价",
+        "title_matched": "Precise gene deletion and replacement using the CRISPR/Cas9 system in human cells",
+        "abstract": "The bacterial clustered regularly interspaced short palindromic repeats/ CRISPR-associated (CRISPR/Cas) loci encode RNA-guided immune systems that protect cells against invading viruses and plasmids (1,2). In Streptococcus pyogenes, the type II CRISPR/Cas systems use an RNA-guided endonuclease (RGEN), Cas9, to catalyze site-specific cleavage of target DNA sequences. Targeting of Cas9 to specific genomic sites is mediated by a 20 nucleotide guide sequence within an associated CRISPR RNA (crRNA) and requires a trans-activating crRNA (tracrRNA) that recruits the crRNA into the Cas9 complex (3). Recognition of cleavage sites is determined by crRNA-DNA base pairing and a protospacer-adjacent motif (PAM), a three nucleotide sequence (NGG) juxtaposed to the DNA complementary region (4). It is notable that a single guide RNA (gRNA) that mimics the tracrRNA-crRNA complex can recruit Cas9 to targeted genomic sites and generate double-stranded breaks (DSBs) in DNA (5). The CRISPR/Cas9 systems have been adapted for site-specific genome editing in diverse cell types and organisms (6-12).",
+        "pubt": 2014.0
+    },
+    "E00036437": {
+        "field": "生物",
+        "title": "Diffusion-limited association of disordered protein by non-native electrostatic interactions.",
+        "score": [
+            88,
+            85,
+            78
+        ],
+        "场景": "原评价",
+        "title_matched": "Diffusion-limited association of disordered protein by non-native electrostatic interactions",
+        "abstract": "Intrinsically disordered proteins (IDPs) usually fold during binding to target proteins. In contrast to interactions between folded proteins, this additional folding step makes the binding process more complex. Understanding the mechanism of coupled binding and folding of IDPs requires analysis of binding pathways that involve formation of the transient complex (TC). However, experimental characterization of TC is challenging because it only appears for a very brief period during binding. Here, we use single-molecule fluorescence spectroscopy to investigate the mechanism of diffusion-limited association of an IDP. A large enhancement of the association rate is observed due to the stabilization of TC by non-native electrostatic interactions. Moreover, photon-by-photon analysis reveals that the lifetime of TC for IDP binding is at least two orders of magnitude longer than that for binding of two folded proteins. This result suggests the long lifetime of TC is generally required for folding of IDPs during binding processes.",
+        "pubt": 2018.0
+    },
+    "E00036438": {
+        "field": "生物",
+        "title": "Single-molecule FRET reveals multiscale chromatin dynamics modulated by HP1α.",
+        "score": [
+            90,
+            86,
+            65
+        ],
+        "场景": "原评价",
+        "title_matched": "Single-molecule FRET reveals multiscale chromatin dynamics modulated by HP1α",
+        "abstract": "The dynamic architecture of chromatin fibers, a key determinant of genome regulation, is poorly understood. Here, we employ multimodal single-molecule Förster resonance energy transfer studies to reveal structural states and their interconversion kinetics in chromatin fibers. We show that nucleosomes engage in short-lived (micro-to milliseconds) stacking interactions with one of their neighbors. This results in discrete tetranucleosome units with distinct interaction registers that interconvert within hundreds of milliseconds. Additionally, we find that dynamic chromatin architecture is modulated by the multivalent architectural protein heterochromatin protein 1α (HP1α), which engages methylated histone tails and thereby transiently stabilizes stacked nucleosomes. This compacted state nevertheless remains dynamic, exhibiting fluctuations on the timescale of HP1α residence times. Overall, this study reveals that exposure of internal DNA sites and nucleosome surfaces in chromatin fibers is governed by an intrinsic dynamic hierarchy from micro-to milliseconds, allowing the gene regulation machinery to access compact chromatin.",
+        "pubt": 2017.0
+    },
+    "E00036439": {
+        "field": "生物",
+        "title": "Single-molecule spectroscopy of protein conformational dynamics in live eukaryotic cells.",
+        "score": [
+            91,
+            92,
+            65
+        ],
+        "场景": "原评价",
+        "title_matched": "single-molecule spectroscopy of protein conformational dynamics in live eukaryotic cells",
+        "abstract": "Among the main considerations for performing intracellular single-molecule spectroscopy are, one, the reduction of cellular autofluorescence to a level that does not interfere with singlemolecule detection and, two, the targeted application of labeled molecules into cells <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"2,127.52,129.70,6.11,7.20\" target=\"#b4\">5,</ref> <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"2,133.62,129.70,9.16,7.20\" target=\"#b9\">10,</ref> <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"2,142.78,129.70,6.11,7.20\" target=\"#b18\">19</ref> . Autofluorescence in the visible wavelength range tends to decrease with increasing excitation wavelength 20 , and above ~520 nm, autofluorescence of many cell lines is already sufficiently low. We chose to work with recombinantly produced proteins labeled via thiol-maleimide chemistry with organic fluorophores-in this case, Atto 532 in combination with three different acceptors: Biotium CF680R, Atto 647N and Abberior Star 635 (Online Methods).",
+        "pubt": 2015.0
+    },
+    "E00036440": {
+        "field": "生物",
+        "title": "Single-Molecule Analysis of a Viral Fusion Protein Illuminates a Fusion-Active Intermediate State.",
+        "score": [
+            86,
+            81,
+            85
+        ],
+        "场景": "原评价",
+        "title_matched": "Single-Molecule Analysis of a Viral Fusion Protein Illuminates a Fusion-Active Intermediate State",
+        "abstract": "Single-cell RNA sequencing provides a new approach to an old problem: how to study cellular diversity in complex biological systems. Three studies-Saunders et al., Zeisel et al., and Davie et al.-deploy this technique on an unprecedented scale to reveal transcriptional patterns that distinguish cells in the nervous systems of mice and flies.",
+        "pubt": 2018.0
+    },
+    "E00036427": {
+        "field": "生物",
+        "title": "PLAZA 4.0: an integrative resource for functional, evolutionary and comparative plant genomics.",
+        "score": [
+            60,
+            53
+        ],
+        "场景": "原评价",
+        "title_matched": "PLAZA 4.0: an integrative resource for functional, evolutionary and comparative plant genomics",
+        "abstract": "PLAZA (https://bioinformatics.psb.ugent.be/plaza) is a plant-oriented online resource for comparative, evolutionary and functional genomics. The PLAZA platform consists of multiple independent instances focusing on different plant clades, while also providing access to a consistent set of reference species. Each PLAZA instance contains structural and functional gene annotations, gene family data and phylogenetic trees and detailed gene colinearity information. A user-friendly web interface makes the necessary tools and visualizations accessible, specific for each data type. Here we present PLAZA 4.0, the latest iteration of the PLAZA framework. This version consists of two new instances (Dicots 4.0 and Monocots 4.0) providing a large increase in newly available species, and offers access to updated and newly implemented tools and visualizations, helping users with the ever-increasing demands for complex and in-depth analyzes. The total number of species across both instances nearly doubles from 37 species in PLAZA 3.0 to 71 species in PLAZA 4.0, with a much broader coverage of crop species (e.g. wheat, palm oil) and species of evolutionary interest (e.g. spruce, Marchantia). The new PLAZA instances can also be accessed by a programming interface through a RESTful web service, thus allowing bioinformaticians to optimally leverage the power of the PLAZA platform.",
+        "pubt": 2017.0
+    },
+    "E00036428": {
+        "field": "生物",
+        "title": "Endorsement and phylogenetic analysis of some Fabaceae plants based on DNA barcoding.",
+        "score": [
+            15,
+            41
+        ],
+        "场景": "原评价",
+        "title_matched": "Endorsement and phylogenetic analysis of some Fabaceae plants based on DNA barcoding",
+        "abstract": "Background DNA barcoding have been considered as a tool to facilitate species identification based on its simplicity and high-level accuracy in compression to the complexity and subjective biases linked to morphological identification of taxa. MaturaseK gene (MatK gene) of the chloroplast is very vital in the plant system which is involved in the group II intron splicing. The main objective of this study is to determine the relative utility of the \"MatK\" chloroplast gene for barcoding in 15 legume as a tool to facilitate species identification based on their simplicity and high-level accuracy linked to morphological identification of taxa.",
+        "pubt": 2022.0
+    },
+    "E00036429": {
+        "field": "生物",
+        "title": "PLAZA 5.0: extending the scope and power of comparative and functional genomics in plants.",
+        "score": [
+            55,
+            53
+        ],
+        "场景": "原评价",
+        "title_matched": "PLAZA 5.0: extending the scope and power of comparative and functional genomics in plants",
+        "abstract": "PLAZA is a platform for comparative, evolutionary, and functional plant genomics. It makes a broad set of genomes, data types and analysis tools available to researchers through a user-friendly website, an API, and bulk downloads. In this latest release of the PLAZA platform, we are integrating a record number of 134 high-quality plant genomes, split up over two instances: PLAZA Dicots 5.0 and PLAZA Monocots 5.0. This number of genomes corresponds with a massive expansion in the number of available species when compared to PLAZA 4.0, which offered access to 71 species, a 89% overall increase. The PLAZA 5.0 release contains information for 5 882 730 genes, and offers pre-computed gene families and phylogenetic trees for 5 274 684 protein-coding genes. This latest release also comes with a set of new and updated features: a new BED import functionality for the workbench, improved interactive visualizations for functional enrichments and genomewide mapping of gene sets, and a fully redesigned and extended API. Taken together, this new version offers extended support for plant biologists working on different families within the green plant lineage and provides an efficient and versatile toolbox for plant genomics. All PLAZA releases are accessible from the portal website: https://bioinformatics.psb. ugent.be/plaza/.",
+        "pubt": 2021.0
+    },
+    "E00036430": {
+        "field": "生物",
+        "title": "Characterization of the Complete Chloroplast Genome of Acer truncatum Bunge (Sapindales: Aceraceae): A New Woody Oil Tree Species Producing Nervonic Acid.",
+        "score": [
+            8,
+            43
+        ],
+        "场景": "原评价",
+        "title_matched": "Characterization of the Complete Chloroplast Genome of Acer truncatum Bunge (Sapindales: Aceraceae): A New Woody Oil Tree Species Producing Nervonic Acid",
+        "abstract": "Acer truncatum, which is a new woody oil tree species, is an important ornamental and medicinal plant in China. To assess the genetic diversity and relationships of A. truncatum, we analyzed its complete chloroplast (cp) genome sequence. e A. truncatum cp genome comprises 156,492 bp, with the large single-copy, small single-copy, and inverted repeat (IR) regions consisting of 86,010, 18,050, and 26,216 bp, respectively. e A. truncatum cp genome contains 112 unique functional genes (i.e., 4 rRNA, 30 tRNA, and 78 protein-coding genes) as well as 78 simple sequence repeats, 9 forward repeats, 1 reverse repeat, 5 palindromic repeats, and 7 tandem repeats. We analyzed the expansion/contraction of the IR regions in the cp genomes of six Acer species. A comparison of these cp genomes indicated the noncoding regions were more diverse than the coding regions. A phylogenetic analysis revealed that A. truncatum is closely related to A. miaotaiense. Moreover, a novel ycf4-cemA indel marker was developed for distinguishing several Acer species (i.e., A. buergerianum, A. truncatum, A. henryi, A. negundo, A. ginnala, and A. tonkinense). e results of the current study provide valuable information for future evolutionary studies and the molecular barcoding of Acer species.",
+        "pubt": 2019.0
+    },
+    "E00036417": {
+        "field": "生物",
+        "title": "Optogenetic regulation of engineered cellular metabolism for microbial chemical production.",
+        "score": [
+            95,
+            100,
+            91
+        ],
+        "场景": "原评价",
+        "title_matched": "Optogenetic regulation of engineered cellular metabolism for microbial chemical production",
+        "abstract": "The optimization of engineered metabolic pathways requires careful control over the levels and timing of metabolic enzyme expression <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,82.73,212.89,3.20,6.58\" target=\"#b0\">[1]</ref> <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,85.94,212.89,3.20,6.58\" target=\"#b1\">[2]</ref> <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,85.94,212.89,3.20,6.58\" target=\"#b2\">[3]</ref> <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,89.14,212.89,3.20,6.58\" target=\"#b3\">[4]</ref> . Optogenetic tools are ideal for achieving such precise control, as light can be applied and removed instantly without complex media changes. Here we show that light-controlled transcription can be used to enhance the biosynthesis of valuable products in engineered Saccharomyces cerevisiae. We introduce new optogenetic circuits to shift cells from a light-induced growth phase to a darkness-induced production phase, which allows us to control fermentation with only light. Furthermore, optogenetic control of engineered pathways enables a new mode of bioreactor operation using periodic light pulses to tune enzyme expression during the production phase of fermentation to increase yields. Using these advances, we control the mitochondrial isobutanol pathway to produce up to 8.49 ± 0.31 g l -1 of isobutanol and 2.38 ± 0.06 g l -1 of 2-methyl-1-butanol micro-aerobically from glucose. These results make a compelling case for the application of optogenetics to metabolic engineering for the production of valuable products.",
+        "pubt": 2018.0
+    },
+    "E00036418": {
+        "field": "生物",
+        "title": "Cell-free prototyping enables implementation of optimized reverse β-oxidation pathways in heterotrophic and autotrophic bacteria.",
+        "score": [
+            92,
+            85,
+            90
+        ],
+        "场景": "原评价",
+        "title_matched": "Cell-free prototyping enables implementation of optimized reverse β-oxidation pathways in heterotrophic and autotrophic bacteria",
+        "abstract": "Carbon-negative synthesis of biochemical products has the potential to mitigate global CO 2 emissions. An attractive route to do this is the reverse β-oxidation (r-BOX) pathway coupled to the Wood-Ljungdahl pathway. Here, we optimize and implement r-BOX for the synthesis of C4-C6 acids and alcohols. With a high-throughput in vitro prototyping workflow, we screen 762 unique pathway combinations using cell-free extracts tailored for r-BOX to identify enzyme sets for enhanced product selectivity. Implementation of these pathways into Escherichia coli generates designer strains for the selective production of butanoic acid (4.9 ± 0.1 gL -1 ), as well as hexanoic acid (3.06 ± 0.03 gL -1 ) and 1-hexanol (1.0 ± 0.1 gL -1 ) at the best performance reported to date in this bacterium. We also generate Clostridium autoethanogenum strains able to produce 1-hexanol from syngas, achieving a titer of 0.26 gL -1 in a 1.5 L continuous fermentation. Our strategy enables optimization of r-BOX derived products for biomanufacturing and industrial biotechnology.",
+        "pubt": 2022.0
+    },
+    "E00036419": {
+        "field": "生物",
+        "title": "Optimized gene expression from bacterial chromosome by high-throughput integration and screening.",
+        "score": [
+            86,
+            69,
+            87
+        ],
+        "场景": "原评价",
+        "title_matched": "Optimized gene expression from bacterial chromosome by high-throughput integration and screening",
+        "abstract": "Chromosomal integration of recombinant genes is desirable compared with expression from plasmids due to increased stability, reduced cell-to-cell variability, and elimination of the need for antibiotics for plasmid maintenance. Here, we present a new approach for tuning pathway gene expression levels via random integration and high-throughput screening. We demonstrate multiplexed gene integration and expression-level optimization for isobutanol production in Escherichia coli. The integrated strains could, with far lower expression levels than plasmid-based expression, produce high titers (10.0 ± 0.9 g/liter isobutanol in 48 hours) and yields (69% of the theoretical maximum). Close examination of pathway expression in the top-performing, as well as other isolates, reveals the complexity of cellular metabolism and regulation, underscoring the need for precise optimization while integrating pathway genes into the chromosome. We expect this method for pathway integration and optimization can be readily extended to a wide range of pathways and chassis to create robust and efficient production strains.",
+        "pubt": 2021.0
+    },
+    "E00036420": {
+        "field": "生物",
+        "title": "Optimization of isopropanol production by engineered cyanobacteria with a synthetic metabolic pathway.",
+        "score": [
+            56,
+            44,
+            57
+        ],
+        "场景": "原评价",
+        "title_matched": "Optimization of isopropanol production by engineered cyanobacteria with a synthetic metabolic pathway",
+        "abstract": "Cyanobacterium is an attractive host for the production of various chemicals and alternative fuels using solar energy and carbon dioxide. In previous study, we succeeded to produce isopropanol using engineered Synechococcus elongatus PCC 7942 under dark and anaerobic conditions (0.43 mM, 26.5 mg/l). In the present study, we report the further optimization of this isopropanol producing condition. We then optimized growth conditions for production of isopropanol by the engineered cyanobacteria, including the use of cells in early stationary phase and buffering of the production medium to neutral pH. We observed that shifting of cultures from dark and anaerobic to light and aerobic conditions during the production phase dramatically increased isopropanol production by conversion to isopropanol from acetate, byproduct under dark and anaerobic condition. Under the optimized production conditions, the titer of isopropanol was elevated 6-fold, to 2.42 mM (146 mg/l).",
+        "pubt": 2014.0
+    },
+    "E00036367": {
+        "field": "生物",
+        "title": "PHYTOCHROME-INTERACTING FACTORS Interact with the ABA Receptors PYL8 and PYL9 to Orchestrate ABA Signaling in Darkness.",
+        "score": [
+            78,
+            84
+        ],
+        "场景": "原评价",
+        "title_matched": "PHYTOCHROME-INTERACTING FACTORS Interact with the ABA Receptors PYL8 and PYL9 to Orchestrate ABA Signaling in Darkness",
+        "abstract": "PHYTOCHROME-INTERACTING FACTORS (PIFs) are a group of basic helix-loop-helix transcription factors that can physically interact with photoreceptors, including phytochromes and cryptochromes. It was previously demonstrated that PIFs accumulated in darkness and repressed seedling photomorphogenesis, and that PIFs linked different photosensory and hormonal pathways to control plant growth and development. In this study, we show that PIFs positively regulate the ABA signaling pathway during the seedling stage specifically in darkness. We found that PIFs positively regulate ABI5 transcript and protein levels in darkness in response to exogenous ABA treatment by binding directly to the G-box motifs in the ABI5 promoter. Consistently, PIFs and the G-box motifs in the ABI5 promoter determine ABI5 expression in darkness, and overexpression of ABI5 could rescue the ABA-insensitive phenotypes of pifq mutants in the dark. Moreover, we discovered that PIFs can physically interact with the ABA receptors PYL8 and PYL9, and that this interaction is not regulated by ABA. Further analyses showed that PYL8 and PYL9 promote PIF4 protein accumulation in the dark and enhance PIF4 binding to the ABI5 promoter, but negatively regulate PIF4mediated ABI5 activation. Taken together, our data demonstrate that PIFs interact with ABA receptors to orchestrate ABA signaling in darkness by controlling ABI5 expression, providing new insights into the pivotal roles of PIFs as signal integrators in regulating plant growth and development.",
+        "pubt": 2020.0
+    },
+    "E00036368": {
+        "field": "生物",
+        "title": "The evening complex coordinates environmental and endogenous signals in Arabidopsis.",
+        "score": [
+            77,
+            80
+        ],
+        "场景": "原评价",
+        "title_matched": "The evening complex coordinates environmental and endogenous signals in Arabidopsis",
+        "abstract": "Plants maximize their fitness by adjusting their growth and development in response to signals such as light and temperature. The circadian clock provides a mechanism for plants to anticipate events such as sunrise and adjust their transcriptional programmes. However, the underlying mechanisms by which plants coordinate environmental signals with endogenous pathways are not fully understood. Using RNA-sequencing and chromatin immunoprecipitation sequencing experiments, we show that the evening complex (EC) of the circadian clock plays a major role in directly coordinating the expression of hundreds of key regulators of photosynthesis, the circadian clock, phytohormone signalling, growth and response to the environment. We find that the ability of the EC to bind targets genome-wide depends on temperature. In addition, co-occurrence of phytochrome B (phyB) at multiple sites where the EC is bound provides a mechanism for integrating environmental information. Hence, our results show that the EC plays a central role in coordinating endogenous and environmental signals in Arabidopsis.",
+        "pubt": 2017.0
+    },
+    "E00036369": {
+        "field": "生物",
+        "title": "Molecular basis of flowering under natural long-day conditions in Arabidopsis.",
+        "score": [
+            77,
+            80
+        ],
+        "场景": "原评价",
+        "title_matched": "Molecular basis of flowering under natural long-day conditions in Arabidopsis",
+        "abstract": "any plants utilize day-length (that is, photoperiod) and temperature information to control various seasonal responses for survival and reproduction. Among the seasonal responses, flowering regulation in Arabidopsis is the most characterized response at the molecular level 1 . Photoperiod and temperature information is processed through circadian clockdependent mechanisms to induce the expression of the florigen gene, FLOWERING LOCUS T (FT), around dusk in long days (LDs) 2,3 . This LD-specific FT induction occurs in leaf phloem companion cells. Once synthesized in LD, the FT protein is transferred from the leaves to the shoot apical meristem to trigger the transition from vegetative to reproductive development 4 .",
+        "pubt": 2018.0
+    },
+    "E00036370": {
+        "field": "生物",
+        "title": "PIL5 represses floral transition in Arabidopsis under long day conditions.",
+        "score": [
+            58,
+            60
+        ],
+        "场景": "原评价",
+        "title_matched": "PIL5 represses floral transition in Arabidopsis under long day conditions",
+        "abstract": ", also named PHYTOCHROME INTERACTING FACTOR 1 (PIF1) is an important b-HLH transcription factor in Arabidopsis thaliana. Here we show that mutant of pil5-1 displays early flowering phenotype. We demonstrate that the expressions of the major flowering promoter genes [FLOWERING LOCUS T (FT), SUPPRESOR OF OVEREXPRESSION OF CO 1 (SOC1), and LEAFY (LFY)] are upregulated in the mutant of pil5-1. There is a significant increase of the mRNA of PIL5 in the mutants of co2-1, ft-10, soc1-2, and lfy-4. These changes provide the molecular evidence that PIL5 interacts with the flowering regulators to control flowering time. Moreover, it is shown in our results that PIL5 mutation mediates the increased contents of gibberellic acid (GA). Which is further supported by the qRT-PCR analysis, an increased transcriptome level of the GA biosynthesis genes (GA3ox1, GA3ox2, GA20ox1, GA20ox2, and GA20ox3) has been observed in the pil5-1 mutants as compared to the wild type. Collectively, PIL5 is involved in floral transition interacting with flowering integrators and GA.",
+        "pubt": 2018.0
+    },
+    "E00036397": {
+        "field": "生物",
+        "title": "Targeting the Temporal Dynamics of Hypoxia-Induced Tumor-Secreted Factors Halts Tumor Migration.",
+        "score": [
+            75
+        ],
+        "场景": "原评价",
+        "title_matched": "Targeting the temporal dynamics of hypoxia-induced tumor-secreted factors halts tumor migration",
+        "abstract": "Targeting microenvironmental factors that foster migratory cell phenotypes is a promising strategy for halting tumor migration. However, lack of mechanistic understanding of the emergence of migratory phenotypes impedes pharmaceutical drug development. Using our 3D microtumor model with tight control over tumor size, we recapitulated the tumor size-induced hypoxic microenvironment and emergence of migratory phenotypes in microtumors from epithelial breast cells and patient-derived primary metastatic breast cancer cells, mesothelioma cells, and lung cancer xenograft cells (PDX). The microtumor models from various patientderived tumor cells and PDX cells revealed upregulation of tumor-secreted factors including matrix metalloproteinase-9 (MMP9), fibronectin (FN), and soluble E-cadherin (sE-CAD), consistent with clinically reported elevated levels of FN and MMP9 in patient breast tumors compared to healthy mammary glands. Secreted factors in the conditioned media of large microtumors induced a migratory phenotype in non-hypoxic, non-migratory small microtumors. Subsequent mathematical analyses identified a two-stage microtumor progression and migration mechanism whereby hypoxia induces a migratory phenotype in the initialization stage which then becomes self-sustained through a positive feedback loop established among the tumorsecreted factors. Computational and experimental studies showed that inhibition of tumorsecreted factors effectively halts microtumor migration despite tumor-to-tumor variation in migration kinetics, while inhibition of hypoxia is effective only within a time window and is compromised by tumor-to-tumor variation, supporting our notion that hypoxia initiates migratory phenotypes but does not sustain it. In summary, we show that targeting temporal dynamics of evolving microenvironments, especially tumor-secreted factors during tumor progression, can halt tumor migration.",
+        "pubt": 2019.0
+    },
+    "E00036398": {
+        "field": "生物",
+        "title": "The Study of Sarcoma Microenvironment Heterogeneity Associated With Prognosis Based on an Immunogenomic Landscape Analysis.",
+        "score": [
+            40
+        ],
+        "场景": "原评价",
+        "title_matched": "The Study of Sarcoma Microenvironment Heterogeneity Associated With Prognosis Based on an Immunogenomic Landscape Analysis",
+        "abstract": "Microenvironment-driven tumor heterogeneity causes the limitation of immunotherapy of sarcomas. Nonetheless, systematical studies of various molecular levels can enhance the understanding of tumor microenvironment (TME) related to prognosis and provide novel insights of precision immunotherapy. Three prognostic-related TME phenotypes were identified by consensus clustering of the relative infiltration of 22 immune cells from 869 samples of sarcomas. Additionally, integrative immunogenomic analysis is applied to explore the characteristics of different TME groups. The results revealed that most of the immune cell infiltration is higher in the better prognostic group, which are more affected by lower DNA methylation levels and fewer copy number variations in the worse prognostic group. The signaling pathway crosstalk analysis suggested that the changes in the TME will cause considerable variation in the flow of information between pathways, especially when the degree of relative infiltration of immune cells is low, patient's endocrine system may also be significantly affected. Also, the endogenous competitive network analysis indicated that several differentially expressed long noncoding RNAs (lncRNAs) associated with the prognosis or tumor recurrence of sarcoma patients affected the regulatory relationship between miRNAs and different genes when the sarcoma microenvironment changes. In summary, the significant relationship between genetic alterations and prognostic-related TME characteristics in sarcomas were determined in this study. These findings may provide new clues for the treatment of sarcomas.",
+        "pubt": 2020.0
+    },
+    "E00036399": {
+        "field": "生物",
+        "title": "3D Model of the Early Melanoma Microenvironment Captures Macrophage Transition into a Tumor-Promoting Phenotype.",
+        "score": [
+            62
+        ],
+        "场景": "原评价",
+        "title_matched": "3D Model of the Early Melanoma Microenvironment Captures Macrophage Transition into a Tumor-Promoting Phenotype",
+        "abstract": "We developed a \"tumor-in-a-dish\" experimental system to study the early events favoring tumor growth and suppression of the immune response in metastatic melanoma. We combined murine melanoma tumor cells with fibroblasts and macrophages in a 3D collagen matrix and characterized how interactions between these three cell types, which are present in the early stages of tumorigenesis, drive immune suppression and the tumor-promoting transition in macrophages that is observed in vivo. Over the course of 7 days in the co-cultures, we quantified the dynamics of cues transmitted by direct cell-cell interactions, through the extracellular matrix and through secretion of immune mediators. We found that macrophages acquired features and a functional profile consistent with those present in in vivo murine melanoma tumors. This system will enable future studies of macrophage-stromal cross-talk in the melanoma microenvironment and provide a platform to test potential therapeutic approaches aimed at stimulating immune activity in macrophages.",
+        "pubt": 2021.0
+    },
+    "E00036400": {
+        "field": "生物",
+        "title": "Effect of tumor microenvironment on pathogenesis of the head and neck squamous cell carcinoma: a systematic review.",
+        "score": [
+            0
+        ],
+        "场景": "原评价",
+        "title_matched": "Effect of tumor microenvironment on pathogenesis of the head and neck squamous cell carcinoma: a systematic review",
+        "abstract": "The tumor microenvironment (TME) is comprised of many different cell populations, such as cancer-associated fibroblasts and various infiltrating immune cells, and non-cell components of extracellular matrix. These crucial parts of the surrounding stroma can function as both positive and negative regulators of all hallmarks of cancer development, including evasion of apoptosis, induction of angiogenesis, deregulation of the energy metabolism, resistance to the immune detection and destruction, and activation of invasion and metastasis. This review represents a summary of recent studies focusing on describing these effects of microenvironment on initiation and progression of the head and neck squamous cell carcinoma, focusing on oral squamous cell carcinoma, since it is becoming clear that an investigation of differences in stromal composition of the head and neck squamous cell carcinoma microenvironment and their impact on cancer development and progression may help better understand the mechanisms behind different responses to therapy and help define possible targets for clinical intervention.",
+        "pubt": 2019.0
+    },
+    "E00036457": {
+        "field": "生物",
+        "title": "The Effect of Prickly Pear, Pumpkin, and Linseed Oils on Biological Mediators of Acute Inflammation and Oxidative Stress Markers.",
+        "score": [
+            69
+        ],
+        "场景": "原评价",
+        "title_matched": "The Effect of Prickly Pear, Pumpkin, and Linseed Oils on Biological Mediators of Acute Inflammation and Oxidative Stress Markers",
+        "abstract": "Medicinal plants have been used as a source of effective and safe alternative therapeutic agents for various ailments including inflammation. In fact, the aim of this study is to assess the topical anti-inflammatory and antioxidative potential effects of Cucurbita pepo (pumpkin), Linum usitatissimum (linseed), and Opuntia ficus indica (prickly pear) oils on acute inflammation using carrageenan-induced paw edema model. The study was conducted on 36 rats splitted in 6 groups: a normal control group and 5 carrageenan-treated groups (1%), each treated with either a normal saline, the reference drug (\"Inflocine®\" 2 mg/paw), pumpkin, linseed, or prickly pear oils (25 μl/paw). The response to these treatments was mainly assessed by the measuring of edema paw size, hematological and biochemical analysis, oxidative stress testing, and histological study. All the studied seed oils especially prickly pear oil proved to be efficient in treating acute inflammation. The oil-treated groups revealed a significant (p < 0:05) decrease in the clinical signs of inflammation, hematological parameters (white blood cells and platelets), concentrations of CRP and fibrinogen, and congestion compared to the normal saline-treated group. The results also showed that the tested oils, endowed with a radical scavenging ability, could significantly increase the activities of SOD, CAT, and GPx in carrageenan-treated skin by reducing the lipid peroxidation and protein oxidation (TBARS, AOPP). The anti-inflammatory effect of the tested oils was closely related to both their antioxidant properties as well as their bioactive compounds (polyunsaturated fatty acids, vitamin E, and phytosterols). For the first time, the findings of the current study highlight the \"in vivo\" anti-inflammatory property of pumpkin, linseed, and prickly pear oils on carrageenan-induced acute inflammation by regulating inflammatory mediators and oxidative stress markers.",
+        "pubt": 2020.0
+    },
+    "E00036458": {
+        "field": "生物",
+        "title": "Anti-Inflammatory Effect of Emblica officinalis in Rodent Models of Acute and Chronic Inflammation: Involvement of Possible Mechanisms.",
+        "score": [
+            42
+        ],
+        "场景": "原评价",
+        "title_matched": "Anti-Inflammatory Effect of Emblica officinalis in Rodent Models of Acute and Chronic Inflammation: Involvement of Possible Mechanisms",
+        "abstract": "Emblica officinalis, commonly known as amla in Ayurveda, is unarguably the most important medicinal plant for prevention and treatment of various ailments. The present study investigated the anti-inflammatory activity of hydroalcoholic extract of Emblica officinalis (HAEEO). Acute inflammation in rats was induced by the subplantar injection of carrageenan, histamine, serotonin, and prostaglandin E 2 and chronic inflammation was induced by the cotton pellet granuloma. Intraperitoneal (i.p.) administration of HAEEO at all the tested doses (300, 500, and 700 mg/kg) significantly (𝑃 < 0.001) inhibited rat paw edema against all phlogistic agents and also reduced granuloma formation. However, at the dose of 700 mg/kg, HAEEO exhibited maximum anti-inflammatory activity in all experimental models, and the effects were comparable to that of the standard anti-inflammatory drugs. Additionally, in paw tissue the antioxidant activity of HAEEO was also measured and it was found that HAEEO significantly (𝑃 < 0.001) increased glutathione, superoxide dismutase, and catalase activity and subsequently reduced lipid peroxidation evidenced by reduced malondialdehyde. Taken all together, the results indicated that HAEEO possessed potent anti-inflammatory activity and it may hold therapeutic promise in the management of acute and chronic inflammatory conditions.",
+        "pubt": 2014.0
+    },
+    "E00036459": {
+        "field": "生物",
+        "title": "Elucidation of the anti-inflammatory mechanism of Er Miao San by integrative approach of network pharmacology and experimental verification.",
+        "score": [
+            83
+        ],
+        "场景": "原评价",
+        "title_matched": "Elucidation of the anti-inflammatory mechanism of Er Miao San by integrative approach of network pharmacology and experimental verification",
+        "abstract": "Traditional Chinese medicine (TCM) has been long time used in China and gains ever-increasing worldwide acceptance. Er Miao San (EMS), a TCM formula, has been extensively used to treat inflammatory diseases, while its bioactive components and therapeutic mechanisms remain unclear. In this study, we conducted an integrative approach of network pharmacology and experimental study to elucidate the underlying mechanisms of EMS in treating human rheumatoid arthritis (RA) and other inflammatory conditions. Quercetin, wogonin and rutaecarpine were probably the main active compounds of EMS in RA treatment as they affected the most RA-related targets, and TNF-α, IL-6 and IL-1β were considered to be the core target proteins. The main compounds in EMS bound to these core proteins, which was further confirmed by molecular docking and bio-layer interferometry (BLI) analysis. Moreover, the potential molecular mechanisms of EMS predicted from network pharmacology analysis, were validated in vivo and in vitro experiments. EMS was found to inhibit the production of NO, TNF-α and IL-6 in lipopolysaccharide (LPS)-stimulated RAW264.7 cells; reduce xylene-induced mouse ear edema; and decrease the incidence of carrageenan-induced rat paw edema. The carrageenan-induced up-regulation of TNF-α, IL-6 and IL-1β mRNA expression in rat paws was down-regulated by EMS, consistent with the network pharmacology results. This study provides evidence that EMS plays a critical role in anti-inflammation via suppressing inflammatory cytokines, indicating that EMS is a candidate herbal drug for further investigation in treating inflammatory and arthritic conditions.",
+        "pubt": 2021.0
+    },
+    "E00036460": {
+        "field": "生物",
+        "title": "Evaluation of anti-inflammatory potential of aqueous extract and polysaccharide fraction of Thuja occidentalis Linn. in mice.",
+        "score": [
+            84
+        ],
+        "场景": "原评价",
+        "title_matched": "Evaluation of anti-inflammatory potential of aqueous extract and polysaccharide fraction of Thuja occidentalis Linn. in mice",
+        "abstract": "Inflammation is a protective response of the microcirculation, but when prolonged, it can lead to harmful effects. Thuja occidentalis Linn. is known for various pharmacological properties; however, its anti-inflammatory potential has not been previously reported. This study aimed to evaluate the anti-inflammatory activity of the aqueous extract (AE) and the polysaccharide fraction (PLS) of T. occidentalis in mice.\n\nUsing several experimental models, we found that both AE and PLS (administered intraperitoneally at doses of 3, 10, and 30 mg/kg) significantly reduced (p < 0.05) paw edema induced by carrageenan, dextran sulfate (DEX), compound 48/80, serotonin (5-HT), bradykinin (BK), histamine (HIST), and prostaglandin E2 (PGE2). Additionally, the treatments inhibited neutrophil recruitment, reduced myeloperoxidase (MPO) activity, tumor necrosis factor-α (TNF-α) and interleukin-6 (IL-6) levels, vascular permeability, nitrite, and malondialdehyde (MDA) concentrations, while maintaining glutathione (GSH) levels in the peritoneal exudate.\n\nHistological analysis revealed that AE and PLS reduced neutrophil infiltration and lowered immunostaining of cyclooxygenase-2 (COX-2) and inducible nitric oxide synthase (iNOS) in paw tissue. Notably, treatment with AE and PLS at a high dose (300 mg/kg) did not cause gastric toxicity.\n\nIn conclusion, these findings demonstrate that the aqueous extract and polysaccharide fraction of T. occidentalis possess significant anti-inflammatory activity, achieved through the inhibition of vascular and cellular inflammatory events, suppression of pro-inflammatory cytokines, and reduction of oxidative stress—all without inducing gastric side effects at high doses.\n",
+        "pubt": 2017.0
+    },
+    "E00036447": {
+        "field": "生物",
+        "title": "Novel mechanisms of regulation of miRNAs in CLL.",
+        "score": [
+            90,
+            68,
+            59
+        ],
+        "场景": "原评价",
+        "title_matched": "Novel Mechanisms of Regulation of miRNAs in CLL",
+        "abstract": "B cell chronic lymphocytic leukemia (CLL) is the most common adult human leukemia. Despite this, the molecular alterations leading to CLL onset and progression are still under investigation, specifically, the interplay and exact role of oncogenes and tumor suppressors. miRNAs are small noncoding RNAs that regulate gene expression and are expressed in a tissue-specific manner. Deregulation of miRNAs can alter expression levels of genes involved in the development and/or progression of tumors. In CLL, miRNAs can function as oncogenes or tumor suppressors. Here, we review the most recent findings on the role of miRNAs in CLL and discuss how this knowledge can be used to identify new biomarkers and targets to treat this leukemia.",
+        "pubt": 2016.0
+    },
+    "E00036448": {
+        "field": "生物",
+        "title": "miRPathDB: a new dictionary on microRNAs and target pathways.",
+        "score": [
+            88,
+            83,
+            57
+        ],
+        "场景": "原评价",
+        "title_matched": "miRPathDB: a new dictionary on microRNAs and target pathways",
+        "abstract": "In the last decade, miRNAs and their regulatory mechanisms have been intensively studied and many tools for the analysis of miRNAs and their targets have been developed. We previously presented a dictionary on single miRNAs and their putative target pathways. Since then, the number of miRNAs has tripled and the knowledge on miRNAs and targets has grown substantially. This, along with changes in pathway resources such as KEGG, leads to an improved understanding of miRNAs, their target genes and related pathways. Here, we introduce the miRNA Pathway Dictionary Database (miRPathDB), freely accessible at https://mpd.bioinf.uni-sb.de/. With the database we aim to complement available target pathway web-servers by providing researchers easy access to the information which pathways are regulated by a miRNA, which miRNAs target a pathway and how specific these regulations are. The database contains a large number of miRNAs (2595 human miRNAs), different miRNA target sets (14 773 experimentally validated target genes as well as 19 281 predicted targets genes) and a broad selection of functional biochemical categories (KEGG-, WikiPathways-, BioCarta-, SMPDB-, PID-, Reactome pathways, functional categories from gene ontology (GO), protein families from Pfam and chromosomal locations totaling 12 875 categories). In addition to Homo sapiens, also Mus musculus data are stored and can be compared to human target pathways.",
+        "pubt": 2016.0
+    },
+    "E00036449": {
+        "field": "生物",
+        "title": "Diverse microRNAs with convergent functions regulate tumorigenesis.",
+        "score": [
+            55,
+            69,
+            48
+        ],
+        "场景": "原评价",
+        "title_matched": "Diverse microRNAs with convergent functions regulate tumorigenesis (Review)",
+        "abstract": "MicroRNAs (miRNAs) regulate several biological processes, including tumorigenesis. In order to comprehend the roles of miRNAs in cancer, various screens were performed to investigate the changes in the expression levels of miRNAs that occur in different types of cancer. The present review focuses on the results of five recent screens, whereby a number of overlapping miRNAs were identified to be downregulated or differentially regulated, whereas no miRNAs were observed to be frequently upregulated. Furthermore, the majority of the miRNAs that were common to >1 screen were involved in signaling networks, including wingless-related integration site, receptor tyrosine kinase and transforming growth factor-β, or in cell cycle checkpoint control. The present review will discuss the aforementioned miRNAs implicated in cell cycle checkpoint control and signaling networks. Contents 1. Introduction 2. Commonly downregulated microRNAs 3. Differentially regulated microRNAs in various types of cancer 4. Signalling cascades with microRNA interaction 5. Conclusion",
+        "pubt": 2015.0
+    },
+    "E00036450": {
+        "field": "生物",
+        "title": "Dynamic and Modularized MicroRNA Regulation and Its Implication in Human Cancers.",
+        "score": [
+            80,
+            86,
+            73
+        ],
+        "场景": "原评价",
+        "title_matched": "Dynamic and Modularized MicroRNA Regulation and Its Implication in Human Cancers",
+        "abstract": "MicroRNA is responsible for the fine-tuning of fundamental cellular activities and human disease development. The altered availability of microRNAs, target mRNAs, and other types of endogenous RNAs competing for microRNA interactions reflects the dynamic and conditional property of microRNAmediated gene regulation that remains under-investigated. Here we propose a new integrative method to study this dynamic process by considering both competing and cooperative mechanisms and identifying functional modules where different microRNAs co-regulate the same functional process. Specifically, a new pipeline was built based on a meta-Lasso regression model and the proof-of-concept study was performed using a large-scale genomic dataset from ~4,200 patients with 9 cancer types. In the analysis, 10,726 microRNA-mRNA interactions were identified to be associated with a specific stage and/or type of cancer, which demonstrated the dynamic and conditional miRNA regulation during cancer progression. On the other hands, we detected 4,134 regulatory modules that exhibit high fidelity of microRNA function through selective microRNA-mRNA binding and modulation. For example, miR-18a-3p, -320a, -193b-3p, and -92b-3p co-regulate the glycolysis/gluconeogenesis and focal adhesion in cancers of kidney, liver, lung, and uterus. Furthermore, several new insights into dynamic microRNA regulation in cancers have been discovered in this study.",
+        "pubt": 2017.0
+    },
+    "E00036387": {
+        "field": "生物",
+        "title": "Genetic variation in ZmVPP1 contributes to drought tolerance in maize seedlings.",
+        "score": [
+            80
+        ],
+        "场景": "原评价",
+        "title_matched": "Genetic variation in ZmVPP1 contributes to drought tolerance in maize seedlings",
+        "abstract": "Maize production is threatened by drought stress worldwide. Identification of the genetic components underlying drought tolerance in maize is of great importance. Here we report a genome-wide association study (GWAS) of maize drought tolerance at the seedling stage that identified 83 genetic variants, which were resolved to 42 candidate genes. The peak GWAS signal showed that the natural variation in ZmVPP1, encoding a vacuolar-type H + pyrophosphatase, contributes most significantly to the trait. Further analysis showed that a 366-bp insertion in the promoter, containing three MYB cis elements, confers droughtinducible expression of ZmVPP1 in drought-tolerant genotypes. Transgenic maize with enhanced ZmVPP1 expression exhibits improved drought tolerance that is most likely due to enhanced photosynthetic efficiency and root development. Taken together, this information provides important genetic insights into the natural variation of maize drought tolerance. The identified loci or genes can serve as direct targets for both genetic engineering and selection for maize trait improvement.",
+        "pubt": 2016.0
+    },
+    "E00036388": {
+        "field": "生物",
+        "title": "The role of transposon inverted repeats in balancing drought tolerance and yield-related traits in maize.",
+        "score": [
+            84
+        ],
+        "场景": "原评价",
+        "title_matched": "The role of transposon inverted repeats in balancing drought tolerance and yield-related traits in maize",
+        "abstract": "The genomic basis underlying the selection for environmental adaptation and yield-related traits in maize remains poorly understood. Here we carried out genome-wide profiling of the small RNA (sRNA) transcriptome (sRNAome) and transcriptome landscapes of a global maize diversity panel under dry and wet conditions and uncover dozens of environment-specific regulatory hotspots. Transgenic and molecular studies of Drought-Related Environment-specific Super eQTL Hotspot on chromosome 8 (DRESH8) and ZmMYBR38, a target of DRESH8-derived small interfering RNAs, revealed a transposable element-mediated inverted repeats (TE-IR)-derived sRNAand gene-regulatory network that balances plant drought tolerance with y ie ld -r el ated traits. A genome-wide scan revealed that TE-IRs associate with drought response and yield-related traits that were positively selected and expanded during maize domestication. These results indicate that TE-IR-mediated posttranscriptional regulation is a key molecular mechanism underlying the tradeoff between crop environmental adaptation and yield-related traits, providing potential genomic targets for the breeding of crops with greater stress tolerance but uncompromised yield.",
+        "pubt": 2022.0
+    },
+    "E00036389": {
+        "field": "生物",
+        "title": "Genome assembly of a tropical maize inbred line provides insights into structural variation and crop improvement.",
+        "score": [
+            72
+        ],
+        "场景": "原评价",
+        "title_matched": "Genome assembly of a tropical maize inbred line provides insights into structural variation and crop improvement",
+        "abstract": "Maize is one of the most important crops globally, and it shows remarkable genetic diversity. Knowledge of this diversity could help in crop improvement; however, gold-standard genomes have been elucidated only for modern temperate varieties. Here, we present a high-quality reference genome (contig N50 of 15.78 megabases) of the maize small-kernel inbred line, which is derived from a tropical landrace. Using haplotype maps derived from B73, Mo17 and SK, we identified 80,614 polymorphic structural variants across 521 diverse lines. Approximately 22% of these variants could not be detected by traditional single-nucleotide-polymorphism-based approaches, and some of them could affect gene expression and trait performance. To illustrate the utility of the diverse SK line, we used it to perform map-based cloning of a major effect quantitative trait locus controlling kernel weight—a key trait selected during maize improvement. The underlying candidate gene ZmBARELY ANY MERISTEM1d provides a target for increasing crop yields.",
+        "pubt": 2019
+    },
+    "E00036390": {
+        "field": "生物",
+        "title": "Genome-wide analysis of the maize superoxide dismutase (SOD) gene family reveals important roles in drought and salt responses.",
+        "score": [
+            77
+        ],
+        "场景": "原评价",
+        "title_matched": "Genome-wide analysis of the maize superoxide dismutase (SOD) gene family reveals important roles in drought and salt responses",
+        "abstract": "Superoxide dismutase proteins (SODs) are antioxidant enzymes with important roles in abiotic stress responses. The SOD gene family has been systematically analyzed in many plants; however, it is still poorly understood in maize.",
+        "pubt": 2021.0
+    }
+}

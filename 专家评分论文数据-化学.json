@@ -1,0 +1,949 @@
+{
+    "E00036531": {
+        "field": "化学",
+        "title": "Cd(OH)2/BiOCl复合材料的制备及其光催化性能.",
+        "score": [
+            39,
+            44
+        ],
+        "场景": "再评价",
+        "title_matched": "Cd(OH)2/BiOCl复合材料的制备及其光催化性能.",
+        "abstract": "BiOCl is a good photocatalyst, but the easy recombination of photo generated electron-hole pairs limits its application in the field of photocatalysis. Cd(OH)2/BiOCl composite materials were prepared by one-step hydrothermal method, and its photocatalytic performance was investigated with Rhodamine B(RhB) as the degradation target. The composite materials were characterized by XRD, FT-IR, SEM, XPS, PL, ESR, UV-Vis DRS and other methods. It was found that the composite materials of Cd(OH)2/BiOCl exhibited a sheet-like spherical flower-like structure, and the introduction of Cd(OH)2 generated new energy levels in the composite material, with enhanced charge separation and transport capabilities, and significantly suppressed the recombination of photo generated electron-hole pairs, which improved the photocatalytic performance of the composite materials. Under 300 W xenon lamp irradiation, the removal rate of RhB by Cd(OH)2/BiOCl composite materials increased by 15.36% compared to pure BiOCl. After 5 cycles of utilization, the removal rate of RhB by the composite materials could still be maintained at 70%. The free radical scavenging experiment showed that the activity order of free radicals was O2·->h+>·OH, with O2·- being the main active substance.",
+        "pubt": 2024
+    },
+    "E00036532": {
+        "field": "化学",
+        "title": "How the marine biotoxins affect human health",
+        "score": [
+            31,
+            37
+        ],
+        "场景": "再评价",
+        "title_matched": "How the marine biotoxins affect human health",
+        "abstract": "Several marine microalgae produce dangerous toxins very damaging to human health, aquatic ecosystems and coastal resources. These Harmful Algal Blooms (HABs) in recent decades seem greatly increased regarding frequency, severity and biogeographical level, causing serious health risks as a consequence of the consumption of contaminated seafood. Toxins can cause various clinically described syndromes, characterised by a wide range of symptoms: amnesic (ASP), diarrhoetic (DSP), azaspirazid (AZP), neurotoxic (NSP) and paralytic (PSP) shellfish poisonings and ciguatera fish poisoning. The spread of HABs is probably a result of anthropogenic activities and climate change, that influence marine planktonic systems, including global warming, habitat modification, eutrophication and growth of exogenous species in response to human pressures. HABs are a worldwide matter that requests local solutions and international cooperation. This review supplies an overview of HAB phenomena, and, in particular, we describe the major consequences of HABs on human health.",
+        "pubt": 2017.0
+    },
+    "E00036533": {
+        "field": "化学",
+        "title": "Nanomaterials for the Removal of Heavy Metals from Wastewater",
+        "score": [
+            51,
+            64
+        ],
+        "场景": "再评价",
+        "title_matched": "Nanomaterials for the Removal of Heavy Metals from Wastewater",
+        "abstract": "Removal of contaminants in wastewater, such as heavy metals, has become a severe problem in the world. Numerous technologies have been developed to deal with this problem. As an emerging technology, nanotechnology has been gaining increasing interest and many nanomaterials have been developed to remove heavy metals from polluted water, due to their excellent features resulting from the nanometer effect. In this work, novel nanomaterials, including carbon-based nanomaterials, zero-valent metal, metal-oxide based nanomaterials, and nanocomposites, and their applications for the removal of heavy metal ions from wastewater were systematically reviewed. Their efficiency, limitations, and advantages were compared and discussed. Furthermore, the promising perspective of nanomaterials in environmental applications was also discussed and potential directions for future work were suggested.",
+        "pubt": 2019.0
+    },
+    "E00036534": {
+        "field": "化学",
+        "title": "Nanomaterials for removal of toxic elements from water",
+        "score": [
+            48,
+            68
+        ],
+        "场景": "再评价",
+        "title_matched": "Nanomaterials for removal of toxic elements from water",
+        "abstract": "Water pollution becomes a critical issue around the world, and heavy metals, organic and inorganic compounds and bio-organisms contribute to major pollution in water. The application of nanomaterials (NMs) for the removal of pollutants from water has attracted significant attention. Until now there are numerous publications related to water remediation including conventional technologies and emerging developments such as nanotechnology and bio-strategy, for which a number of reviews exist focusing on conventional methods, transitional metal/metal oxide nanoparticles, carbon nanotube, graphene, etc. This review article systematically summarizes the application of NMs for the removal of toxic elements in water and focuses on inorganic NMs, organic polymer NMs and organic polymer-supported nanocomposites. The goal of this review is to provide an up-to-date analysis and references in the field of emerging nanotechnology and NMs for the removal of toxic elements from water for researchers and industry. Note that the detailed procedure of preparation and characterization of NMs and remediation for organic/biopollutants such as detergents, pesticides, pharmaceuticals, and endocrine disrupting chemicals are beyond the scope of this review.",
+        "pubt": 2017.0
+    },
+    "E00036535": {
+        "field": "化学",
+        "title": "Backwashing behavior and hydrodynamic performances of granular activated carbon blends",
+        "score": [
+            57,
+            56
+        ],
+        "场景": "再评价",
+        "title_matched": "Backwashing behavior and hydrodynamic performances of granular activated carbon blends",
+        "abstract": "Ozone-biological activated carbon (O3-BAC) process has been proved to be an efficient and cost-effective technology in advanced treatment of drinking water. However, O3-BAC raises strict requirements in adsorption, hydrodynamic and regeneration performances, which one single activated carbon could hardly all-sided meet. Blending activated carbons seems to be an appropriate and economically feasible method to deal with the issue. Thus, the uniformity and stability of activated carbon blends during water treatment, especially in backwashing process are of great importance. In this paper, cyclic experiments of downward adsorption and upward backwash on 11 typical commercial granular coal-based activated carbons and their blends were carried out in column test. Hydrodynamic performances such as bed expansion rate and bed pressure drop were measured. The uniformity and stability of activated carbon blends were investigated by determining iodine number of samples collected from different heights of activated carbon bed. Then, both traditional regression methods and back-propagation neural network model were utilized to predict superficial velocity at 30% bed expansion rate and maximum bed pressure drop of activated carbon blends. The results indicate that water backwashing process has no effect on the composition proportion of activated carbon blends, and slightly changes the particle distribution of activated carbon bed regarding pore structure and adsorption capacity. A three-layer back-propagation neural network model for superficial velocity at 30% bed expansion rate yields mean relative errors of 2.17%, which is much lower than that given by traditional regression methods such as 5.53% (weighted average), 4.08% (linear) and 4.06% (polynomial). Moreover, the back-propagation neural network model for maximum bed pressure drop yields mean relative errors of 1.37%, which is much lower than that given by traditional regression methods such as 4.31% (weighted average), 4.28% (linear) and 4.22% (polynomial). The non-linear relationships can be accurately identified by the back-propagation neural network model.",
+        "pubt": 2020
+    },
+    "E00036536": {
+        "field": "化学",
+        "title": "Critical review on hazardous pollutants in water environment: Occurrence, monitoring, fate, removal technologies and risk assessment",
+        "score": [
+            41,
+            50
+        ],
+        "场景": "再评价",
+        "title_matched": "Critical review on hazardous pollutants in water environment: Occurrence, monitoring, fate, removal technologies and risk assessment",
+        "abstract": "Occurrence and fate of hazardous pollutants were discussed.",
+        "pubt": 2021.0
+    },
+    "E00036551": {
+        "field": "化学",
+        "title": "芘–苯并噻二唑连接位点对光催化制氢的影响",
+        "score": [
+            30,
+            25
+        ],
+        "场景": "再评价",
+        "title_matched": "芘–苯并噻二唑连接位点对光催化制氢的影响",
+        "abstract": "近来,用于光催化析氢的有机聚合物的设计和合成引起了许多关注.然而,关于有机聚合物的最佳连接位点的报道并不完整.通过Suzuki交叉偶联聚合反应合成了3种有机聚合物光催化剂.研究了连接位点的含量对有机聚合物半导体光催化剂的析氢性能及光电化学性能的影响.发现1,6-连接位点的增加大大加强了光催化析氢效果,尤其是1,6位连接的芘-苯并噻二唑基聚合物(L16-PyBT)在可见光照射下的光催化析氢速率为6.81mmol/(h·g),远大于其他2种有机聚合物[2.80 mmol/(h·g)和0.34mmol/(h·g)].结果表明:1,6-连接方式具有更强的π-π堆积,更好的光吸收能力和润湿性,从而提高光催化性能.这种连接方式的演变为未来有机聚合物的合成和设计提供了重要思路.",
+        "pubt": 2023
+    },
+    "E00036552": {
+        "field": "化学",
+        "title": "Applications of MOFs: Recent advances in photocatalytic hydrogen production from water",
+        "score": [
+            85,
+            86
+        ],
+        "场景": "再评价",
+        "title_matched": "Applications of MOFs: Recent advances in photocatalytic hydrogen production from water",
+        "abstract": "Owing to the structural controllability, pore modification and unique semiconductor property of metalorganic frameworks (MOFs), the investigation on MOFs as efficient photocatalysts for hydrogen production from water splitting under UV, visible or even NIR light irradiation have made great progress. In this review, we systematically summarized the recent advances of MOFs-based photocatalysts for hydrogen production from water, and divided them into three categories: MOFs, MOFs composites and MOFsderived photocatalysts. The high hydrogen production efficiency and possible hydrogen production mechanism of MOFs-based photocatalysts were analyzed in detail. A brief perspective was given to achieve high effective and stable MOFs-based materials for photolysis of water, providing suggestions to explore new and efficient MOFs-based photocatalysts.",
+        "pubt": 2019.0
+    },
+    "E00036553": {
+        "field": "化学",
+        "title": "Inorganic Nanocatalysts for Hydrogenation Reactions Contributable to a Sustainable Material Supply",
+        "score": [
+            26,
+            24
+        ],
+        "场景": "再评价",
+        "title_matched": "Inorganic Nanocatalysts for Hydrogenation Reactions Contributable to a Sustainable Material Supply",
+        "abstract": "Hydrogenation reactions using non-fossil-based hydrogen sources upgrade ubiquitous molecules to useful chemicals with low environmental load and can be promoted on nanoscale inorganic catalysts (nanocatalysts). This review discusses determining factors that enhance the catalytic activity and selectivity of thermal and electrochemical hydrogenation reactions using nanocatalysts, of which the reactivity is dependent on their electronic states, atomic arrangements and surface structures.",
+        "pubt": 2001.0
+    },
+    "E00036554": {
+        "field": "化学",
+        "title": "Tunable Organic Photocatalysts for Visible-Light-Driven Hydrogen Evolution",
+        "score": [
+            88,
+            89
+        ],
+        "场景": "再评价",
+        "title_matched": "Tunable Organic Photocatalysts for Visible Light-Driven Hydrogen Evolution",
+        "abstract": "Photocatalytic hydrogen production from water offers an abundant, clean fuel source, but it is challenging to produce photocatalysts that use the solar spectrum effectively. Many hydrogen-evolving photocatalysts are active in the ultraviolet range, but ultraviolet light accounts for only 3% of the energy available in the solar spectrum at ground level. Solid-state crystalline photocatalysts have light absorption profiles that are a discrete function of their crystalline phase, and that are not always tunable. Here, we prepare a series of amorphous, microporous organic polymers with exquisite synthetic control over the optical gap in the range 1.94-2.95 eV. Specific monomer compositions give polymers that are robust and effective photocatalysts for the evolution of hydrogen from water in the presence of a sacrificial electron donor, without the apparent need for an added metal co-catalyst. Remarkably, unlike other organic systems, the best performing polymer is only photoactive under visible rather than ultraviolet irradiation",
+        "pubt": 2009.0
+    },
+    "E00036555": {
+        "field": "化学",
+        "title": "Strategies for developing transition metal phosphides as heterogeneous electrocatalysts for water splitting",
+        "score": [
+            74,
+            78
+        ],
+        "场景": "再评价",
+        "title_matched": "Strategies for developing transition metal phosphides as heterogeneous electrocatalysts for water splitting",
+        "abstract": "Transition metal phosphides (TMPs), as non-precious metal compounds, have attracted growing interest as heterogeneous electrocatalysts for overall water splitting. They have been studied as robust catalysts for hydrogen evolution reaction (HER) at a wide pH range. In particular, Fe, Co, Ni-based phosphides also showed high performance for oxygen evolution reaction (OER) in alkaline solutions. This review focuses on the strategies developed for preparing TMPs with enhanced HER or OER performance. These strategies include tuning the stoichiometric ratio of metal and phosphorous, hetero-atom doping or alloying, forming nano-carbon/TMPs hybrids and engineering special structures by modifying surface wettability, forming hetero-structure interfaces and generating porous structures. In terms of elemental doping strategy, the reported performance of Fe, Co, Ni-based alloying phosphides as bifunctional catalysts for both HER and OER are also summarized. Finally, the challenges and perspectives for TMPs in water splitting application are briefly discussed.",
+        "pubt": 2017.0
+    },
+    "E00036556": {
+        "field": "化学",
+        "title": "Synergistic Modulation of Non-Precious-Metal Electrocatalysts for Advanced Water Splitting",
+        "score": [
+            81,
+            82
+        ],
+        "场景": "再评价",
+        "title_matched": "Synergistic Modulation of Non-Precious-Metal Electrocatalysts for Advanced Water Splitting",
+        "abstract": "Article Recommendations CONSPECTUS: Hydrogen is an ideal energy carrier and plays a critical role in the future energy transition. Distinct from steam reforming, electrochemical water splitting, especially powered by renewables, has been considered as a promising technique for scalable production of high-purity hydrogen with no carbon emission. Its commercialization relies on the reduction of electricity consumption and thus hydrogen cost, calling for highly efficient and cost-effective electrocatalysts with the capability of steadily working at high hydrogen output. This requires the electrocatalysts to feature (1) highly active intrinsic sites, (2) abundant accessible active sites, (3) effective electron and mass transfer, (4) high chemical and structural durability, and (5) low-cost and scalable synthesis. It should be noted that all these requirements should be fulfilled together for a practicable electrocatalyst. Much effort has been devoted to addressing one or a few aspects, especially improving the electrocatalytic activity by electronic modulation of active sites, while few reviews have focused on the synergistic modulation of these aspects together although it is essential for advanced electrochemical water splitting.",
+        "pubt": 2020.0
+    },
+    "E00036521": {
+        "field": "化学",
+        "title": "中空棒状MOF及其衍生的磷酸盐类电池型电容性能的研究",
+        "score": [
+            85,
+            28
+        ],
+        "场景": "再评价",
+        "title_matched": "中空棒状MOF及其衍生的磷酸盐类电池型电容性能的研究",
+        "abstract": "为获得具有更高比容量的超级电容器正极材料,在单一金属有机框架材料的基础上研究多元金属有机框架及其衍生物的电容性能,以不同的金属元素(Ni,Co)比例制备多元金属有机框架材料,进而得到衍生的纳米级中空棒状金属磷酸盐.得到金属元素比例n(Ni):n(Co)=8:1时具有最大的比电容值895.29 F·g-1.",
+        "pubt": 2020
+    },
+    "E00036522": {
+        "field": "化学",
+        "title": "Rational design of NiMn-based electrode materials for high-performance supercapacitors",
+        "score": [
+            80,
+            84
+        ],
+        "场景": "再评价",
+        "title_matched": "Rational design of NiMn-based electrode materials for high-performance supercapacitors",
+        "abstract": "Supercapacitors have attracted extensive attention due to their advantages of high energy density, low cost and long cycle life. However, the key to affect the performance of supercapacitors lies in the electrode materials. The layered bimetallic hydroxides (LDHs), transition metal sulfides (TMSs), transition metal phosphides (TMPs) and transition metal oxides (TMOs) dominated by Ni and Mn elements have good electrochemical performance when they are used as electrode materials. The preparation methods of NiMn-based electrode materials, including hydrothermal method, electrodeposition method, sol-gel method, metal-organic frameworks (MOFs) derivation method, coprecipitation method, electrospinning method and so on, are reviewed in this paper. The carbon material modification of NiMn-based electrode materials is introduced from aspects such as graphene and its derivatives, carbon nanotubes, activated carbon, and biomass derived carbon. At the same time, the structure control strategies of NiMn-based composites are introduced, and the design strategies of two-dimensional and three-dimensional materials are systematically discussed, such as layer structure, heterostructure, Nano-flower structure, core-shell structure, etc. In particular, the research progress of NiMn-based electrode materials for asymmetric supercapacitors is introduced in detail, and their electrochemical properties in different applications are discussed. Finally, the current challenges and future development directions of NiMn-based electrode materials are discussed.",
+        "pubt": 2023.0
+    },
+    "E00036523": {
+        "field": "化学",
+        "title": "Metal-organic framework-based materials for hybrid supercapacitor application",
+        "score": [
+            78,
+            84
+        ],
+        "场景": "再评价",
+        "title_matched": "Metal-organic framework-based materials for hybrid supercapacitor application",
+        "abstract": "Constructed with both capacitive and battery-like electrodes, hybrid supercapacitor devices have been adopted as promising energy storage devices for their favorable power and energy densities. Design and fabrication of capacitive and battery-like electrode materials endowed with high specific capacitances/capacities, high rate performance and desirable durability are crucial to improve the overall energy storage performances of hybrid supercapacitors. As emerging porous crystalline materials, metal-organic frameworks with favorable porous properties, tunable chemical compositions and adjustable structures/morphologies can lead to desirable energy storage performances of hybrid supercapacitors. In this review, started from the classification of supercapacitors and electrode materials, the recent advances of pristine metal-organic frameworks, metal-organic framework composites and metal-organic frameworks derived materials applied for hybrid supercapacitor were elaborated. Furthermore, based on previous contributions, challenges and perspectives of metal-organic framework-based materials for hybrid supercapacitor application were summarized.",
+        "pubt": 2019.0
+    },
+    "E00036524": {
+        "field": "化学",
+        "title": "Polyoxometalate-Based Metal–Organic Frameworks with Conductive Polypyrrole for Supercapacitors",
+        "score": [
+            90,
+            79
+        ],
+        "场景": "再评价",
+        "title_matched": "Polyoxometalate-Based Metal-Organic Frameworks with Conductive Polypyrrole for Supercapacitors",
+        "abstract": "Metal-organic frameworks (MOFs) with high porosity could act as an ideal substitute for supercapacitors, but their poor electrical conductivities limit their electrochemical performances. In order to overcome this problem, conductive polypyrrole (PPy) has been introduced and a novel nanocomposite resulting from polyoxometalate (POM)-based MOFs (NENU-5) and PPy has been reported. It comprises the merits of POMs, MOFs, and PPy. Finally, the highly conductive PPy covering the surfaces of NENU-5 nanocrystallines can effectively improve the electron/ion transfer among NENU-5 nanocrystallines. The optimized NENU-5/PPy nanocomposite (the volume of Py is 0.15 mL) exhibits high specific capacitance (5147 mF•cm -2 ), larger than that of pristine NENU-5 (432 mF•cm -2 ). Furthermore, a symmetric supercapacitor device based on a NENU-5/PPy-0.15 nanocomposite possesses an excellent areal capacitance of 1879 mF• cm -2 , which is far above other MOF-based supercapacitors.",
+        "pubt": 2018.0
+    },
+    "E00036525": {
+        "field": "化学",
+        "title": "Metal‐Organic Frameworks and Their Derivatives‐Based Nanostructure with Different Dimensionalities for Supercapacitors",
+        "score": [
+            78,
+            79
+        ],
+        "场景": "再评价",
+        "title_matched": "Metal-Organic Frameworks and Their Derivatives-Based Nanostructure with Different Dimensionalities for Supercapacitors",
+        "abstract": "With the urgent demand for the achievement of carbon neutrality, novel nanomaterials, and environmentally friendly nanotechnologies are constantly being explored and continue to drive the sustainable development of energy storage and conversion installations. Among various candidate materials, metal-organic frameworks (MOFs) and their derivatives with unique nanostructures have attracted increasing attention and intensive investigation for the construction of next generation electrode materials, benefitting from their unique intrinsic characteristics such as large specific surface area, high porosity, and chemical tunability as well as the interconnected channels. Nevertheless, the poor electrochemical conductivity severely limits their application prospects, hence a variety of nanocomposites with multifarious structures have been designed and proposed from different dimensionalities. In this review, recent advances based on MOFs and their derivatives in different dimensionalities ranging from 1D nanopowders to 2D nanofilms and 3D aerogels, as well as 4D self-supporting electrodes for supercapacitors are summarized and highlighted. Furthermore, the key challenges and perspectives of MOFs and their derivatives-based materials for the practical and sustainable electrochemical energy conversion and storage applications are also briefly discussed, which may be served as a guideline for the design of next-generation electrode materials from different dimensionalities.",
+        "pubt": 2023.0
+    },
+    "E00036526": {
+        "field": "化学",
+        "title": "Recent Progress on Functional Metal–Organic Frameworks for Supercapacitive Energy Storage Systems",
+        "score": [
+            76,
+            69
+        ],
+        "场景": "再评价",
+        "title_matched": "Recent Progress on Functional Metal-Organic Frameworks for Supercapacitive Energy Storage Systems",
+        "abstract": "As porous coordination organic polymers, both metal-organic frameworks (MOFs) and their derived materials and MOF-based composites offer unique organic or inorganic chemistries that display superior features of high specific surface area, accessible active sites, robust structural and chemical diversity, tailorable pore size, exceptional porosity, and pre-and postsynthesis structural tunability. Therefore, MOF-based materials are attractive for energy storage applications, specifically for supercapacitor devices. This review presents recent progress in designing and utilizing pristine MOFs, MOF-derived nanomaterials, and MOF-based composite materials for supercapacitors. Most importantly, herein, recent highlights and classifications of electrolytes and their vital role in the structure-property correlation between the structures of MOF-based materials and suitable electrolyte choices for ideal supercapacitor devices are discussed. Finally, together with a discussion of the progress and outcomes of MOF electrodes, the obstacles and prospects for future MOF-related research and applications are discussed. To help this intriguing topic continue to advance, this review offers useful insights into the logical design of MOF-based electrode materials.",
+        "pubt": 2023.0
+    },
+    "E00036471": {
+        "field": "化学",
+        "title": "醇胺钛酸酯改性磁化赤泥对Pb(Ⅱ)的吸附性能研究",
+        "score": [
+            54,
+            50,
+            52
+        ],
+        "场景": "再评价",
+        "title_matched": "醇胺钛酸酯改性磁化赤泥对Pb(Ⅱ)的吸附性能研究",
+        "abstract": "Magnetized red mud adsorption material (ATMMRM) modified by alcohol-amine titanate was prepared from industrial solid waste red mud (RM) after reducing calcination and grafting modification. Using XRD, FT-IR, SEM, BET, VSM and other characterization methods to characterize and compare RM and ATMMRM. The results show that the surface of ATMMRM is successfully introduced with hydroxyl and amine groups, and the specific surface area and saturation magnetization of ATMMRM are 6. 0 and 9. 6 times higher than those before modification, respectively. These properties provide more active adsorption sites for the adsorption of Pb(Ⅱ) by ATMMRM and endow the material with magnetic separation ability. The results of static adsorption experiments show that the saturated adsorption capacity of ATMMRM for Pb(Ⅱ) in aqueous solution reach 213 mg·g-1 at pH = 6 and T = 25 ℃ . The adsorption process of Pb(Ⅱ) from aqueous solution by ATMMRM conforms to Langmuir isotherm model and pseudo-second-order kinetic equation, and is controlled by chemisorption process with spontaneous endothermic entropy increase. The main adsorption mechanism are physical adsorption and chelation of Pb(Ⅱ) with hydroxyl and amine groups grafted on the surface of ATMMRM.",
+        "pubt": 2022
+    },
+    "E00036472": {
+        "field": "化学",
+        "title": "A comprehensive review on recent advances in copper sensors",
+        "score": [
+            86,
+            82,
+            36
+        ],
+        "场景": "再评价",
+        "title_matched": "A comprehensive review on recent advances in copper sensors",
+        "abstract": "Copper (Cu 2+ ) exists in nature and biological systems and therefore its detection in soil, blood, urine, water, agriculture and food samples is of great significance. Attempts to develop colorimetric and fluorimetric sensors for the detection of Cu 2+ have picked up the pace in the last several years. Three types of Cu 2+ sensors (chemical, polymer and nanoparticle) are reported based on (i) colorimetric, (ii) fluorimetric and (iii) colorimetric and fluorimetric dual criteria. The present review intends to give a description of these reports published between 2015 and 2021 with emphasis on absorption and emission parameters of Cu 2+ binding, sensing mechanisms, structures and their applications.",
+        "pubt": 2022.0
+    },
+    "E00036473": {
+        "field": "化学",
+        "title": "A Colorimetric and Fluorescent Probe for the Detection of Cu2+ in a Complete Aqueous Solution",
+        "score": [
+            68,
+            75,
+            70
+        ],
+        "场景": "再评价",
+        "title_matched": "A Colorimetric and Fluorescent Probe for the Detection of Cu 2+ in a Complete Aqueous Solution",
+        "abstract": "The fluorescent probe has become an important method for the detection of heavy metal ions. In the present work, a new and simple fluorescent probe, Cu-P, for detecting copper ion (Cu 2+ ) was designed and synthesized. The probe has shown high sensitivity and selectivity toward Cu 2+ . The detection limit was 13 nM (based on the 3σ/slope). A significant color change from yellow to pink was observed; thus, the probe Cu-P could serve as a \"naked-eye\" indicator for Cu 2+ . Furthermore, the proposed probe was used to detect Cu 2+ in real water and soil extract samples, with the result being satisfactory. Therefore, our proposed probe would provide a promising method for the detection of Cu 2+ in the environment.",
+        "pubt": 2017.0
+    },
+    "E00036474": {
+        "field": "化学",
+        "title": "Copper nanoclusters-based fluorescent sensor array to identify metal ions and dissolved organic matter",
+        "score": [
+            93,
+            98,
+            93
+        ],
+        "场景": "再评价",
+        "title_matched": "Copper nanoclusters-based fluorescent sensor array to identify metal ions and dissolved organic matter",
+        "abstract": "In recent years, the prevention and control of water pollution has received extensive attention. There is a need to develop simple and effective strategies for the rapid detection of metal ions and dissolved organic matter (DOM) in order to improve water quality. To this end, the first copper nanoclusters (CuNCs)-based fluorescent sensor array was done to identify 12 metal ions (Pb 2+ , Fe 3+ , Cu 2+ , Cd 2+ , Cr 3+ , Co 2+ , Ni 2+ , Zn 2+ , Ag + , Fe 2+ , Hg 2+ , and Al 3+ ) and DOM (humic substances, lipids, fatty acids, amino acids, and lignans). The results revealed that CuNCs that were synthesized with polyethyleneimine (PEI), histidine (His), and glutathione (GSH) exhibited different binding abilities to metal ions and DOM. These unique fluorescence responses were analyzed using principal component analysis (PCA) and linear discriminant analysis (LDA) to identify metal ions and DOM in the buffer.",
+        "pubt": 2021.0
+    },
+    "E00036475": {
+        "field": "化学",
+        "title": "Portable ratiometric fluorescence analytical device for copper ions based on smartphone in environment and living organisms",
+        "score": [
+            92,
+            85,
+            85
+        ],
+        "场景": "再评价",
+        "title_matched": "Portable ratiometric fluorescence analytical device for copper ions based on smartphone in environment and living organisms",
+        "abstract": "The ratiometric fluorescent probe showed rapid response to Cu 2+ with high selectivity.",
+        "pubt": 2022.0
+    },
+    "E00036476": {
+        "field": "化学",
+        "title": "Recent developments on optical and electrochemical sensing of copper(II) ion based on transition metal complexes",
+        "score": [
+            89,
+            85,
+            52
+        ],
+        "场景": "再评价",
+        "title_matched": "Recent developments on optical and electrochemical sensing of copper(II) ion based on transition metal complexes",
+        "abstract": "Copper(II), Cu 2+ , ion plays not only a fundamental role to sustain important physiological processes in living organisms, but also an important environmental pollutant. A large number of chemosensors that employ the chromogenic, fluorogenic or electrochemical properties of molecules have been reported for selective sensing of copper ions with absorbance and emission in the visible region. Nevertheless, most of these chemosensors for Cu 2+ ions have some limitations including low water-solubility, tedious sample treatment, multistep synthetic routes, or unstable detection signal. Therefore, the challenge in the development of light-up chemosensors which are cost-effective, rapid, facile, biocompatible and applicable to the environmental and biological milieus is still a topical issue. In the context of optical sensing of Cu 2+ ion, the unique features offered by transition metal complexes over organic fluorophores have made them a suitable candidate to monitor Cu 2+ ions in biological systems. Encouraged by the importance of Cu 2+ ions, we herein summarize the recent development of transition metal complexes, particularly those of d 6 or d 10 complexes based on rhenium(I), ruthenium(II), iridium(III), zinc(II) and gold(I) complexes, for optical and electrochemical sensing or biosensing applications of Cu 2+ ion.",
+        "pubt": 2017.0
+    },
+    "E00036461": {
+        "field": "化学",
+        "title": "基于量子化学计算柴油在CO2/O2氛围下的燃烧特性",
+        "score": [
+            12,
+            50
+        ],
+        "场景": "再评价"
+    },
+    "E00036462": {
+        "field": "化学",
+        "title": "Why Is Quantum Chemistry So Complicated?",
+        "score": [
+            55,
+            84
+        ],
+        "场景": "再评价",
+        "title_matched": "Why Is Quantum Chemistry So Complicated?",
+        "abstract": "The myriad tools of quantum chemistry are now widely used by a diverse community of chemists, biologists, physicists, and material scientists. The large number of methods (e.g., Hartree-Fock, density functional theory, configuration interaction, perturbation theory, coupled-clusters, equations of motion, Green's functions, and more) and the multitude of atomic orbital basis sets often give rise to consternation and confusion. In this Perspective, I explain why quantum chemistry has so many different methods and why researchers should understand their relative strengths and weaknesses. I explain how chemistry's use of orbitals and the need for wave functions to be antisymmetric causes computational-effort scaling proportional to the cube or higher power of the number of orbitals. I also illustrate how the fact that the Schrodinger equation's energies are extensive makes it difficult to extract intensive properties such as bond and excitation energies, ionization potentials, and electron affinities.",
+        "pubt": 2023.0
+    },
+    "E00036463": {
+        "field": "化学",
+        "title": "tmQM Dataset—Quantum Geometries and Properties of 86k Transition Metal Complexes",
+        "score": [
+            69,
+            89
+        ],
+        "场景": "再评价",
+        "title_matched": "tmQM DatasetQuantum Geometries and Properties of 86k Transition Metal Complexes",
+        "abstract": "We report the transition metal quantum mechanics (tmQM) data set, which contains the geometries and properties of a large transition metal-organic compound space. tmQM comprises 86,665 mononuclear complexes extracted from the Cambridge Structural Database, including Werner, bioinorganic, and organometallic complexes based on a large variety of organic ligands and 30 transition metals (the 3d, 4d, and 5d from groups 3 to 12). All complexes are closed-shell, with a formal charge in the range {+1, 0, -1}e. The tmQM data set provides the Cartesian coordinates of all metal complexes optimized at the GFN2-xTB level, and their molecular size, stoichiometry, and metal node degree. The quantum properties were computed at the DFT(TPSSh-D3BJ/ def2-SVP) level and include the electronic and dispersion energies, highest occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO) energies, HOMO/LUMO gap, dipole moment, and natural charge of the metal center; GFN2-xTB polarizabilities are also provided. Pairwise representations showed the low correlation between these properties, providing nearly continuous maps with unusual regions of the chemical space, for example, complexes combining large polarizabilities with wide HOMO/LUMO gaps and complexes combining low-energy HOMO orbitals with electron-rich metal centers. The tmQM data set can be exploited in the data-driven discovery of new metal complexes, including predictive models based on machine learning. These models may have a strong impact on the fields in which transition metal chemistry plays a key role, for example, catalysis, organic synthesis, and materials science. tmQM is an open data set that can be downloaded free of charge from https://github.com/bbskjelstad/tmqm.",
+        "pubt": 2020.0
+    },
+    "E00036464": {
+        "field": "化学",
+        "title": "Evolution of Alchemical Free Energy Methods in Drug Discovery",
+        "score": [
+            42,
+            79
+        ],
+        "场景": "再评价",
+        "title_matched": "Evolution of Alchemical Free Energy Methods in Drug Discovery",
+        "abstract": "By minimizing the expected square error of the free energy difference, Bennett obtained the optimal weighting function leading to eq 4 that can be solved by iterative trials on ΔA.",
+        "pubt": 2020.0
+    },
+    "E00036465": {
+        "field": "化学",
+        "title": "In Silico Chemical Experiments in the Age of AI: From Quantum Chemistry to Machine Learning and Back",
+        "score": [
+            87,
+            88
+        ],
+        "场景": "再评价",
+        "title_matched": "In Silico Chemical Experiments in the Age of AI: From Quantum Chemistry to Machine Learning and Back",
+        "abstract": "Computational chemistry is an indispensable tool for understanding molecules and predicting chemical properties. However, traditional computational methods face significant challenges due to the difficulty of solving the Schrödinger equations and the increasing computational cost with the size of the molecular system. In response, there has been a surge of interest in leveraging artificial intelligence (AI) and machine learning (ML) techniques to in silico experiments. Integrating AI and ML into computational chemistry increases the scalability and speed of the exploration of chemical space. However, challenges remain, particularly regarding the reproducibility and transferability of ML models. This review highlights the evolution of ML in learning from, complementing, or replacing traditional computational chemistry for energy and property predictions. Starting from models trained entirely on numerical data, a journey set forth toward the ideal model incorporating or learning the physical laws of quantum mechanics. This paper also reviews existing computational methods and ML models and their intertwining, outlines a roadmap for future research, and identifies areas for improvement and innovation. Ultimately, the goal is to develop AI architectures capable of predicting accurate and transferable solutions to the Schrödinger equation, thereby revolutionizing in silico experiments within chemistry and materials science.",
+        "pubt": 2024.0
+    },
+    "E00036466": {
+        "field": "化学",
+        "title": "Conceptual density functional theory: status, prospects, issues",
+        "score": [
+            83,
+            88
+        ],
+        "场景": "再评价",
+        "title_matched": "Conceptual density functional theory: status, prospects, issues",
+        "abstract": "This paper results from a round table discussion at the CCTC2018 Conference in Changsha City, Hunan, China, in December 2018. It presents a report on the status, prospects, and issues of conceptual density functional theory (CDFT). After a short exposition on the history of CDFT, its fundamentals, philosophy, and successes are highlighted. Then ten issues for reflection on the future of conceptual DFT are formulated and discussed, ending with one or more summarizing statements on the present status of various concepts/principles/practices and proposed directions for future research. The issues include the further analysis of the energy functional, E [N,v], extended to include effects of temperature, solvent, and mechanical forces, basic requirements for physically acceptable response functions as reactivity descriptors, the use of the grand canonical ensemble, the relevance of CDFT for chemical kinetics and thermodynamics, the domain of validity of CDFT-based principles, the combination of CDFT with reaction path calculations, information-theoretic descriptors, and the treatment of excited states and time dependence. The final issue advocates the transition of CDFT from an interpretative to a predictive mode; we believe this is of utmost importance for promoting CDFT as a viable alternative to wave function-based methods for the practicing chemist, a separate issue treated in the final section.",
+        "pubt": 2020.0
+    },
+    "E00036481": {
+        "field": "化学",
+        "title": "多孔镁表面微弧氧化涂层和氟化学转化涂层的对比研究",
+        "score": [
+            18,
+            18
+        ],
+        "场景": "再评价",
+        "title_matched": "多孔镁表面微弧氧化涂层和氟化学转化涂层的对比研究",
+        "abstract": "目的多孔镁具有生物可降解特性,降解过程中产生的碱性环境会促进新生骨形成,其多孔结构可以为新生骨长入提供通道,是一种理想的骨填充材料.与块体镁相比,多孔镁的降解速率更快,为了避免因快速降解引起局部环境碱性过高而可能导致的溶骨现象,需要通过表面改性来降低多孔镁的降解速率,使其降解速率与骨组织愈合速率相匹配.方法以块体镁表面防护涂层研究为基础,根据前期研究结果和前人的研究结果筛选出一种效果较好的微弧氧化和氟化学转化涂层制备方法对多孔镁进行表面改性,以降低多孔镁的降解速率.通过扫描电镜对多孔镁(带有微弧氧化涂层和带有氟化学转化涂层)的表面与孔隙内的形貌,涂层元素组成及涂层厚度进行表征,并采用浸泡法对涂层处理多孔镁的降解性能进行研究,分析浸泡后涂层形貌,涂层元素和涂层厚度的变化.结果多孔镁表面微弧氧化涂层具有多孔结构,涂层厚度在15μm左右,孔隙内同样被涂层覆盖,孔隙内的涂层厚度低于外表面涂层厚度.氟化学转化涂层致密,均匀,涂层厚度在2μm左右,孔隙内同样被涂层覆盖,孔隙内的涂层厚度比外表面的涂层厚度薄.与氟化学转化涂层相比,微弧氧化涂层对多孔镁的防护作用相对稳定,由于涂层的多孔结构,初期对基体的防护效果比氟化学转化涂层略差,但随着浸泡时间的延长,涂层变得相对致密,对多孔镁基体的防护作用也越来越明显.微弧氧化涂层处理的多孔镁在降解过程中引起的环境酸碱度变化更适宜骨细胞增殖.结论微弧氧化涂层与氟化学转化涂层均能有效降低多孔镁的降解速率.",
+        "pubt": 2021
+    },
+    "E00036482": {
+        "field": "化学",
+        "title": "Recent developments in the biological activities of 3d-metal complexes with salicylaldehyde-based N, O-donor Schiff base ligands",
+        "score": [
+            50,
+            85
+        ],
+        "场景": "再评价",
+        "title_matched": "Recent developments in the biological activities of 3d-metal complexes with salicylaldehyde-based N, O-donor Schiff base ligands",
+        "abstract": "Schiff base ligands have received attention due to their versatile coordination abilities and potential applications in medicinal and biological fields. This investigation offers an in-depth summary of the current advancements in comprehending the diverse biological impacts demonstrated by 3d-metal complexes of N, O-donor multidentate Schiff base ligands derived from salicylaldehyde and its derivatives. The coordination of these ligands with 3dmetal ions results in the formation of stable complexes. The increasing interest in the creation and production of compounds involving 3d-metals with biologically active ligands has led to significant advances in the field of coordination chemistry. The investigations incorporate a range of biological aspects, including anticancer, antifungal, antibacterial, antioxidant, antiproliferative, cytotoxic and SOD activities. The metal complexes exhibit enhanced biological activities compared to their parent ligands, attributed to the coordination of the metal ion and the resulting structural modifications. Furthermore, the manuscript discusses the structure-activity relationships that have been established to understand the underlying mechanisms of biological activities of these complexes. Molecular docking studies and spectroscopic techniques have been employed to elucidate the binding interactions between the metal complexes and relevant biomolecules, shedding light on their potential mode of action. These multifaceted complexes, with diverse biological properties, hold promise as valuable candidates in medicinal chemistry and biological research. azomethine ( -HC --N -) functional groups, were initially created in 1864 by the German scientist Hugo Schiff <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,462.90,505.57,10.09,8.85\" target=\"#b3\">[4,</ref> <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,472.99,505.57,6.73,8.85\" target=\"#b4\">5]</ref>. Consequently, these compounds were termed Schiff bases in honour of the period after Hugo Schiff <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,330.58,526.49,7.31,8.85\" target=\"#b5\">[6]</ref> <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,337.89,526.49,3.66,8.85\" target=\"#b6\">[7]</ref> <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,341.54,526.49,7.31,8.85\" target=\"#b7\">[8]</ref>. In the structure of Schiff bases, there exists a carbon--nitrogen double bond with the nitrogen atom linked to an alkyl or aryl group. As a result, the general configuration of Schiff bases can be represented as R′R″C --NR, where R denotes an alkyl or phenyl group,",
+        "pubt": 2024.0
+    },
+    "E00036483": {
+        "field": "化学",
+        "title": "Biological and computational investigation of transition metal(II) complexes of 2-phenoxyaniline-based ligands",
+        "score": [
+            39,
+            58
+        ],
+        "场景": "再评价",
+        "title_matched": "Biological and computational investigation of transition metal(II) complexes of 2-phenoxyaniline-based ligands",
+        "abstract": "In the 21st century, we are witness of continuous onslaughts of various pathogen deformities which are a major cause of morbidity and mortality worldwide. Therefore, to investigate the grave for these deformities, antioxidant, anti-inflammatory and antimicrobial biological activities were carried out against newly synthesized Schiff base ligands and their transition metal complexes, which are based on newly synthesized 2-phenoxyaniline and salicylaldehyde derivatives. Materials & methods:",
+        "pubt": 2023.0
+    },
+    "E00036484": {
+        "field": "化学",
+        "title": "Synthesis, characterization, antimicrobial, BSA binding, DFT calculation, molecular docking and cytotoxicity of Ni(II) complexes with Schiff base ligands",
+        "score": [
+            10,
+            69
+        ],
+        "场景": "再评价",
+        "title_matched": "Synthesis, characterization, antimicrobial, BSA binding, DFT calculation, molecular docking and cytotoxicity of Ni(II) complexes with Schiff base ligands",
+        "abstract": "A series of a tetradentate N 2 O 2 Schiff base ligands (1a-e), [N,N′-(X)bis(salicylidene)1,2-phenylenediamine], salphens {where X = H (1a), Cl (1b), Br (1c), CH 3 (1d), OCH 3 (1e)} were synthesized from condensation of substituted salicylaldehydes with 1,2-phenylenediamine and nickel(II) complexes(2a-e) from corresponding Schiff base ligands(1a-e). The stoichiometric ratios of the prepared ligands (1a-e) and their Ni(II)-salphen complexes (2a-e) were structurally characterized by various analytical and spectroscopic techniques such as 1 H NMR, FT-IR, mass, UV-visible, PXRD, magnetic moments and molar conductivity measurements. These results suggest that Ni(II)-salphen complexes (2a-e) have square planar geometry. The molar conductivity measurements indicate that all complexes (2a-e) are non-electrolytes. Density Functional Theory (DFT) calculations have been used to investigate the optimized structure and chemical reactivity of these Ni(II) complexes(2a-e) from their Frontier Molecular Orbitals (FMO). The binding capabilities of the Ni(II) Schiff base complexes (2a-e) with Bovine Serum Albumin (BSA) have been studied through electronic absorption, fluorescence and cyclic voltammetric methods. Further the nature of interaction of Ni(II) complexes (2a-e) towards BSA were confirmed using molecular docking analyses. All these results demonstrated that the Ni(II) complexes 2d and 2e have better binding affinity towards BSA among all the Ni(II) complexes. The antimicrobial studies reveal that the Ni(II)-salphen complexes (2a-e) have higher inhibitory effect than ligands (1a-e) against the selected pathogenic microorganisms. Furthermore, in vitro cytotoxicity of ligands (1a-e) and Ni(II) complexes(2a-e) were evaluated by MTT assay against MCF-7. The observed IC 50 values against MCF-7 cell lines suggest that Ni(II) complexes(2a-e) show more significant anticancer activity than their corresponding ligands(1a-e). It is explored that complexes 2d and 2e bearing electron donating groups have greater anticancer potency. Comparison of our results with cisplatin, Zn(II)salphen and V(IV)-salphen complexes indicated that Ni(II)-salphen complexes can be considered as the potential candidates for use as effective anticancer agent in future.",
+        "pubt": 2021.0
+    },
+    "E00036485": {
+        "field": "化学",
+        "title": "Multidentate unsymmetrically-substituted Schiff bases and their metal complexes: Synthesis, functional materials properties, and applications to catalysis",
+        "score": [
+            45,
+            54
+        ],
+        "场景": "再评价",
+        "title_matched": "Multidentate unsymmetrically-substituted Schiff bases and their metal complexes: Synthesis, functional materials properties, and applications to catalysis",
+        "abstract": "Dedicated to our distinguished colleague and friend Prof. Jean-Yves Saillard on the occasion of his 70th birthday.",
+        "pubt": 2017.0
+    },
+    "E00036486": {
+        "field": "化学",
+        "title": "Syntheses, Structural Characterization, and Cytotoxicity Assessment of Novel Mn(II) and Zn(II) Complexes of Aroyl-Hydrazone Schiff Base Ligand",
+        "score": [
+            51,
+            58
+        ],
+        "场景": "再评价",
+        "title_matched": "Syntheses, Structural Characterization, and Cytotoxicity Assessment of Novel Mn(II) and Zn(II) Complexes of Aroyl-Hydrazone Schiff Base Ligand",
+        "abstract": "This work describes the syntheses, structural characterization, and biological profile of Mn(II)-and Zn(II)-based complexes 1 and 2 derived from the aroyl-hydrazone Schiff base ligand (L1). The synthesized compounds were thoroughly characterized by elemental analysis, Fourier transform infrared spectroscopy (FTIR), UV-vis, electron paramagnetic resonance (EPR), nuclear magnetic resonance (NMR), and single-crystal X-ray diffraction (s-XRD). Density functional theory (DFT) studies of complexes 1 and 2 were performed to ascertain the structural and electronic properties. Hirshfeld surface analysis was used to investigate different intermolecular interactions that define the stability of crystal lattice structures. To ascertain the therapeutic potential of complexes 1 and 2, in vitro interaction studies were carried out with ct-DNA and bovine serum albumin (BSA) using analytical and multispectroscopic techniques, and the results showed more avid binding of complex 2 than complex 1 and L1. The antioxidant potential of complexes 1 and 2 was examined against the 2,2-diphenyl picrylhydrazyl (DPPH) free radical, which revealed better antioxidant ability of the Mn(II) complex. Moreover, the antibacterial activity of synthesized complexes 1 and 2 was tested against Gram-positive and Gram-negative bacteria in which complex 2 demonstrated more effective bactericidal activity than L1 and complex 1 toward Gram-positive bacteria. Furthermore, the in vitro cytotoxicity assessment of L1 and complexes 1 and 2 was carried out against MDA-MB-231 (triple negative breast cancer) and A549 (lung) cancer cell lines. The cytotoxic results revealed that the polymeric Zn(II) complex exhibited better and selective cytotoxicity against the A549 cancer cell line as was evidenced by its low IC 50 value.",
+        "pubt": 2022.0
+    },
+    "E00036501": {
+        "field": "化学",
+        "title": "Ce改性对CuLDH催化CO2加氢制甲醇性能的影响",
+        "score": [
+            74
+        ],
+        "场景": "再评价",
+        "title_matched": "Ce改性对CuLDH催化CO2加氢制甲醇性能的影响",
+        "abstract": "通过向CuMgAl水滑石(CuLDH)催化剂中添加不同量的Ce,合成了一系列Ce改性的CuLDH-Cex催化剂.采用X射线衍射(XRD),N2吸附-脱附(BET),透射电子显微镜(TEM),X射线光电子能谱(XPS)等分析手段对催化剂的理化性质进行表征.结果表明,添加Ce会改变Cu-LDH催化剂的水滑石结构,适量的Ce会增大催化剂的比表面积,改善了Cu颗粒的分散度.同时,适量的Ce有利于增加催化剂表面强碱性位点的密度和氧空位的数量,促进了CO2的吸附和转化.Ce有利于调变催化剂表面的Cu+/Cu0比例,较高的Cu+/Cu0比例有利于甲醇的生成.当Ce/Cu比例为0.3时,在空速为9000 mL/(g·h),温度为240℃,压力为2.5 MPa的条件下,催化剂的CO2的转化率为7.5%,甲醇选择性为78.4%,甲醇的时空收率最高可达362.8 g/(kg·h).通过原位红外光谱(in-situ DRIFTS)证明CuLDH-Ce0.3催化剂在CO2加氢合成甲醇过程中遵循HCOO*反应路径.",
+        "pubt": 2024
+    },
+    "E00036502": {
+        "field": "化学",
+        "title": "Mechanisms and kinetics of CO 2 hydrogenation to value-added products: A detailed review on current status and future trends",
+        "score": [
+            80
+        ],
+        "场景": "再评价",
+        "title_matched": "Mechanisms and kinetics of CO 2 hydrogenation to value-added products: A detailed review on current status and future trends",
+        "abstract": "Global warming, fossil fuel depletion and energy security are driving scientists to investigate the mechanism of hydrocarbons production from CO2 hydrogenation. The need for more comprehensive understanding on mechanism of CO2 hydrogenation to hydrocarbons remains controversial because of the complex reaction mechanism and a large number of involved species. The micro mechanism of CO2 hydrogenation to hydrocarbons has been considered as a possible remedy to fulfill the requirements. This review comprehensively discusses two processes: reverse water gas shift (RWGS) and CO2 hydrogenation to hydrocarbons. The review includes reaction mechanisms and catalyst effects on yields and rates. In addition, the review outlines each of the Fischer-Tropsch (FT) micro mechanisms. The review infers some mechanisms from existing work and proposes a new mechanism that improves several predictions. These mechanisms form the design basis for optimal reactor design.",
+        "pubt": 2017
+    },
+    "E00036503": {
+        "field": "化学",
+        "title": "Catalytic Hydrogen Combustion for Domestic and Safety Applications: A Critical Review of Catalyst Materials and Technologies",
+        "score": [
+            48
+        ],
+        "场景": "再评价",
+        "title_matched": "Catalytic Hydrogen Combustion for Domestic and Safety Applications: A Critical Review of Catalyst Materials and Technologies",
+        "abstract": "Spatial heating and cooking account for a significant fraction of global domestic energy consumption. It is therefore likely that hydrogen combustion will form part of a hydrogen-based energy economy. Catalytic hydrogen combustion (CHC) is considered a promising technology for this purpose. CHC is an exothermic reaction, with water as the only by-product. Compared to direct flame-based hydrogen combustion, CHC is relatively safe as it foregoes CO x , CH 4 , and under certain conditions NO x formation. More so, the risk of blow-off (flame extinguished due to the high fuel flow speed required for H 2 combustion) is adverted. CHC is, however, perplexed by the occurrence of hotspots, which are defined as areas where the localized surface temperature is higher than the average surface temperature over the catalyst surface. Hotspots may result in hydrogen's autoignition and accelerated catalyst degradation. In this review, catalyst materials along with the hydrogen technologies investigated for CHC applications were discussed. We showed that although significant research has been dedicated to CHC, relatively limited commercial applications have been identified up to date. We further showed the effect of catalyst support selection on the performance and durability of CHC catalysts, as well as a holistic summary of existing catalysts used for various CHC applications and catalytic burners. Lastly, the relevance of CHC applications for safety purposes was demonstrated.",
+        "pubt": 2021.0
+    },
+    "E00036504": {
+        "field": "化学",
+        "title": "A Comprehensive Review on Recent Advancements in Thermochemical Processes for Clean Hydrogen Production to Decarbonize the Energy Sector",
+        "score": [
+            61
+        ],
+        "场景": "再评价",
+        "title_matched": "A Comprehensive Review on Recent Advancements in Thermochemical Processes for Clean Hydrogen Production to Decarbonize the Energy Sector",
+        "abstract": "Hydrogen is a source of clean energy as it can produce electricity and heat with water as a by-product and no carbon content is emitted when hydrogen is used as burning fuel in a fuel cell. Hydrogen is a potential energy carrier and powerful fuel as it has high flammability, fast flame speed, no carbon content, and no emission of pollutants. Hydrogen production is possible through different technologies by utilizing several feedstock materials, but the main concern in recent years is to reduce the emission of carbon dioxide and other greenhouse gases from energy sectors. Hydrogen production by thermochemical conversion of biomass and greenhouse gases has achieved much attention as researchers have developed several novel thermochemical methods which can be operated with low cost and high efficiency in an environmentally friendly way. This review explained the novel technologies which are being developed for thermochemical hydrogen production with minimum or zero carbon emission. The main concern of this paper was to review the advancements in hydrogen production technologies and to discuss different novel catalysts and novel CO 2 -absorbent materials which can enhance the hydrogen production rate with zero carbon emission. Recent developments in thermochemical hydrogen production technologies were discussed in this paper. Biomass gasification and pyrolysis, steam methane reforming, and thermal plasma are promising thermochemical processes which can be further enhanced by using catalysts and sorbents. This paper also reviewed the developments and influences of different catalysts and sorbents to understand their suitability for continuous clean industrial hydrogen production.",
+        "pubt": 2022.0
+    },
+    "E00036505": {
+        "field": "化学",
+        "title": "Recycling Carbon Dioxide through Catalytic Hydrogenation: Recent Key Developments and Perspectives",
+        "score": [
+            83
+        ],
+        "场景": "再评价",
+        "title_matched": "Recycling Carbon Dioxide through Catalytic Hydrogenation: Recent Key Developments and Perspectives",
+        "abstract": "Recycling CO 2 as a renewable carbon source for the production of high-value fuels and chemicals has drawn global attention lately as a promising method to mitigate climate change and lessen dependence on fossil fuels. Among the available CO 2 -recycling options, catalytic CO 2 hydrogenation is the most realistic and attractive choice if the hydrogen is produced using a renewable energy source. Depending on the nature of the catalyst, CO 2 hydrogenation has distinct reaction pathways, and various valueadded hydrocarbons can be produced. Intense research has recently developed high-performance catalysts, identified clear reaction pathways, and deepened the understanding of the reaction mechanisms. In this review, we present an overview of recent key advances in catalytic CO 2 hydrogenation to high-value hydrocarbons and oxygenates that have large market sizes, such as formic acid, methanol, methane, and light olefins, as well as liquid fuels, in terms of the catalyst design, catalytic performance, and reaction mechanism. In addition, the current technical challenges and perspectives on CO 2 conversion processes are discussed with regard to climate change mitigation.",
+        "pubt": 2020.0
+    },
+    "E00036506": {
+        "field": "化学",
+        "title": "Comprehensive review of Cu-based CO2 hydrogenation to CH3OH: Insights from experimental work and theoretical analysis",
+        "score": [
+            69
+        ],
+        "场景": "再评价",
+        "title_matched": "Comprehensive review of Cu-based CO 2 hydrogenation to CH 3 OH: Insights from experimental work and theoretical analysis",
+        "abstract": "CO 2 hydrogenation to methanol could alleviate environmental problems.",
+        "pubt": 2022.0
+    },
+    "E00036491": {
+        "field": "化学",
+        "title": "基于氮杂环烯烃的Lewis酸碱对催化二氢香豆素基聚酯合成的机理研究",
+        "score": [
+            41
+        ],
+        "场景": "再评价",
+        "title_matched": "基于氮杂环烯烃的Lewis酸碱对催化二氢香豆素基聚酯合成的机理研究",
+        "abstract": "通过选用氮杂环烯烃(NHO)和三乙基硼(TEB)作为二元协同催化剂,实现了3,4-二氢香豆素(DHC)与环氧化合物在Lewis酸碱对聚合体系作用下的交替共聚.对比研究了酸碱催化剂的取代基变化对于催化活性,交替共聚的化学选择性,环氧开环的区域选择性的影响;另外,通过活性物种结构表征,MALDI-TOF MS端基分析以及核磁反应等,深入研究了NHO的环外双键不同甲基取代情况对于聚合机理的影响,从而筛选获得具有独特的非对称双头引发能力的NHO2-DHC/TEB体系,且证明了该体系同时可以实现分子内酯交换反应的完全抑制,避免了环状聚酯副产物的产生,从而实现双头引发获得DHC基线形聚酯材料可控合成,为聚酯基三嵌段聚合物,热塑性弹性体等高效合成提供基础.",
+        "pubt": 2022
+    },
+    "E00036492": {
+        "field": "化学",
+        "title": "Advances in sustainable thermosetting resins: From renewable feedstock to high performance and recyclability",
+        "score": [
+            73
+        ],
+        "场景": "再评价",
+        "title_matched": "Advances in sustainable thermosetting resins: From renewable feedstock to high performance and recyclability",
+        "abstract": "In polymer science and industry, the important role of thermosetting resin is well-recognized. However, most thermosets suffer from the overdependence on petroleum resource and in addition are linked to environmental concerns. The development of sustainable thermosetting resins thus has become an objective of contemporary research. Addressing this need generally requires renewable feedstocks, satisfied comprehensive properties, and long service life or recyclability. Herein, a systematic overview regarding recent advances in sustainable thermosetting resins is provided. Firstly, the origins and access of bio-based platform compounds successfully applied in the bio-based thermosetting resins are being discussed. Subsequently, the synthesis, structure-property relationships, and methodologies for the functionalization of three typical bio-based thermosets, including benzoxazine, epoxy resin and unsaturated polyester, are being reviewed. Finally, strategies for the recycling of bio-based thermoset waste products are being presented. The objective of this work is not only to summarize the recent progress on sustainable thermosets, but also help us understand them more deeply and widely in a short time, so as to promote their faster development.",
+        "pubt": 2021
+    },
+    "E00036493": {
+        "field": "化学",
+        "title": "Structural Characterization of Lignin and Its Degradation Products with Spectroscopic Methods",
+        "score": [
+            85
+        ],
+        "场景": "再评价",
+        "title_matched": "Structural Characterization of Lignin and Its Degradation Products with Spectroscopic Methods",
+        "abstract": "Lignin is highly branched phenolic polymer and accounts 15-30% by weight of lignocellulosic biomass (LCBM). The acceptable molecular structure of lignin is composed with three main constituents linked by different linkages. However, the structure of lignin varies significantly according to the type of LCBM, and the composition of lignin strongly depends on the degradation process. Thus, the elucidation of structural features of lignin is important for the utilization of lignin in high efficient ways. Up to date, degradation of lignin with destructive methods is the main path for the analysis of molecular structure of lignin. Spectroscopic techniques can provide qualitative and quantitative information on functional groups and linkages of constituents in lignin as well as the degradation products. In this review, recent progresses on lignin degradation were presented and compared. Various spectroscopic methods, such as ultraviolet spectroscopy, Fourier-transformed infrared spectroscopy, Raman spectroscopy, and nuclear magnetic resonance (NMR) spectroscopy, for the characterization of structural and compositional features of lignin were summarized. Various NMR techniques, such as 1 H, 13 C, 19 F, and 31 P, as well as 2D NMR, were highlighted for the comprehensive investigation of lignin structure. Quantitative 13 C NMR and various 2D NMR techniques provide both qualitative and quantitative results on the detailed lignin structure and composition produced from various processes which proved to be ideal methods in practice.",
+        "pubt": 2017.0
+    },
+    "E00036494": {
+        "field": "化学",
+        "title": "50th Anniversary Perspective: There Is a Great Future in Sustainable Polymers",
+        "score": [
+            82
+        ],
+        "场景": "再评价",
+        "title_matched": "50th Anniversary Perspective: There Is a Great Future in Sustainable Polymers",
+        "abstract": "It is likely that a half-century ago even enthusiastic and optimistic proponents of the synthetic polymer industry (Mr. McGuire included) could not have predicted the massive scale on which synthetic polymers would be manufactured and used today. Ultimately, the future success of this industry will rely on the development of sustainable polymersmaterials derived from renewable feedstocks that are safe in both production and use and that can be recycled or disposed of in ways that are environmentally innocuous. Meeting these criteria in an economical manner cannot be achieved without transformative basic research that is the hallmark of this journal. In this Perspective we highlight five research topicsthe synthesis of renewable monomers and of degradable polymers, the development of chemical recycling strategies, new classes of reprocessable thermosets, and the design of advanced catalyststhat we believe will play a vital role in the development of sustainable polymers. We also offer our outlook on several outstanding challenges facing the polymer community in the broad area of sustainable polymers.",
+        "pubt": 2017.0
+    },
+    "E00036495": {
+        "field": "化学",
+        "title": "Recent Progress in High‐Strength and Robust Regenerated Cellulose Materials",
+        "score": [
+            82
+        ],
+        "场景": "再评价",
+        "title_matched": "Recent Progress in High-Strength and Robust Regenerated Cellulose Materials",
+        "abstract": "microscopic particles from items like food packaging. <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,426.33,180.27,6.30,5.77\" target=\"#b4\">[5]</ref> Thus, terpene, vegetable oil, carbohydrates, and polysaccharides have been used as raw materials to manufacture various sustainable future bioplastics. <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,540.79,213.27,6.30,5.77\" target=\"#b5\">[6]</ref> Hence, the utilization of the renewable resource, biomass, for developing polymer materials that can be biodegraded completely and eventually participate in the virtuous cycle of nature, shows potential in gradually replacing traditional plastics. It is well known that the development and application of polymer materials with both high ductility and strength has been a consistent challenge. <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,478.80,323.27,5.84,5.77\" target=\"#b6\">[7]</ref> Most polymer materials derived from either natural or synthetic sources suffer from poor practical applications due to their weak mechanical strength. <ref xmlns=\"http://www.tei-c.org/ns/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" type=\"bibr\" coords=\"1,471.72,367.27,6.30,5.77\" target=\"#b7\">[8]</ref> Therefore, the exploration for improving the mechanical properties of biodegradable polymer materials attracts a lot of attention.",
+        "pubt": 2020.0
+    },
+    "E00036496": {
+        "field": "化学",
+        "title": "RDRP (Meth)acrylic Homo and Block Polymers from Lignocellulosic Sugar Derivatives",
+        "score": [
+            87
+        ],
+        "场景": "再评价",
+        "title_matched": "RDRP (Meth)acrylic Homo and Block Polymers from Lignocellulosic Sugar Derivatives",
+        "abstract": "Currently, most commodity chemicals and polymers are manufactured from nonrenewable petroleum-based resources. However, due to its finite nature and social claims about environment preservation, alternative sources of value-added and building block chemicals are being intensively studied. Renewable lignocellulosic biomass has offered an attractive replacement for fossil-based chemicals. Lignin and C5/C6 sugars obtained from lignocellulosic biomass through chemical and enzymatic methods can be further transformed to targeted chemical platforms. In the present review, synthetic pathways for well-defined poly(meth)acrylates obtained from C5/C6 sugar-derived platforms in which the sugar structure is not retained are discussed. While bio-based polymers from these monomers are investigated using a wide range of polymerization techniques, this study focuses on precise synthesis of macromolecular structures taking advantage of reversible-deactivation radical polymerization methods and their applications.",
+        "pubt": 2022.0
+    },
+    "E00036537": {
+        "field": "化学",
+        "title": "Wastewater treatment with nanomaterials for the future: A state-of-the-art review",
+        "score": [
+            65,
+            30
+        ],
+        "场景": "原评价",
+        "title_matched": "Wastewater treatment with nanomaterials for the future: A state-of-the-art review",
+        "abstract": "Aquatic and terrestrial ecosystems are both threatened by toxic wastewater. The unique properties of nanomaterials are currently being studied thoroughly for treating sewage. Nanomaterials also have the advantage of being capable of removing organic matter, fungi, and viruses from wastewater. Advanced oxidation processes are used in nanomaterials to treat wastewater. Additionally, nanomaterials have a large effective area of contact due to their tiny dimensions. The adsorption and reactivity of nanomaterials are strong. Wastewater treatment would benefit from the development of nanomaterial technology. Second, the paper provides a comprehensive analysis of the unique characteristics of nanomaterials in wastewater treatment, their proper use, and their prospects. In addition to focusing on their economic feasibility, since limited forms of nanomaterials have been manufactured, it is also necessary to consider their feasibility in terms of their technical results. According to this study, the significant adsorption area, excellent chemical reaction, and electrical conductivity of nanoparticles (NPs) contribute to the successful treatment of wastewater.",
+        "pubt": 2022.0
+    },
+    "E00036538": {
+        "field": "化学",
+        "title": "Toxicity changes of wastewater during various advanced oxidation processes treatment: An overview",
+        "score": [
+            69,
+            40
+        ],
+        "场景": "原评价",
+        "title_matched": "Toxicity changes of wastewater during various advanced oxidation processes treatment: An overview",
+        "abstract": "Advanced oxidation processes (AOPs) have been widely applied for the advanced treatment of recalcitrant wastewater. However, the toxicity changes during AOPs are still unclear because in some cases the intermediate products could exhibit equivalent or even higher toxicity compared with the original pollutants. Therefore it is necessary to evaluate the toxicity evolution during AOPs. This review mainly focused on the toxicity changes of wastewater during various AOPs treatment, including Fenton/Fenton-like oxidation, ozonation/catalytic ozonation, persulfate radical-based oxidation, photocatalytic oxidation, ionizing radiation, electro-catalytic oxidation, ultrasound oxidation and wet oxidation. Firstly, the toxicity assessment methods were summarized, including acute toxicity (such as luminescent bacteria assay, fish assay, water flea assay and algae assay), genetic toxicity (Ames assay, SOS/umu assay, comet assay and micronucleus assay), estrogenic activity, immunity toxicity, and endocrine disrupting effect (such as yeast two-hybrid assay and fish endocrine disrupting assay), the applications of these methods in determining the toxicity changes of wastewater during AOPs treatment were summarized and analyzed in detail. Secondly, the toxicity prediction by computational simulation was introduced, mainly focusing on two common software, including TEST and ECOSAR. Thirdly, the strategies for eliminating the toxicity of wastewater after AOPs treatment were proposed. Finally, the concluding remarks and perspectives were presented for further study. This review will deepen to understand the toxicity evolution of wastewater during AOPs.",
+        "pubt": 2021.0
+    },
+    "E00036539": {
+        "field": "化学",
+        "title": "Silver nanomaterials sensing of mercury ions in aqueous medium",
+        "score": [
+            55,
+            60
+        ],
+        "场景": "原评价",
+        "title_matched": "Silver nanomaterials sensing of mercury ions in aqueous medium",
+        "abstract": "Heavy metal ions pollution has become a critical issue around the world. In order to develop highly efficient and accurate nanosensor at low cost, the application of nanomaterials for inorganic toxic elements (e.g. Hg 2+ , Pb 2+ , Cd 2+ , Cr 6+ , As 3+ /As 5+ , Cu 2+ ) remediation and sensing has attracted significant attentions in academia and industry. In this review article, the application of Ag nanomaterials (Ag NMs) for colorimetric and fluorescent sensing of Hg 2+ ions in aqueous medium has been summarized. Two plausible mechanisms for Ag NMs sensing Hg 2+ ions have been proposed, namely, Hg 2+ oxidization Ag(0) of Ag NMs to form Ag/Hg amalgam, and Hg 2+ coordination with functional groups (e.g. -SH, -OH, -NH 2 , -COOH) of surface stabilizing organic molecules of Ag NMs. The resulted aggregation of Ag NMs, spectra shift of UV-vis absorption, as well as visual color changing have been utilized for the sensing of Hg 2+ in aqueous medium. Various organic, inorganic and nanomaterial stabilizers, particularly natural products from plant extracts, have been systematically summarized for developing commercially available field-test Ag NMs-based nanosensor with high sensitivity and selectivity.",
+        "pubt": 2021.0
+    },
+    "E00036540": {
+        "field": "化学",
+        "title": "Advanced Plasmonic Nanosensors for Monitoring of Environmental Pollutants",
+        "score": [
+            43,
+            30
+        ],
+        "场景": "原评价",
+        "title_matched": "Advanced Plasmonic Nanosensors for Monitoring of Environmental Pollutants",
+        "abstract": "Background Water is polluted daily with biological and chemical toxins that can seriously threaten human health, animals and ecosystems. The regular identification and monitoring of biological and chemical toxins in water resources are the first steps of the preventive method. The devices used in traditional detection methods such as adsorption and chromatography combined with mass spectrometry are not easy to transport for analysis and involve laborious preliminary sample preparation steps. However, the developments in nanosensors prepared with nanomaterials provide solutions to these challenges. Nanomaterials such as gold nanoparticles, graphene and quantum dots are often preferred for the surface preparation of plasmonic nanosensors for the selective, sensitive and label-free detection of very low concentrations of pollutants in water. Methods There are different plasmonic nanosensors such as electrochemical, colorimetric and optical sensors prepared using different nanomaterials for the determination of environmental pollutants. These serious nanosensors have many advantages and disadvantages. In this review, the use of different nanomaterials in different types of plasmonic nanosensors for the determination of environmental pollutants, their modifications and their effects on performance in terms of signal enhancement will also be discussed. Results When the studies in the literature are examined, although many articles have been published on the detection of pollutants in water, the number of publications specific to nanomaterial based plasmonic nanosensors for detection is quite limited. In this review, we focused on using different nanomaterials to prepare nanosensor surfaces for the detection of environmental pollutants and the preparation, optimization, experimental analysis and application areas of different plasmonic nanosensors made in the literature for detection methods. Conclusion Recently, nanomaterials such as gold nanoparticles, graphene and quantum dots have been preferred for the preparation of surfaces in plasmonic nanosensors. Nanomaterials have important plasmonic properties and are preferred for the selective, sensitive and label-free detection of trace pollutants in water. In studies conducted in the literature, it has been observed that environmental pollutants such as toxins, bacteria, heavy metal ions, and pesticides, especially in water, are determined and analyzed. In this review, it was observed that the low detection limit and sensitive and selective analyses were performed with nanomaterial-based nanosensors. The current review includes the preparation and application studies of nanomaterial based plasmonic nanosensors, especially for the detection and quantification of various trace pollutants in water.",
+        "pubt": 2023
+    },
+    "E00036557": {
+        "field": "化学",
+        "title": "Hydrogen production from renewable and sustainable energy resources: Promising green energy carrier for clean development",
+        "score": [
+            37,
+            23
+        ],
+        "场景": "原评价",
+        "title_matched": "Hydrogen production from renewable and sustainable energy resources: Promising green energy carrier for clean development",
+        "abstract": "Fossil fuel consumption in transportation system and energy-intensive sectors as the principal pillar of civilization is associated with progressive release of greenhouse gases. Hydrogen as a promising energy carrier is a perfect candidate to supply the energy demand of the world and concomitantly reduce toxic emissions. This article gives an overview of the state-of-the-art hydrogen production technologies using renewable and sustainable energy resources. Hydrogen from supercritical water gasification (SCWG) of biomass is the most cost effective thermochemical process. Highly moisturized biomass is utilized directly in SCWG without any high cost drying process. In SCWG, hydrogen is produced at high pressure and small amount of energy is required to pressurize hydrogen in the storage tank. Tar and char formation decreases drastically in biomass SCWG. The low efficiency of solar to hydrogen system as well as expensive photovoltaic cell are the most important barriers for the widespread commercial development of solar-based hydrogen production. Since electricity costs play a crucial role on the final hydrogen price, to generate carbon free hydrogen from solar and wind energy at a competitive price with fossil fuels, the electrical energy cost should be four times less than commercial electricity prices.",
+        "pubt": 2015.0
+    },
+    "E00036558": {
+        "field": "化学",
+        "title": "Photocatalytic Water Splitting: Quantitative Approaches toward Photocatalyst by Design",
+        "score": [
+            82,
+            89
+        ],
+        "场景": "原评价",
+        "title_matched": "Photocatalytic Water Splitting: Quantitative Approaches toward Photocatalyst by Design",
+        "abstract": "A widely used term, “photocatalysis”, generally addresses photocatalytic (energetically downhill) and photosynthetic (energetically uphill) reactions and refers to the use of photonic energy as a driving force for chemical transformations, i.e., electron reorganization to form/break chemical bonds. Although there are many such important reactions, this contribution focuses on the fundamental aspects of photocatalytic water splitting into hydrogen and oxygen by using light from the solar spectrum, which is one of the most investigated photosynthetic reactions. Photocatalytic water splitting using solar energy is considered to be artificial photosynthesis that produces a solar fuel because the reaction mimics nature’s photosynthesis not only in its redox reaction type but also in its thermodynamics (water splitting: 1.23 eV vs glucose formation: 1.24 eV). To achieve efficient photocatalytic water splitting, all of the parameters, though involved at different time scales and spatial resolutions, should be optimized because the overall efficiency is obtained as the multiplication of all these fundamental efficiencies. The purpose of this Review is to provide the guidelines of a concept, “photocatalysis by design”, which is the opposite of “black box screening”; this concept refers to making quantitative descriptions of the associated physical and chemical properties to determine which events/parameters have the most impact on improving the overall photocatalytic performance, in contrast to arbitrarily ranking different photocatalyst materials. First, the properties that can be quantitatively measured or calculated are identified. Second, the quantities of these identified properties are determined by performing adequate measurements and/or calculations. Third, the obtained values of these properties are integrated into equations so that the kinetic/energetic bottlenecks of specific properties/processes can be determined, and the properties can then be altered to further improve the process. Accumulation of knowledge ranging in fields from solid-state physics to electrochemistry and the use of a multidisciplinary approach to conduct measurements and modeling in a quantitative manner are required to fully understand and improve the efficiency of photocatalysis.",
+        "pubt": 2017
+    },
+    "E00036559": {
+        "field": "化学",
+        "title": "Semiconductor based nanomaterials for harvesting green hydrogen energy under solar light irradiation",
+        "score": [
+            31,
+            28
+        ],
+        "场景": "原评价",
+        "title_matched": "Semiconductor based nanomaterials for harvesting green hydrogen energy under solar light irradiation",
+        "abstract": "In this review, the evolution of hydrogen in a combined cell system of photoelectrocatalytic and microbial fuel is discussed. Hydrogen is used as chemical fuel and being produced through photoelectrocatalytic method. The semiconductor material was put into the water and irradiated with solar light. After that, the hydrogen is produced by different steps and accumulated. Production of hydrogen also takes place in a microbial fuel cell system. These are electrochemical devices that are initially used to treat the wastewater. But now, this cell has entered into a very interesting field of research which is Bioelectrochemical system (BES). BES produces hydrogen by using biomass as a catalyst and small consumption voltage rather than simple electrolysis of water. The first section explains how hydrogen can be produced individually by these two methods. Then, a comprehensive review is presented on the evolution of hydrogen by combining microbial fuel and photoelectrocatalytic cell system. The continuous production of hydrogen by using (PEC-MFC) hybrid device, sunlight and splitting of water and electro-hydro genesis of microbial cell in fusion device (PEC-MFC) are also reported. This method gives continuous production of hydrogen using wastewater under solar light and also gives the treatment of wastewater. It is a clean energy source and also fulfils today's demand for energy. At last, a review on the production of hydrogen by the microbial photoelectrochemical system is constructed by photocathode of semiconductor material and an anode of microbial. Production of hydrogen was continuously achieved without external voltage under ultraviolet irradiation.",
+        "pubt": 2019.0
+    },
+    "E00036560": {
+        "field": "化学",
+        "title": "ZnIn2S4-based photocatalysts for photocatalytic hydrogen evolution via water splitting",
+        "score": [
+            78,
+            73
+        ],
+        "场景": "原评价",
+        "title_matched": "ZnIn 2 S 4 -based photocatalysts for photocatalytic hydrogen evolution via water splitting",
+        "abstract": "Photocatalytic hydrogen evolution (PHE) via water splitting can effectively solve the current energy crisis and environmental pollution issues, in which the key factor is the development of advanced semiconductor photocatalysts. Zinc indium sulfide (ZnIn 2 S 4 ) has attracted extensive research interest in PHE application due to its excellent semiconductor properties, like nontoxicity, suitable band gap, and high stability. Promising hydrogen production rate in PHE have been achieved on the ZnIn 2 S 4 -based photocatalysts, in this review, basic semiconductor properties, mainly including crystal and band structures of ZnIn 2 S 4 are briefly introduced, and afterwards, the performance regulation of ZnIn 2 S 4 with morphology modulation, structure design, doping method, and vacancy engineering are then discussed. Subsequently, the approaches for cocatalysts loading and heterojunction construction to fabricate advanced ZnIn 2 S 4 -based photocatalysts, are reviewed in detail. Finally, some issues of ZnIn 2 S 4 -based photocatalysts need to be further solved are discussed, and prospects for developing advanced photocatalysts are provided.",
+        "pubt": 2022.0
+    },
+    "E00036527": {
+        "field": "化学",
+        "title": "Recent Progress on the Applications of Carbonaceous and Metal-Organic Framework Nanomaterials for Supercapacitors",
+        "score": [
+            79,
+            60
+        ],
+        "场景": "原评价",
+        "title_matched": "Recent Progress on the Applications of Carbonaceous and Metal-Organic Framework Nanomaterials for Supercapacitors",
+        "abstract": "Supercapacitors (SCs) have been widely investigated in the realm of energy resulting from their superior long lifespan and remarkable power density. However, their practical usage is limited because of the high effective resistance and relatively low energy density. Electrode material is crucial for determining the performance of SCs, so the innovation and development of advanced electrode materials is particularly important. Metal-organic frameworks (MOFs) and carbonaceous materials, including MOF-derived carbons and carbon nanotubes (CNTs), are befitting as electrode active materials for SCs on the strength of the unique features of high porosity, tunable structures, and easy formation of composites with other compounds. Hence, great efforts were devoted on the synthesis strategies and structural modifications of electrodes to enhance the performance of SCs. In this review, the recent innovations in the realm of SCs, including the application of pristine and derivatives of MOFs as SC electrode materials, were extensively studied. Furthermore, the functions and electrochemical performance of various MOFs and their derivatives (e.g., MOF-derived carbons) were analyzed accordingly. Lastly, the innovations and application of CNTs as SC electrode active materials are systematically summarized. This review highlights the electrochemical performance of some advanced MOF-and carbon-based materials, and the critical factors for SC electrode active materials to achieve excellent electrochemical performance in the application of energy storage systems.",
+        "pubt": 2021.0
+    },
+    "E00036528": {
+        "field": "化学",
+        "title": "Metal–Organic Framework-Derived Nanoporous Metal Oxides toward Supercapacitor Applications: Progress and Prospects",
+        "score": [
+            80,
+            81
+        ],
+        "场景": "原评价",
+        "title_matched": "Metal-Organic Framework-Derived Nanoporous Metal Oxides toward Supercapacitor Applications: Progress and Prospects",
+        "abstract": "Transition metal oxides (TMOs) have attracted significant attention for energy storage applications such as supercapacitors due to their good electrical conductivity, high electrochemical response (by providing Faradaic reactions), low manufacturing costs, and easy processability. Despite exhibiting these attractive characteristics, the practical applications of TMOs for supercapacitors are still relatively limited. This is largely due to their continuous Faradaic reactions, which can lead to major changes or destruction of their structure as well phase changes (in some cases) during cycling, leading to the degradation in their capacitive performance over time. Hence, there is an immediate need to develop new synthesis methods, which will readily provide stable porous architectures, controlled phase, as well as useful control over dimensions (1-D, 2-D, and 3-D) of the metal oxides for improving their performance in supercapacitor applications. Since its discovery in late 1990s, metal-organic frameworks (MOFs) have influenced many fields of material science. In recent years, they have gained significant attention as precursors or templates for the derivation of porous metal oxide nanostructures and nanocomposites for next-generation supercapacitor applications. Even though these materials have widespread applications and have been widely studied in terms of their structural features and synthesis, it is still not clear how these materials will play an important role in the development of the supercapacitor field. In this review, we will summarize the recent developments in the field of MOF-derived porous metal oxide nanostructures and nanocomposites for supercapacitor applications. Furthermore, the current challenges along with the future trends and prospects in the application of these materials for supercapacitors will also be discussed.",
+        "pubt": 2017.0
+    },
+    "E00036529": {
+        "field": "化学",
+        "title": "MnO2/Carbon Composites for Supercapacitor: Synthesis and Electrochemical Performance",
+        "score": [
+            80,
+            63
+        ],
+        "场景": "原评价",
+        "title_matched": "MnO 2 /Carbon Composites for Supercapacitor: Synthesis and Electrochemical Performance",
+        "abstract": "As an emerging energy storage device, the supercapacitor with high energy density, fast charging/discharging, and good cycle stability has aroused great interest. The performance of supercapacitors mainly depend on the electrode material. Manganese dioxide (MnO 2 ) has emerged as one of the most promising electrode materials for high theoretical specific capacitance, wide potential range, high electrochemical activity, and environmental friendliness. However, its deteriorated volume expansion and inherently low conductivity limit its development and application in supercapacitors. To circumvent the mentioned issues, the porous, thin film, or layered composite materials were prepared to enhance the electrical conductivity and specific surface area of MnO 2 . Carbon materials are the ideal choice to compound with MnO 2 owing to their low electrical resistance, significant thermal stability, large specific surface area, and porosity. Up to now, several kinds of MnO 2 /carbon composites as supercapacitor electrodes have been designed and fabricated. Herein, we give a concise review of the latest researches on MnO 2 /carbon supercapacitor electrodes, focusing on the fabrication strategies and analyzing the influencing factors of electrochemical performance of MnO 2 /carbon materials. An outlook on the possible development directions in future of designing high-performance MnO 2 /carbon materials for the current challenges is also provided.",
+        "pubt": 2020.0
+    },
+    "E00036530": {
+        "field": "化学",
+        "title": "Porous MgCo2O4 nanoflakes serve as electrode materials for hybrid supercapacitors with excellent performance",
+        "score": [
+            90,
+            82
+        ],
+        "场景": "原评价",
+        "title_matched": "Porous MgCo 2 O 4 nanoflakes serve as electrode materials for hybrid supercapacitors with excellent performance",
+        "abstract": "ÁMgCo 2 O 4 nanoflakes were prepared via a two-step synthetic method. ÁA highly specific capacity of 375.5 C g À1 at 1 A g À1 was obtained. Á74.9% rate capability was reached with current density increasing from 1 to 10 A g À1 . ÁThe HSC device delivered an energy density of 35.4 W h kg À1 at 950.6 W kg À1 .",
+        "pubt": 2022.0
+    },
+    "E00036477": {
+        "field": "化学",
+        "title": "Optimization of innovative composite sensor for Pb(II) detection and capturing from water samples",
+        "score": [
+            84,
+            91,
+            66
+        ],
+        "场景": "原评价",
+        "title_matched": "Optimization of innovative composite sensor for Pb(II) detection and capturing from water samples",
+        "abstract": "In developing countries, the lack of analytical infrastructures hindering the regular quality assessments of water quality. The access to affordable, portable and easy-to-use analytical technologies for real-time and on-site water monitoring is necessary to safeguard public health and protect the environment. In this connection, ligand based composite sensor material was successfully developed for optical detection and removal of toxic lead (Pb(II)) ion from water. The fabricated sensor was exhibited the specific functionality for Pb(II) detection and removal from aqueous media in ultra-trace level. The Pb(II) ion detection limit was defined as low as 0.24 µg/L with evolving specific color formation at optimum conditions. The solution acidity was the key point for the formation of specific color after addition of Pb(II) ion by the sensor material. The effect of diverse competing ions were not significantly affected in the Pb(II) ion detection. Moreover, the Pb(II) ion removal data were well fitted to the Langmuir model and the maximum adsorption capacity was 155.27 mg/g. The prepared sensor was completely eluted with 0.20 M HCl after optimum Pb(II) adsorption and then simultaneously regenerated into the initial form for the next detection and removal operation after rinsing with water. The performance of the sensor material platform provides an alternative way to detect Pb(II) ion in trace level in real-life water samples. In addition, the methodology can lead to an affordable and portable diagnostic tool for rapid and on-site monitoring of heavy metals pollution in developing countries.",
+        "pubt": 2025
+    },
+    "E00036478": {
+        "field": "化学",
+        "title": "Spectrophotometric analysis of selected metal ions using microwave assisted in situ complexation",
+        "score": [
+            60,
+            53,
+            62
+        ],
+        "场景": "原评价",
+        "title_matched": "Spectrophotometric analysis of selected metal ions using microwave assisted in situ complexation",
+        "abstract": "A novel spectrophotometric method has been developed for the analysis of cadmium, cobalt, copper, iron and lead. This method is based on microwave-assisted in-situ complexation of metals ions with a ligand formed by the reaction of phenol, sodium nitrite and streptomycin in an acidic medium. The method was applied for the analysis of a variety of real samples including pharmaceuticals and industrially important products such as batteries. In this work, the wavelength for each of the metal complexes was scanned in the range of 400-800 nm. Each of this reaction was carried out in acidic medium; however, the amount of acid was found to vary with variation in the nature of metal ions. The optimum pH was 2.8 for iron, 6.5 for lead, 5.0 for copper, 5.5 for cobalt and 5.6 for cadmium. Keeping in view the difference in coordination number and difference in reactivity of metals, each of the reagents such as phenol, sodium nitrite and streptomycin were optimised for each of the metals separately. All experimental conditions such as optimum concentration of reagents and microwave heating time were optimised. It was observed that the optimum concentration of phenol is 8.99 mg/L for cadmium, cobalt and iron while that for lead and copper was 7.99 mg/L and 3.99 mg/L, respectively. The amount of sodium nitrite was found the same for each of the metals. In case of streptomycin, the optimum concentrations for each of cadmium and cobalt were found to be 0.988 mg/L and that for lead and iron were 1.498 mg/L, and 0.",
+        "pubt": 2020.0
+    },
+    "E00036479": {
+        "field": "化学",
+        "title": "Determination of Lead with a Copper-Based Electrochemical Sensor",
+        "score": [
+            88,
+            82,
+            84
+        ],
+        "场景": "原评价",
+        "title_matched": "Determination of Lead with a Copper-Based Electrochemical Sensor",
+        "abstract": "This work demonstrates determination of lead (Pb) in surface water samples using a low-cost copper (Cu)-based electrochemical sensor. Heavy metals require careful monitoring due to their toxicity, yet current methods are too complex or bulky for point-of-care (POC) use. Electrochemistry offers a convenient alternative for metal determination, but the traditional electrodes, such as carbon or gold/platinum, are costly and difficult to microfabricate. Our copper-based sensor features a low-cost electrode materialcopperthat offers simple fabrication and competitive performance in electrochemical detection. For anodic stripping voltammetry (ASV) of Pb, our sensor shows 21 nM (4.4 ppb) limit of detection, resistance to interfering metals such as cadmium (Cd) and zinc (Zn), and stable response in natural water samples with minimum sample pretreatment. These results suggest this electrochemical sensor is suitable for environmental and potentially biological applications, where accurate and rapid, yet inexpensive, on-site monitoring is necessary.",
+        "pubt": 2017.0
+    },
+    "E00036480": {
+        "field": "化学",
+        "title": "Specific recognition, intracellular assay and detoxification of fluorescent curcumin derivative for copper ions",
+        "score": [
+            92,
+            90,
+            85
+        ],
+        "场景": "原评价",
+        "title_matched": "Specific recognition, intracellular assay and detoxification of fluorescent curcumin derivative for copper ions",
+        "abstract": "Recognition and excretion of metal ions play an important role in the diagnosis and treatment of various diseases and poisoning. Although copper (Cu) is a cofactor of many key enzymes in the human body, its accumulation caused by genetic ATP7B mutation or environmental pollution can lead to hepatotoxicity, renal failure, Wilson's disease, inflammation, and even Parkinson's disease (PD) and Alzheimer's disease (AD). Therefore, in this work, a difluoroboron curcumin derivative (DF-Cur) was used for the specific recognition of copper ions (Cu 2+ ). DF-Cur could be further used to as a rapid diagnostic agent for the copper detection in cells and zebrafish at the nanomolar level. DF-Cur could significantly reduce the toxic damage caused by high Cu 2+ dose. Inductively coupled plasma-mass spectrometry (ICP-MS) analysis indicated that DF-Cur could promote the excretion of copper ions in the urine and bile and reduce the accumulation of copper ions in vivo. In addition, DF-Cur could selectively detect cholesterol in the blood and adipose tissue in vivo by fluorescent staining. These results demonstrated that this molecule might represent a new and promising diagnostic and therapeutic agent to combat diseases related to copper ions accumulation.",
+        "pubt": 2021.0
+    },
+    "E00036467": {
+        "field": "化学",
+        "title": "Thirty years of density functional theory in computational chemistry: an overview and extensive assessment of 200 density functionals",
+        "score": [
+            86,
+            78
+        ],
+        "场景": "原评价",
+        "title_matched": "Thirty years of density functional theory in computational chemistry: an overview and extensive assessment of  density functionals",
+        "abstract": "In the past 30 years, Kohn-Sham density functional theory has emerged as the most popular electronic structure method in computational chemistry. To assess the ever-increasing number of approximate exchange-correlation functionals, this review benchmarks a total of 200 density functionals on a molecular database (MGCDB84) of nearly 5000 data points. The database employed, provided as Supplemental Data, is comprised of 84 data-sets and contains non-covalent interactions, isomerisation energies, thermochemistry, and barrier heights. In addition, the evolution of nonempirical and semi-empirical density functional design is reviewed, and guidelines are provided for the proper and effective use of density functionals. The most promising functional considered is ωB97M-V, a range-separated hybrid meta-GGA with VV10 nonlocal correlation, designed using a combinatorial approach. From the local GGAs, B97-D3, revPBE-D3, and BLYP-D3 are recommended, while from the local meta-GGAs, B97M-rV is the leading choice, followed by MS1-D3 and M06-L-D3. The best hybrid GGAs are ωB97X-V, ωB97X-D3, and ωB97X-D, while useful hybrid meta-GGAs (besides ωB97M-V) include ωM05-D, M06-2X-D3, and MN15. Ultimately, today's state-of-the-art functionals are close to achieving the level of accuracy desired for a broad range of chemical applications, and the principal remaining limitations are associated with systems that exhibit significant selfinteraction/delocalisation errors and/or strong correlation effects.",
+        "pubt": 2017.0
+    },
+    "E00036468": {
+        "field": "化学",
+        "title": "Using Quantum Mechanical Approaches to Study Biological Systems",
+        "score": [
+            75,
+            79
+        ],
+        "场景": "原评价",
+        "title_matched": "Using Quantum Mechanical Approaches to Study Biological Systems",
+        "abstract": "Quantum mechanics (QM) has revolutionized our understanding of the structure and reactivity of small molecular systems. Given the tremendous impact of QM in this research area, it is attractive to believe that this could also be brought into the biological realm where systems of a few thousand atoms and beyond are routine. Applying QM methods to biological problems brings an improved representation to these systems by the direct inclusion of inherently QM effects such as polarization and charge transfer. Because of the improved representation, novel insights can be gleaned from the application of QM tools to biomacromolecules in aqueous solution.",
+        "pubt": 2014.0
+    },
+    "E00036469": {
+        "field": "化学",
+        "title": "Application of quantum calculations in the chemical industry—An overview",
+        "score": [
+            92,
+            83
+        ],
+        "场景": "原评价",
+        "title_matched": "Application of Quantum Calculations in the Chemical Industry-An Overview",
+        "abstract": "The field of quantum chemistry experienced huge progress in the past two decades. The drivers for this have been the availability of more and more powerful computer hardware, the development and implementation of improved methods with a better balanced compromise between accuracy and efficiency, as well as pioneering work how these methods are successfully applied to real-world problems. Thus, quantum calculations, in particular via density functional theory, became an essential tool in many branches of chemical research. This article tries to give an overview how quantum chemical modeling is used in chemical industry, which is done by reviewing papers written by authors from chemical companies. Various topics of particular industrial relevance are introduced together with strategies how to address them via quantum calculations. Examples are the computation of reaction thermodynamics and kinetics as the key ingredients to understand and predict chemical reactivity, but also solvation models as well as methods to describe electronically excited states.",
+        "pubt": 2014.0
+    },
+    "E00036470": {
+        "field": "化学",
+        "title": "Interactive Quantum Chemistry Enabled by Machine Learning, Graphical Processing Units, and Cloud Computing",
+        "score": [
+            85,
+            84
+        ],
+        "场景": "原评价",
+        "title_matched": "Annual Review of Physical Chemistry Interactive Quantum Chemistry Enabled by Machine Learning, Graphical Processing Units, and Cloud Computing",
+        "abstract": "applications that assemble these components to create uniquely interactive platforms for computing and visualizing spectra, 3D structures, molecular orbitals, and many other chemical properties.",
+        "pubt": 2024.0
+    },
+    "E00036487": {
+        "field": "化学",
+        "title": "Synthesis, characterization and biological activity of Cu(II), Ni(II) and Zn(II) complexes of biopolymeric Schiff bases of salicylaldehydes and chitosan",
+        "score": [
+            45,
+            62
+        ],
+        "场景": "原评价",
+        "title_matched": "Synthesis, characterization and biological activity of Cu(II), Ni(II) and Zn(II) complexes of biopolymeric Schiff bases of salicylaldehydes and chitosan",
+        "abstract": "Schiff bases have been prepared from biopolymer chitosan and salicylaldehyde, 5-methoxysalicylaldehyde, and 5-nitrosalicylaldehyde. Ligands were synthesized in a 1:1.5 mol ratio, and their Cu(II), Ni(II) and Zn(II) complexes in a 1:1 mol ratio (ligand:metal). Ligands were characterized by 1 H NMR and FTIR, resulting in degrees of substitution from 43.7 to 78.7%. Complexes were characterized using FTIR, electronic spectra, XPRD. The compounds were confirmed by the presence of an imine bond stretching in the 1630-1640 cm -1 and νMetal-N and νMetal-O at <600 cm -1 . Electronic spectra revealed that both Cu(II) and Ni(II) complexes present a square plane geometry. The crystallinity values were investigated by X-ray powder diffraction. Thermal behavior of all compounds was evaluated by TGA/DTG and DTA curves with mass losses related to dehydration and decomposition, with characteristic events for ligand and complexes. Schiff base complexes presented lower thermal stability and crystallinity than the starting chitosan. Residues were the metallic oxides as confirmed by XPRD, whose amounts were used in the calculation of the percentage of complexed metal ions. Surface morphologies were analyzed with SEM-EDAX. Preliminary cytotoxicity tests were performed using MTT assay with HeLa cells. Despite the differences in solubility, the free bases presented relatively low toxicity.",
+        "pubt": 2016.0
+    },
+    "E00036488": {
+        "field": "化学",
+        "title": "Crystal structures, electrochemical properties, antioxidant screening and in vitro cytotoxic studies on four novel Cu(II) complexes of bidentate Schiff base ligands derived from 2-methoxyethylamine",
+        "score": [
+            45,
+            46
+        ],
+        "场景": "原评价",
+        "title_matched": "Crystal structures, electrochemical properties, antioxidant screening and in vitro cytotoxic studies on four novel Cu(II) complexes of bidentate Schiff base ligands derived from 2methoxyethylamine",
+        "abstract": "Four novel Schiff base ligands and their copper(II) complexes, [Cu(L 1 ) 2 ] (1), [Cu(L 2 ) 2 ] (2), [Cu(L 3 ) 2 ] (3), and [Cu(L 4 ) 2 ] (4), were synthesized and characterized by elemental analyses, FT-IR, and UV-Vis spectroscopy. The ligands were synthesized from the condensation of 2-methoxyethylamine with various salicylaldehyde derivatives (x-salicylaldehyde for HL n , x = H (n = 1), 5-Br (n = 2), 3-OMe (n = 3), and 4-OMe (n = 4)). The molecular structures of 1, 2, and 3 were determined by the single crystal X-ray diffraction technique. The redox behavior studies of the complexes in acetonitrile display the electronic effects of the groups on the redox potential. The antioxidant activity of the Schiff base ligands and their Cu(II) complexes was evaluated using the 1,1-diphenyl-2-picrylhydrazyl (DPPH) radical scavenging method and FRAP assay. Furthermore, the in vitro anticancer activity of compounds was screened, including MTT and migration assays against gastric cancer cell line (MKN-45). The results show that all ligands and complexes have antioxidant and anticancer activity in a concentration-dependent way.",
+        "pubt": 2017.0
+    },
+    "E00036489": {
+        "field": "化学",
+        "title": "A turn-off fluorescent probe for the detection of copper(II) ion based on a salicylaldehyde derivatives Schiff-base",
+        "score": [
+            60,
+            56
+        ],
+        "场景": "原评价",
+        "title_matched": "A turn-off fluorescent probe for the detection of copper(II) ion based on a salicylaldehyde derivatives Schiff-base",
+        "abstract": "A highly selective Schiff-type fluorescent probe (SY) with aggregation-induced emission (AIE) characteristics was synthesized based on salicylaldehyde derivatives. With increasing water content, it exhibits good sensitivity and interference resistance for the detection of Cu 2+ in mixed solvents (DMSO/H 2 O, v/v = 3:2), and uses a fluorescence burst mechanism to rapidly analyze Cu 2+ ions in aqueous media with a detection limit as low as 3.98 × 10 -8 M, which is well below the permissible standard for Cu 2+ (~20 µM) in drinking water (WHO). Importantly, the probe has been successfully applied to the determination of Cu 2+ in real water samples with good reversibility and recoveries ranging from 99.3% to 106.6% in tap water, and can also be used for the detection of Cu 2+ ions under 365 nm UV light. In addition, the coordination pattern of the probe with Cu 2+ was evaluated by mass spectrometry and working curves, and the stoichiometry of the probe and Cu 2+ ions was determined to be 2:1. In addition, density functional theory (DFT) was performed to help understand the electronic nature of SY and Cu 2+ complexation and chelation induced quenching mechanism.",
+        "pubt": 2023.0
+    },
+    "E00036490": {
+        "field": "化学",
+        "title": "Recent advances in 3d-block metal complexes with bi, tri, and tetradentate Schiff base ligands derived from salicylaldehyde and its derivatives: Synthesis, characterization and applications",
+        "score": [
+            46,
+            78
+        ],
+        "场景": "原评价",
+        "title_matched": "Recent advances in 3d-block metal complexes with bi, tri, and tetradentate Schiff base ligands derived from salicylaldehyde and its derivatives: Synthesis, characterization and applications",
+        "abstract": "Schiff bases have been of continued interest in coordination chemistry for a long time because they provide new ligand platforms that make reactivity easier and their metal complexes represent one of the most adaptable and well-established fields of research. Because of their numerous uses in analytical, pharmaceutical, organic, bioinorganic and metal catalysis, as well as material science, there is a notable interest in Schiff bases and their metal complexes. For these applications, the Schiff bases must have an azomethine group that can link with various metal ions. Recognizing the accessibility and simplicity of multidentate Schiff bases and related metal complexes, it is essential to investigate these compounds so that we can understand structure-property connections in an effort to maximize and enhance their applications in a variety of domains, such as catalysis, energy materials, supramolecular chemistry, electrochemistry, magnetism, nanoscience, and biological applications. This review underlines the current progress of bi, tri and tetradentate Schiff bases originating from salicylaldehyde and their derivatives having different donor sets of N and O-atoms and their complexes with 3d-block transition metal ions in addition to describing synthetic procedures and fascinating structures of complexes designed by the transition metals. The present review article is split into three core units, each consistent with Schiff bases having one type of denticity and their metal complexes including an outline of their synthesis, characterization and applications. The present paper containing 262 references would provide important knowledge for investigators which are concerned with this field and inspire them for further research in this attractive field of Schiff base complexes.",
+        "pubt": 2023.0
+    },
+    "E00036507": {
+        "field": "化学",
+        "title": "Reduction of Nitroarenes via Catalytic Transfer Hydrogenation Using Formic Acid as Hydrogen Source: A Comprehensive Review",
+        "score": [
+            60
+        ],
+        "场景": "原评价",
+        "title_matched": "Reduction of Nitroarenes via Catalytic Transfer Hydrogenation Using Formic Acid as Hydrogen Source: A Comprehensive Review",
+        "abstract": "The reduction of nitroarenes to the corresponding aromatic amines is one of the most popular reactions in organic synthesis with significant application in pharmaceutical and manufacture industry. In the last decades, many efforts have been devoted to the design highly effective, chemoselective, low-cost and eco-friendly protocols. In this sense, the reduction of nitroarenes via transfer hydrogenation using formic acid as hydrogen source has gained great relevance with tremendous advance over the last year as an attractive and competitive strategy to classical protocols. The efforts have mainly been focused on the discovery of efficient catalyst based on advanced mesoporous support material loaded with transition metals or metallic nanoparticles, the optimization conditions for non-supported catalyst as well as convenient energy source to achieve an efficient and selective catalytic transfer hydrogenation (CTH) at room temperature. In the present review, several examples of reduction of nitroarenes using formic acid are shown as well as a comprehensive discussion about the role of catalyst, energy source and mechanism of reaction in the transfer hydrogenation process.",
+        "pubt": 2020.0
+    },
+    "E00036508": {
+        "field": "化学",
+        "title": "A critical review on transition metal phosphide based catalyst for electrochemical hydrogen evolution reaction: Gibbs free energy, composition, stability, and true identity of active site",
+        "score": [
+            82
+        ],
+        "场景": "原评价",
+        "title_matched": "A critical review on transition metal phosphide based catalyst for electrochemical hydrogen evolution reaction: Gibbs free energy, composition, stability, and true identity of active site",
+        "abstract": "The current state of global green H 2 demand from water required an efficient and robust catalyst to mitigate greenhouse-gas emissions to the atmosphere. The transition metal phosphides (TMPs) based catalysts are found to be stand out an alternative to the state-of-art Pt/C catalysts for hydrogen evolution reaction (HER). However, systematic desertion is required to assess the recent development and progress towards TMPs based catalyst for HER for thoughtful knowledge to encourage the develop an efficient, robust, and durable catalyst. The current progress made to improve the efficiency, and durability of assynthesized TMPs based catalyst for HER, include nanostructure synthesis, integration with supports materials, and hybrid structure synthesis. The realization of the individual role of each constituting element of the TMPs-based catalyst is the fundamental pillar to develop an efficient electrocatalyst. Herein, an overview is presented of recent research progress on TMPs for electrochemical HER. The review elaborated on the fundamental aspect of HER kinetics at the TMPs-based catalyst surface, the effect of composition, and pH for 3d (Fe, Co, Ni, and Cu) to higher transition metal (Mo, W, Rh, Ru, Pd, Ir, and Pt) phosphide. The current review also systematically compiled an experimental and theoretical study on HER. Furthermore, we also highlight the urgent need for pre and post-analysis to evaluate the true identity active site and the durability of the TMPs. Finally, the conclusions are drawn with future opportunities and challenges for the development of transition TMPs based.",
+        "pubt": 2022.0
+    },
+    "E00036509": {
+        "field": "化学",
+        "title": "Recent Advances in Catalytic Transfer Hydrogenation with Formic Acid over Heterogeneous Transition Metal Catalysts",
+        "score": [
+            85
+        ],
+        "场景": "原评价",
+        "title_matched": "Recent Advances in Catalytic Transfer Hydrogenation with Formic Acid over Heterogeneous Transition Metal Catalysts",
+        "abstract": "Transition-metal-catalyzed transfer hydrogenation with an in situ hydrogen donor has received a great deal of attention from both academia and industry as an alternative to the traditional high-pressure-hydrogen process, owing to its better efficiency, atom economy, and sustainability features. Hydrogen stored in the chemical bonds of formic acid (FA), a promising hydrogen storage compound that could be derived from biomass or reduction of CO 2 , can be extracted selectively and used for diverse catalytic transformations. This Review summarizes and compares recent progress in catalytic transfer hydrogenation (CTH) via heterogeneous hydrogen transfer from FA. Transformations of biomass-derived platform chemicals (e.g., aromatic units, C5 and C6 sugars, furans, glycerol, fatty acids, levulinic acid (LA)), nitrogen-containing compounds (e.g., nitroarenes, quinolines), and organochlorinated compounds via transfer hydrogenation, hydrogenolysis, and hydrodechlorination (HDC) are outlined. Synthesis strategies of the heterogeneous metal catalysts (e.g., metal and support type, metal-support interaction, singleatom, alloy effect, and confinement effect) and optimization of the reaction conditions (e.g., temperature, solvents, additives, and FA dosages) for enhancing the catalytic activity and regulating the product distribution are presented. Structure-activity relationships based on both dehydrogenation and hydrogenation of metal catalysts as well as the mechanistic interpretation of CTH with FA are also highlighted. Finally, current challenges and outlook for the future development of the field are discussed.",
+        "pubt": 2021.0
+    },
+    "E00036510": {
+        "field": "化学",
+        "title": "Critical role of solvent-modulated hydrogen-binding strength in the catalytic hydrogenation of benzaldehyde on palladium",
+        "score": [
+            91
+        ],
+        "场景": "原评价",
+        "title_matched": "Critical role of solvent-modulated hydrogen_x0002_binding strength in the catalytic hydrogenation of \nbenzaldehyde on palladium",
+        "abstract": "Solvents not only disperse reactants to enhance mass transport in catalytic reactions but also alter the reaction kinetically. \nHere, we show that the rate of benzaldehyde hydrogenation on palladium differs by up to one order of magnitude in differ_x0002_ent solvents (dioxane < tetrahydrofuran < water < methanol). However, the reaction pathway does not change; the majority \nof turnovers occurs by stepwise addition of sorbed hydrogen to sorbed benzaldehyde, first to the carbonyl oxygen and then to \nthe carbon atom of the formyl group, forming benzyl alcohol. An analysis of the solvation energies shows that both ground and \ntransition states are destabilized by the solvents compared to those at the gas–solid interface. The destabilization extent of \nthe reacting organic substrates in both states are similar and, therefore, compensate each other, making the net kinetic effects \ninconsequential. Instead, the marked reactivity differences arise only from the differences in the solvation of sorbed hydrogen.",
+        "pubt": 2021.0
+    },
+    "E00036497": {
+        "field": "化学",
+        "title": "Macromolecular materials based on the application of the Diels–Alder reaction to natural polymers and plant oils",
+        "score": [
+            78
+        ],
+        "场景": "原评价",
+        "title_matched": "Macromolecular materials based on the application of the Diels-Alder reaction to natural polymers and plant oils †",
+        "abstract": "The furan/meleimide thermally-reversible Diels-Alder reaction applied to the elaboration of novel macromolecular materials from renewable resources is reviewed on the basis of our investigations, which cover predominantly the field to this date.",
+        "pubt": 2017.0
+    },
+    "E00036498": {
+        "field": "化学",
+        "title": "Aliphatic Polyester Block Polymers: Renewable, Degradable, and Sustainable",
+        "score": [
+            89
+        ],
+        "场景": "原评价",
+        "title_matched": "Aliphatic Polyester Block Polymers: Renewable, Degradable, and Sustainable",
+        "abstract": "Nearly all polymers are derived from nonrenewable fossil resources, and their disposal at their end of use presents significant environmental problems. Nonetheless, polymers are ubiquitous, key components in myriad technologies and are simply indispensible for modern society. An important overarching goal in contemporary polymer research is to develop sustainable alternatives to \"petro-polymers\" that have competitive performance properties and price, are derived from renewable resources, and may be easily and safely recycled or degraded. Aliphatic polyesters are particularly attractive targets that may be prepared in highly controlled fashion by ring-opening polymerization of bioderived lactones. However, property profiles of polyesters derived from single monomers (homopolymers) can limit their applications, thus demanding alternative strategies. One such strategy is to link distinct polymeric segments in an A-B-A fashion, with A and B chosen to be thermodynamically incompatible so that they can self-organize on a nanometerlength scale and adopt morphologies that endow them with tunable properties. For example, such triblock copolymers can be useful as thermoplastic elastomers, in pressure sensitive adhesive formulations, and as toughening modifiers. Inspired by the tremendous utility of petroleum-derived styrenic triblock copolymers, we aimed to develop syntheses and understand the structure-property profiles of sustainable alternatives, focusing on all renewable and all readily degradable aliphatic polyester triblocks as targets. Building upon oxidation chemistry reported more than a century ago, a constituent of the peppermint plant, (-)-menthol, was converted to the ε-caprolactone derivative menthide. Using a diol initiator and controlled catalysis, menthide was polymerized to yield a low glass transition temperature telechelic polymer (PM) that was then further functionalized using the biomass-derived monomer lactide (LA) to yield fully renewable PLA-PM-PLA triblock copolymers. These new materials were microphase-separated and could be fashioned as high-performing thermoplastic elastomers, with properties comparable to commercial styrenic triblock copolymers. Examination of their hydrolytic degradation (pH 7.4, 37 °C) revealed retention of properties over a significant period, indicating potential utility in biomedical devices. In addition, they were shown to be useful in pressure-sensitive adhesives formulations and as nucleating agents for crystallization of commercially relevant PLA. More recently, new triblocks have been prepared through variation of each of the segments. The natural product α-methylene-γbutyrolactone (MBL) was used to prepare triblocks with poly(α-methylene-γ-butyrolactone) (PMBL) end blocks, PMBL-PM-PMBL. These materials exibited impressive mechanical properties that were largely retained at 100 °C, thus offering application advantages over triblock copolymers comprising poly(styrene) end blocks. In addition, replacements for PM were explored, including the polymer derived from 6-methyl caprolactone (MCL). In sum, success in the synthesis of fully renewable and degradable ABA triblock copolymers with useful properties was realized. This approach has great promise for the development of new, sustainable polymeric materials as viable alternatives to nonrenewable petroleum-derived polymers in numerous applications.",
+        "pubt": 2014.0
+    },
+    "E00036499": {
+        "field": "化学",
+        "title": "Recent Developments and Future Challenges in Controlled Radical Polymerization: A 2020 Update",
+        "score": [
+            81
+        ],
+        "场景": "原评价",
+        "title_matched": "Recent Developments and Future Challenges in Controlled Radical Polymerization: A 2020 Update",
+        "abstract": "This perspective summarizes the latest exciting developments in controlled radical polymerization during the last decade (2010-2020). Our focus is to critically highlight strengths and weaknesses of recent achievements and portray how these discoveries have expanded the scope of tailor-made polymeric materials. Our perspective on remaining future challenges and where we expect the field to grow toward in the next decade will also be discussed.",
+        "pubt": 2020.0
+    },
+    "E00036500": {
+        "field": "化学",
+        "title": "From monomers to polymers from renewable resources: Recent advances",
+        "score": [
+            76
+        ],
+        "场景": "原评价",
+        "title_matched": "From monomers to polymers from renewable resources: Recent advances",
+        "abstract": "Considering the state of affairs related to polymers and their applications, the plasticdependence of the modern society is evident and becomes now needless to mention. Together with that, the exhaustive discussion about the quick depletion of petroleum resources and the obvious alternative that lies on the great versatility of renewable feedstocks, it is clear that the most recent efforts should be -and are -directed to design more sustainable polymers to replace the classic ones. This review aims to offer a panoramic overview of the recent progress, but mainly of the broad possibilities that are still available in the hands of researchers working on this topic.",
+        "pubt": 2015.0
+    }
+}
